@@ -1,0 +1,905 @@
+[
+  {
+    "id": "02bc5ed5-d0dc-42f4-8ff6-32ba0066a06e",
+    "title": "第六章计数原理",
+    "content": "",
+    "children": [
+      {
+        "id": "80ba4afe-065f-49fb-bdc7-d45a30225757",
+        "title": "6.1分类加法计数原理与分步乘法计数原理",
+        "content": "",
+        "children": [
+          {
+            "id": "f6fb1b66-7197-44a5-a357-ed78eb82e106",
+            "title": "分类加法计数原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "449d8216-2cbc-4d02-9ea9-f062397c2fd2",
+            "title": "分步乘法计数原理及简单应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4ae6b575-3eab-4c69-b1c1-1e68cf40a513",
+            "title": "判断事件计数的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "24da25e7-8108-4112-a4e3-05e89ae4bca1",
+        "title": "6.2 排列与组合",
+        "content": "",
+        "children": [
+          {
+            "id": "2509bca1-55e8-4608-b9b6-921cdba3fde5",
+            "title": "6.2.1 排列",
+            "content": "",
+            "children": [
+              {
+                "id": "b2bc2dd5-909e-4b42-aa36-972e49a3a943",
+                "title": "排列的意义理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a1033ff7-a7ed-4ac3-ad3e-1784e7000a22",
+            "title": "6.2.2 排列数",
+            "content": "",
+            "children": [
+              {
+                "id": "a8d65c8b-b978-40c7-932c-d00a684e0cf6",
+                "title": "排列数的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "91903a9d-c4a6-4d4e-9546-f8db465c9463",
+                "title": "用排列数公式证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8b5111df-d795-49c3-9402-55041bef89bb",
+                "title": "排列数方程和不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c90007bc-c993-46fc-a6aa-4aa96b8455b9",
+            "title": "6.2.3 组合",
+            "content": "",
+            "children": [
+              {
+                "id": "c9f2d093-0a24-431f-8103-eb9849452295",
+                "title": "组合意义理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "2099e006-a173-4f01-b349-822e7468e938",
+            "title": "6.2.4 组合数",
+            "content": "",
+            "children": [
+              {
+                "id": "ae2a1355-cff3-4ca7-8e21-da8e97389b1c",
+                "title": "排列（数）与组合（数）的区别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "491b8e37-64e3-4a65-aee4-eb464a311e4c",
+                "title": "组合数的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "725c18d6-a146-4906-994e-c4007b673595",
+                "title": "利用组合数公式证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c6f3c2f9-850f-44d6-aaf2-06c324805bbd",
+                "title": "组合数方程和不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "098e97c9-e8a5-4b70-9af8-375b389e095d",
+                "title": "组合数的性质及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "56a40643-687c-4a68-b4a9-ff122a364bc5",
+        "title": "6.3二项式定理",
+        "content": "",
+        "children": [
+          {
+            "id": "d551d606-7f0f-4204-86fe-3f0b26587ed9",
+            "title": "6.3.1 二项式定理",
+            "content": "",
+            "children": [
+              {
+                "id": "8d3965f7-67e5-4aea-860f-5b140f35bfc6",
+                "title": "求二项展开式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2276c3f7-edc9-4b27-8e57-cb33e853cf61",
+                "title": "二项展开式的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a0d60305-a5b7-4b0b-a302-ad0c3edca218",
+                "title": "求二项展开式的第k项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "92691953-7195-48f3-8d87-026a508aa50e",
+                "title": "根据二项式的第k项求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1ead1547-8052-4224-89bb-6f1726f3ff05",
+                "title": "多项式的展开式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "be0e6e51-9727-4140-b1c4-7ff690630a41",
+            "title": "6.3.2 二项式系数的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "919fa8c0-1eae-48b5-b5a5-daa681079946",
+                "title": "求指定项的二项式系数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f276fd26-eb09-4c14-9874-abc0bfde163f",
+                "title": "二项式系数的增减性和最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b6cb26b9-73ad-492f-9a65-73ceae394ada",
+                "title": "二项式的系数和",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1d323e1d-d9fe-4d24-a4ed-1183c273941e",
+                "title": "求指定项的系数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bbdcd8d5-ec50-4bef-ac33-0833f7f20c33",
+                "title": "求有理项或其系数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "88b7f1dd-c5cd-490a-92da-777dc868f0bb",
+                "title": "由项的系数确定参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c57d587a-8a02-4def-b1c6-72d442d02ea4",
+                "title": "二项展开式各项的系数和",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "54421453-e967-46eb-96b1-8ffffb10dd7c",
+                "title": "求系数最大（小）的项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8b83a5ab-4a46-4b64-a6d8-78b2ae5368fd",
+                "title": "奇次项与偶次项的系数和",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f694e76-d9a2-4011-ab13-54640b93ef65",
+                "title": "三项展开式的系数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ea8fd963-110b-4240-b0d2-63733b69e9a7",
+                "title": "两个二项式乘积展开式的系数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "58d94f55-53f8-4e51-8b65-8aa8f775f7c3",
+                "title": "由二项展开式各项系数和求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "eb26d758-3727-42c5-89b3-c61f6d1b5ce6",
+    "title": "数学探究",
+    "content": "",
+    "children": [
+      {
+        "id": "c10e4809-4978-4699-b1b1-c5f232b468b8",
+        "title": "杨辉三角的性质与应用",
+        "content": "",
+        "children": [
+          {
+            "id": "73220c39-a0cf-4959-b872-a32359636bce",
+            "title": "杨辉三角",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "2712259c-6a58-4ebb-ae28-621c43e519ac",
+    "title": "第七章 随机变量及其分布",
+    "content": "",
+    "children": [
+      {
+        "id": "d106dc5d-e81d-4bba-8f4e-bcaa7739a2ae",
+        "title": "7.1条件概率与全概率公式",
+        "content": "",
+        "children": [
+          {
+            "id": "a551141f-ee0b-4c00-b2d0-bbad686e200d",
+            "title": "7.1.1 条件概率",
+            "content": "",
+            "children": [
+              {
+                "id": "8abcc21f-60cb-4d70-bd01-0178a5df511d",
+                "title": "计算条件概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8baecc46-cda1-4b12-860c-520714f3a12d",
+                "title": "条件概率性质的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "13879636-ad85-4d56-b713-611c44c31f05",
+            "title": "7.1.2 全概率公式",
+            "content": "",
+            "children": [
+              {
+                "id": "a0a3f0bc-d75a-45df-8bf1-c91452b26f48",
+                "title": "利用全概率公式求概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d46a8bd1-b7b8-4b5c-a6b1-4e756b977649",
+                "title": "利用贝叶斯公式求概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "86a3bba5-a54f-4753-a635-d2bd9b5b2141",
+        "title": "7.2 离散型随机变量及其分布列",
+        "content": "",
+        "children": [
+          {
+            "id": "9ddd7a1f-8efa-40bd-ab7f-797abd42d9dd",
+            "title": "写出简单离散型随机变量分布列",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c51c41a0-9965-4a54-98a8-27f063efeae9",
+            "title": "利用随机变量分布列的性质解题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f5690a90-f884-4f57-8215-c520079ad401",
+            "title": "由随机变量的分布列求概率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d825adeb-3dff-40d0-b1f2-bd12ebc51ca8",
+            "title": "两点分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0c16270a-722b-462e-91ba-7e883e093d9f",
+        "title": "7.3离散型随机变量的数字特征",
+        "content": "",
+        "children": [
+          {
+            "id": "c62bf5a8-d483-420c-9f16-dc20d9849cd2",
+            "title": "7.3.1离散型随机变量的均值",
+            "content": "",
+            "children": [
+              {
+                "id": "6fe4c4ba-78c3-4665-a2a6-887b1bf5c4d2",
+                "title": "求离散型随机变量的均值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dc9b0778-54a7-4f11-b3fa-69351af91b55",
+                "title": "均值的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c96bd709-ce9d-4d01-81b0-36922bca1e7c",
+                "title": "由离散型随机变量的均值求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ce0b7566-01b7-4da7-9ca8-4468b84029cf",
+                "title": "超几何分布的均值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "29fde94f-69d3-4da3-a06e-01f094dec680",
+                "title": "两点分布的均值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "94fcdbfe-2e76-4a1d-91a9-c4f400b2c05d",
+            "title": "7.3.2离散型随机变量的方差",
+            "content": "",
+            "children": [
+              {
+                "id": "ee8e32f5-b989-4a6e-9f98-6345e9febd38",
+                "title": "离散型随机变量的方差与标准差",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2cfc3ca0-5398-4f6b-af0a-d2611b072db0",
+                "title": "方差的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b6e8302f-c149-4a30-9423-fa2d0212a728",
+                "title": "方差的期望表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c944fc95-9513-4505-ae8b-78c5cef27eca",
+        "title": "7.4 二项分布与超几何分布",
+        "content": "",
+        "children": [
+          {
+            "id": "c0abd44f-de16-46d5-bb1a-ca47130dcfd3",
+            "title": "7.4.1 二项分布",
+            "content": "",
+            "children": [
+              {
+                "id": "576fec49-16d2-4044-9ba4-54d71d8b8155",
+                "title": "二项分布的均值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8cfbe08e-5e9e-4438-bb58-69638133d861",
+                "title": "利用二项分布求分布列",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "67766a0a-7203-4881-8746-2dd09194eb46",
+                "title": "服从二项分布的随机变量概率最大问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "aa603bc5-8ad3-4d99-bcd0-8b31e5e18b4c",
+                "title": "建立二项分布模型解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "046f52b0-edeb-424c-9469-8a627504b806",
+            "title": "7.4.2超几何分布",
+            "content": "",
+            "children": [
+              {
+                "id": "e8003818-840d-4226-bb4f-095d4bb64e6e",
+                "title": "超几何分布的均值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "30b64378-e13b-4b4e-ac47-ccdd7b79da56",
+                "title": "超几何分布的方差",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1fc8e4f2-aecc-49eb-b31d-f72507a04259",
+        "title": "7.5 正态分布",
+        "content": "",
+        "children": [
+          {
+            "id": "9dc3e93a-dec0-45ce-b599-b7fb82c928e6",
+            "title": "正态密度函数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "926cb4a0-ae61-4c16-b6e5-2523a09a876c",
+            "title": "概率分布曲线的认识",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5c37c9a9-bd30-420d-8805-a2c81f223d6b",
+            "title": "正态曲线的性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "08204bf2-84d2-45ea-8140-7a20bfb26a07",
+            "title": "标准正态分布的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e743a38f-abd3-4943-a916-4489ce660c62",
+            "title": "特殊区间的概率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1fa19bbe-62e7-454b-9d5f-82ffe249c680",
+            "title": "指定区间的概率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d6e34e67-6b26-462d-bb60-287538223ffe",
+            "title": "正态分布的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b55b9dd0-31c5-4c65-a631-6f1aa238d645",
+            "title": "根据正态曲线的对称性求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41fe8d0c-391d-4494-af11-c491092235d9",
+            "title": "3δ原则",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "55c44019-f1e4-4f74-a88d-39abe57ae494",
+    "title": "第八章 成对数据的统计分析",
+    "content": "",
+    "children": [
+      {
+        "id": "575e904b-66df-46b9-a8a0-827b1d2bc654",
+        "title": "8.1 成对数据的统计相关性",
+        "content": "",
+        "children": [
+          {
+            "id": "47dccac6-a7e5-4587-8c7b-fc9e22e5b03f",
+            "title": "8.1.1 变量的相关关系",
+            "content": "",
+            "children": [
+              {
+                "id": "75583205-60d5-40bf-ab46-223f3940a64a",
+                "title": "相关关系与函数关系的概念及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0a57e7d3-f60a-43a1-91be-6a8e42b97e13",
+                "title": "判断两个变量是否有相关关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e92a237d-f1d7-471b-8b7e-571f2eaa7a1c",
+                "title": "判断正、负相关",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "925cc7c4-5e93-436f-b861-da88de8a3136",
+            "title": "8.1.2 样本相关系数",
+            "content": "",
+            "children": [
+              {
+                "id": "17f2b6de-767e-4a75-b18b-674ab59296ad",
+                "title": "相关系数的意义及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7aa46ba0-7950-4168-8ec0-a4b36bda6c18",
+                "title": "相关系数的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "77925c48-d793-4c6a-8150-83454ba8da52",
+                "title": "残差的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e98e17c0-ed6d-48f2-a58b-b4e73dc42d1b",
+                "title": "相关指数的计算及分析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0fab18bb-7c5d-479b-b886-d1f00107c167",
+                "title": "非线性回归",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "625b1826-f6a3-49b7-afff-aca0b82619aa",
+        "title": "8.2 一元线性回归模型及其应用",
+        "content": "",
+        "children": [
+          {
+            "id": "0477cba0-2b43-4fdf-91fb-99116930731d",
+            "title": "8.2.1 一元线性回归模型",
+            "content": "",
+            "children": [
+              {
+                "id": "1658975b-53b5-4ee6-aa36-f6546ea3bcdb",
+                "title": "绘制散点图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b6220052-9dbe-4a32-9072-7eea67001f5d",
+                "title": "根据散点图判断是否线性相关",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "79e5aec2-753b-4e61-b4ba-ac7c8f7b9315",
+                "title": "由散点图画求近似回归直线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bd9ee084-63c5-454d-809e-78dc65d530be",
+                "title": "解释回归直线方程的意义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "09d2d153-4f37-4924-9c57-1924b0838177",
+                "title": "用回归直线方程对总体进行估计",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ee62564d-e87a-40fe-afcb-32f3211f6490",
+                "title": "根据回归方程求原数据中的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0fb11c67-d1f7-4bc4-93c6-82706504d578",
+                "title": "计算样本的中心点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ee487bf5-2d54-47e1-9314-bcc0062729bb",
+                "title": "根据回归方程进行数据估计",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c2debe3b-b71a-4330-81a8-1fff7aaace8f",
+                "title": "根据样本中心点求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "66401b87-c619-41df-8384-b2362463b46a",
+            "title": "8.2.2 一元线性回归模型参数的最小二乘估计",
+            "content": "",
+            "children": [
+              {
+                "id": "c6e881c0-4eac-4c34-b574-12648db6001f",
+                "title": "求回归直线方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7f31a8c3-2955-4678-b687-a38f517ca227",
+                "title": "最小二乘法的概念及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "3a21abaf-3f9f-4a62-9bfd-7b69fad13d37",
+        "title": "8.3 列联表与独立性检验",
+        "content": "",
+        "children": [
+          {
+            "id": "d4ff5476-a28d-4eed-8454-2e75b26347a8",
+            "title": "8.3.1 分类变量与列联表",
+            "content": "",
+            "children": [
+              {
+                "id": "eca819b4-8024-4029-9336-34d080baa718",
+                "title": "完善列联表",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "960c4bea-ecb4-463e-a013-d1b91b7c1a66",
+                "title": "列联表分析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6c3434ae-c178-44ae-8863-080243b441c0",
+                "title": "等高条形图",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "32c3a2fa-4b3e-47fe-9a86-40aef44d1d78",
+            "title": "8.3.2 独立性检验",
+            "content": "",
+            "children": [
+              {
+                "id": "482f9819-41a9-4cbd-9637-7bbe8f2affec",
+                "title": "独立性检验的概念及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "41055d7d-7d03-4364-bf42-b12b98dbb48c",
+                "title": "卡方的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bcf9c2c0-90d3-4a5d-92f8-cc6c174552b2",
+                "title": "独立性检验的基本思想",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1f78a100-7189-4e6e-b174-ebd36a04dff4",
+                "title": "独立性检验解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "7839d95b-5176-496a-bd81-bed70022aeed",
+    "title": "数学建模",
+    "content": "",
+    "children": [
+      {
+        "id": "f8540545-422c-4373-b06d-e97e705ea3f6",
+        "title": "建立统计模型进行预测",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

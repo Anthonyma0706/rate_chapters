@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "67bef6bb-6935-4cbf-a86a-43c187230999",
+    "title": "第一章 有理数",
+    "content": "",
+    "children": [
+      {
+        "id": "267b81db-1a3f-44eb-a340-8a55620df103",
+        "title": "1.1 正数和负数",
+        "content": "",
+        "children": [
+          {
+            "id": "81753ec3-4d00-43cb-ae34-263f560663e6",
+            "title": "正负数的定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "db781156-32bf-4a7e-80ca-e1dd2ce41db9",
+            "title": "相反意义的量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "529111de-5336-4479-99c9-028638ee7fd6",
+            "title": "正负数的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a54f647c-51b0-43dc-9132-92082e5e9c53",
+        "title": "1.2 有理数",
+        "content": "",
+        "children": [
+          {
+            "id": "3d587568-2cbb-4c37-ae62-8301818d1bec",
+            "title": "1.2.1 有理数",
+            "content": "",
+            "children": [
+              {
+                "id": "4e54d35a-0a14-4646-829d-cc3291ff4681",
+                "title": "有理数的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "aad0912e-7349-43f0-b30e-e810d685f587",
+                "title": "0的意义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a7be31cf-4187-4dbd-aec1-ddf8013d7e5f",
+                "title": "有理数的分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6ffe2492-3a29-4a48-97f8-46be354b79f1",
+                "title": "带“非”字的有理数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "7db52fa4-c3f7-4134-aad9-38e3aca61a1d",
+            "title": "1.2.2 数轴",
+            "content": "",
+            "children": [
+              {
+                "id": "b2663ecc-2d34-493d-bf69-6361913b7eb7",
+                "title": "数轴的三要素及其画法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "065bd7a7-e173-4f40-8c61-9412374103ce",
+                "title": "用数轴上的点表示有理数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5d5d2db7-9621-4791-9c55-a0add6c3d3a2",
+                "title": "利用数轴比较有理数的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "808dd3ea-9725-4109-84a7-b6b45f43c75c",
+                "title": "数轴上两点之间的距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e8bff896-a8f7-42f8-b01f-6a3b84c427e4",
+                "title": "根据点在数轴的位置判断式子的正负",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0dbda4fd-675f-4c8c-940b-b3530427e85a",
+                "title": "数轴上点的平移（动点问题）",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "87ed381a-264e-436f-b199-700d291ea366",
+            "title": "1.2.3 相反数",
+            "content": "",
+            "children": [
+              {
+                "id": "318547c3-cd65-49fd-bee6-a802588009d5",
+                "title": "相反数的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2f652df6-07b5-4591-b5ff-db555a5aaee5",
+                "title": "化简多重符号",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f7e1416-6da4-4913-b9ab-e0f0ada78c5b",
+                "title": "相反数的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "0b59d07c-4d5c-4517-8e97-048b33f364d9",
+            "title": "1.2.4 绝对值",
+            "content": "",
+            "children": [
+              {
+                "id": "1fa9be0f-2273-43c0-9650-2e5caf69786f",
+                "title": "绝对值的几何意义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d9f92018-c4ad-4058-9a3a-fde8c902ff7d",
+                "title": "求一个数的绝对值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "821661d2-74a4-475a-b1eb-429e7fdfcb3e",
+                "title": "带有字母的绝对值化简问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e992ad7-4814-46f1-a48f-9ec8d4d4ba5a",
+                "title": "绝对值非负性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "65601d8e-3b1d-498f-b2ea-46e9fc9e4412",
+                "title": "绝对值方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fe430859-0957-4b8d-b1a3-327dd99bac80",
+                "title": "绝对值的其他应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b723e75c-c52b-4daa-849d-4d2cc681432d",
+                "title": "有理数大小比较",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fef32206-bc0e-4d7a-b636-78569a0a5295",
+                "title": "有理数大小比较的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "19277a1c-ebbf-4ee7-99c6-0bb86221f843",
+        "title": "1.3 有理数的加减法",
+        "content": "",
+        "children": [
+          {
+            "id": "4aaf69b2-fd73-447c-890b-35d486e5f71f",
+            "title": "1.3.1 有理数的加法",
+            "content": "",
+            "children": [
+              {
+                "id": "b3420f84-42b4-42a8-9e20-868803600af0",
+                "title": "有理数加法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f423dac-c6fe-45bc-a1de-21d5b263985e",
+                "title": "有理数加法中的符号问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4ca0b101-e2e7-4d68-8eb1-f4e25cb2cef8",
+                "title": "有理数加法在生活中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3f4fc001-5678-4318-99f5-21e2b2881d9f",
+                "title": "有理数加法运算律",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "63a3f80e-c216-4888-91f6-1bcd6b57bd0f",
+            "title": "1.3.2 有理数的减法",
+            "content": "",
+            "children": [
+              {
+                "id": "9c741c91-a9f6-42aa-b33e-8843d905ad88",
+                "title": "有理数的减法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ee63c515-81dc-4968-a817-82d2f55ab12c",
+                "title": "有理数减法的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "256dd8f8-4220-4273-9470-c50ca3b26a17",
+                "title": "有理数的加减混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "41fd0750-3971-430a-877d-099d34559cb9",
+                "title": "有理数加减中的简便运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "27818e81-79e5-44c8-a3bb-bd88e0ec2f3c",
+                "title": "有理数加减混合运算的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f98ab73e-6cfc-41a3-8555-fc0e68b3e9c4",
+        "title": "1.4 有理数的乘除法",
+        "content": "",
+        "children": [
+          {
+            "id": "d724246e-2d93-48c9-8a31-5f711d0fef5a",
+            "title": "1.4.1 有理数的乘法",
+            "content": "",
+            "children": [
+              {
+                "id": "4726ceb3-0b8a-44a8-a05f-79a6aa4a291e",
+                "title": "两个有理数的乘法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7e514a4f-ebd0-40f8-aa2f-79e85c3d69d6",
+                "title": "多个有理数的乘法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a7476dc3-e81d-4d54-bff6-8c042daeb665",
+                "title": "有理数乘法的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "12d336f4-ded6-43d1-bf9c-d9aa018d7d3e",
+                "title": "倒数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7b208994-cccb-4979-90f7-2bc20593f6d9",
+                "title": "有理数乘法运算律",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d971eceb-937e-435b-a578-5979573ba6ed",
+            "title": "1.4.2 有理数的除法",
+            "content": "",
+            "children": [
+              {
+                "id": "29327113-f077-40a7-a744-def8bb985896",
+                "title": "有理数的除法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1c6b006b-ac80-4f2e-b23a-1fd5df2ee157",
+                "title": "有理数除法的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a891488f-0112-47b9-96bc-f9ffe04c85f2",
+                "title": "有理数乘除混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "fb2963c9-7414-4d24-b6fd-bfa9444dd3ec",
+        "title": "1.5 有理数的乘方",
+        "content": "",
+        "children": [
+          {
+            "id": "343f91d3-559b-410a-8be6-bbcab2efdfa2",
+            "title": "1.5.1 乘方",
+            "content": "",
+            "children": [
+              {
+                "id": "40ae6b2f-c643-4843-9678-8ec3c9cbd501",
+                "title": "有理数幂的概念理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "acfc3374-ef13-4a5a-8d82-d17ebb68b474",
+                "title": "有理数的乘方运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1cc87bad-d1af-4489-961c-896a40ce5fba",
+                "title": "有理数乘方逆运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "de0fbc8c-d96b-48f2-8adb-d14a387c1f79",
+                "title": "乘方运算的符号规律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "96e8b4e3-f380-4a9a-ae63-f82da7c5dee6",
+                "title": "乘方的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "de41c139-7028-46bf-85cd-3eb96d1f82be",
+                "title": "有理数四则混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61e355a4-1cea-4980-94d6-78d8b97d9332",
+                "title": "有理数四则混合运算的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6718bcdd-81a2-4245-8450-e656f60c21e0",
+                "title": "程序流程图与有理数计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a3050baf-7ef8-417b-b1c4-482588148a31",
+                "title": "算“24”点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9d50100b-92b9-42f6-a50b-a265adf25d94",
+                "title": "含乘方的有理数混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "288f7792-bdd8-47b7-a518-01deefdd6b8c",
+                "title": "计算器——有理数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ec79d221-d3f6-4dbe-bf15-05318dd4a86c",
+            "title": "1.5.2 科学记数法",
+            "content": "",
+            "children": [
+              {
+                "id": "319fa556-316a-4a4f-9bfa-9e1e37a6f4e2",
+                "title": "用科学记数法表示绝对值大于1的数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b2db9280-33e3-4167-9891-cc4dafba2178",
+                "title": "将用科学记数法表示的数变回原数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "2f4447be-f166-4165-b056-001ad6ba3a73",
+            "title": "1.5.3 近似数",
+            "content": "",
+            "children": [
+              {
+                "id": "5819d447-0a0e-435e-b545-0a5b2acf74bf",
+                "title": "求一个数的近似数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "099e2fd6-69f0-43a5-9dc7-dc7b6da21fbb",
+                "title": "求近似数的精确度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a1b14f02-1f71-46f8-b20b-236396909b27",
+                "title": "近似数推断取值范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "f7200a60-9071-4e13-811c-5e4654ec7a46",
+    "title": "第二章 整式的加减",
+    "content": "",
+    "children": [
+      {
+        "id": "f3bcc271-06a7-4bdf-841c-be9649554949",
+        "title": "2.1 整式",
+        "content": "",
+        "children": [
+          {
+            "id": "aa6de15d-7abd-4782-b4fc-fba849cb8074",
+            "title": "单项式的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a7e8b82b-7c59-4958-9601-979e4b8f6708",
+            "title": "单项式的系数、次数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b1a4b766-a298-4d37-ba14-cb575cdde9f2",
+            "title": "写出满足某些特征的单项式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3aabab74-e368-48cb-b2e6-a79b669feece",
+            "title": "单项式规律题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f80682f9-89af-46d7-943a-4e5c9fec839b",
+            "title": "多项式的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e60f1282-b598-43a5-9646-9e8a74273c80",
+            "title": "多项式的项、项数或次数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f72fe59-43bd-42cc-a491-88fb61374400",
+            "title": "多项式系数、指数中字母求值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dacc2bdc-4d57-4ff4-b35e-2556fe35b790",
+            "title": "将多项式按某个字母升幂（降幂）排列",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ac9b91ce-d782-4588-8ea7-0f2a40b1f7bc",
+            "title": "整式的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "111e4964-d580-441f-acef-b727c40c2520",
+            "title": "数字类规律探索",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c4efe3d3-9885-41fb-bc38-ad92eb4b8214",
+            "title": "图形类规律探索",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6f7adf30-4a72-4035-8f67-c223c23d8649",
+            "title": "用字母表示数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca41ccc0-3ea0-4ed4-a585-71b172ec97c0",
+            "title": "列代数式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "517341c2-0c74-4618-855b-d49335504782",
+            "title": "用代数式表示数、图形的规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f4c8e033-1265-4ba9-8ab2-ee7e819a2d14",
+            "title": "代数式的概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bf0cde48-8a42-419c-acfe-ecfdd51fdd5e",
+            "title": "代数式书写方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7d8d61d5-c950-40f3-afbf-91f8727c9941",
+            "title": "代数式表示的实际意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "2a66c02a-d79c-4f7e-a066-ffd0bd91d8a2",
+        "title": "2.2 整式的加减",
+        "content": "",
+        "children": [
+          {
+            "id": "29355191-efe4-44a2-a069-12969aab5e2e",
+            "title": "同类项的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6aed8ce0-8d7f-40d2-b8f9-8ab50a2e3b24",
+            "title": "已知同类项求指数中字母或代数式的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d625e905-90b9-4414-a501-f9f7cefcf22d",
+            "title": "合并同类项",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e857abee-2f35-4574-a641-9ed0a91d3ead",
+            "title": "去括号",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "584bbd2a-68c6-4447-9417-0f25b7a19f34",
+            "title": "添括号",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6fcd994b-3ef4-4d8a-aa9c-e99af216213c",
+            "title": "整式的加减运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "511ca3db-3182-4ae2-9899-4e9376899710",
+            "title": "整式的加减中的化简求值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3ed5658a-6273-4dba-b8b6-db33c6756e42",
+            "title": "整式加减中的无关型问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "814a0054-688b-4bf5-b4ec-4919650f7d66",
+            "title": "整式加减的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f0e8b46-4e62-4efa-9f7c-b81372a03c7d",
+            "title": "已知字母的值 ，求代数式的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2a48ba78-5e4d-452f-941e-0f52438312cd",
+            "title": "已知式子的值，求代数式的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "1a3abf52-d921-401b-81ef-2b9f61b9f1e4",
+    "title": "第三章 一元一次方程",
+    "content": "",
+    "children": [
+      {
+        "id": "ce9b11da-077a-4c58-866b-f95314560562",
+        "title": "3.1 从算式到方程",
+        "content": "",
+        "children": [
+          {
+            "id": "a7cd6246-3ca0-46d4-842d-4504546c4aa8",
+            "title": "3.1.1 一元一次方程",
+            "content": "",
+            "children": [
+              {
+                "id": "fcc53941-4976-4027-857d-7b144d975fad",
+                "title": "判断各式是否是方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a0f06152-8de5-4955-b938-e56429081f32",
+                "title": "列方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8febc694-ab96-4bce-8dee-cd7e10b7e864",
+                "title": "一元一次方程的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61025570-bb60-4344-be91-26877a7fb05d",
+                "title": "方程的解",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a13d4023-99f6-4c80-bed6-57cdb010b22a",
+            "title": "3.1.2 等式的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "05b125ef-7118-4736-8103-5028524df9b2",
+                "title": "等式的性质1",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b3888ea9-b35a-4eb3-a9d3-3e1183807d05",
+                "title": "等式的性质2",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5fab8360-f0a7-4e3c-b153-399f5f43fd52",
+        "title": "3.2 解一元一次方程(一)——合并同类项与移项",
+        "content": "",
+        "children": [
+          {
+            "id": "6c5d46f7-d699-4c31-bd33-0d39678a2e29",
+            "title": "解一元一次方程（一）——合并同类项与移项",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "29c5e0b9-b39a-4745-b8a8-1e363bdd6530",
+        "title": "3.3 解一元一次方程(二)——去括号与去分母",
+        "content": "",
+        "children": [
+          {
+            "id": "dca4a187-05d9-489c-a2f4-6cd4ac7a2988",
+            "title": "解一元一次方程（三）——去分母",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7ca18660-b405-449d-a747-8cf20e28b97f",
+            "title": "解一元一次方程（二）——去括号",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "de9b3ac5-d0f5-4296-928c-089c5c259fd9",
+            "title": "一元一次方程解的综合应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "7bf880f6-1b4d-48e4-ab7d-c9cdc18bd764",
+        "title": "3.4 实际问题与一元一次方程",
+        "content": "",
+        "children": [
+          {
+            "id": "1b1189f1-3079-4666-9c72-425d2d1e43e4",
+            "title": "配套问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "645f54cc-fe74-4cde-bc22-26871989dfa4",
+            "title": "工程问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bdf20ae3-c4a3-4e63-97f9-76788b9b07cf",
+            "title": "销售盈亏(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cca9c583-a6cc-439d-9ad9-acd72d8f9354",
+            "title": "比赛积分(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a27df10c-5bb4-4364-9e25-3eb171a4ccd3",
+            "title": "方案选择(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "869ce5cb-934c-4519-bb2b-3520e94f9e4e",
+            "title": "数字问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b36eb266-7508-42e0-9ae0-809ea63c2f06",
+            "title": "几何问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f314ce70-0dbc-43bd-adaa-4265992aabe5",
+            "title": "动点问题（一元一次方程的应用）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7633663d-35ec-4719-81b4-eaf6fbb2f721",
+            "title": "和差倍分问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1f9cef85-330b-4fdd-8681-1f96c542d5fa",
+            "title": "电费和水费问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a19a4e0f-858e-4681-b45f-5fa225af3c13",
+            "title": "行程问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "defac330-48bf-4117-a001-8878f091ecac",
+            "title": "比例分配(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "287c3f98-35e0-4db9-a977-847ff7178e0e",
+            "title": "日历问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "28c67436-e603-41b7-8693-dddb2ee29ca0",
+            "title": "其他问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7defd667-9b9d-4acf-a834-68e78afdb4d8",
+            "title": "古代问题(一元一次方程的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "5ca5485d-f93a-4e88-834e-dc6d13c736cc",
+    "title": "第四章 几何图形初步",
+    "content": "",
+    "children": [
+      {
+        "id": "64c9e0f2-5391-4b10-9032-77a86afde3b8",
+        "title": "4.1 几何图形",
+        "content": "",
+        "children": [
+          {
+            "id": "a7254ae1-af39-41e0-82a9-2e47ec4612ba",
+            "title": "4.1.1 立体图形与平面图形",
+            "content": "",
+            "children": [
+              {
+                "id": "979be2e8-149f-4396-a419-45e870c8936c",
+                "title": "常见的几何体",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "023ccecc-d64c-46dd-acce-a90cdba723b1",
+                "title": "组合几何体的构成",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e96e7148-d8c9-4ddb-9f3e-651de02b2122",
+                "title": "立体图形的分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "434bdf59-cd1e-450b-9518-04cb0c562542",
+                "title": "几何体中的点、棱、面",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ffafd44e-0457-423e-876f-cde7ec0eac6c",
+                "title": "从不同方向看几何体",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f292857-63fb-4593-ab06-0e1101ed2554",
+                "title": "几何体展开图的认识",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8b57880f-fe62-461d-859f-f452087fd597",
+                "title": "由展开图计算几何体的表面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8c4d9b1e-0a4c-4706-9ee6-69b76e500742",
+                "title": "由展开图计算几何体的体积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2d788b26-4e23-4cc2-8da9-bd578ba755e5",
+                "title": "正方体几种展开图的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "08d26e6c-df22-4fd9-8fd2-a443b1abb4dc",
+                "title": "正方体相对两面上的字",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5b95969f-1bdc-4fab-b42e-ea7343917b75",
+                "title": "含图案的正方体的展开图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "85d7fe9c-37aa-4222-9c5a-004549ea34d1",
+                "title": "求展开图上两点折叠后的距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "32a72f30-0583-4a34-a51c-6fdef1c6d0cb",
+                "title": "补一个面使图形围成正方体",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dc3017cf-2df1-45f7-a489-2acd880110d7",
+                "title": "平面图形形状的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e95047d3-2227-44b4-992b-7ca142e166a8",
+                "title": "用七巧板拼图形",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b724ad0d-63a5-42d9-bc8c-292e02a67cdc",
+            "title": "4.1.2 点、线、面、体",
+            "content": "",
+            "children": [
+              {
+                "id": "a10b95a2-6878-40da-b723-4fae4274dd11",
+                "title": "点、线、面、体四者之间的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dcfb92be-ef0d-4eb3-af53-41d62fc73a12",
+                "title": "平面图形旋转后所得的立体图形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "68d2c384-fd3e-45db-9b13-3f51dad10a91",
+                "title": "截一个几何体",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "381ffd66-48d1-4afb-9fdd-f7c56768bc97",
+        "title": "4.2 直线、射线、线段",
+        "content": "",
+        "children": [
+          {
+            "id": "57693763-8da5-412f-9fb9-b564ecb54733",
+            "title": "直线、射线、线段的联系与区别",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "18d86aba-ab6e-410a-b525-170f63d7c9e4",
+            "title": "画出直线、射线、线段",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fb171ddd-4547-4137-b9e0-c18f333588a3",
+            "title": "点与线的位置关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b4111f9d-3e18-45c8-a39b-86c0a435aca2",
+            "title": "直线、线段、射线的数量问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6b62fd14-5dd3-45bc-bf03-eaa492f44188",
+            "title": "直线相交的交点个数问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "570b1e53-517b-4263-a62e-de136a5f11fc",
+            "title": "线段的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c897b503-ac9e-4380-95a4-6b70a021e4c2",
+            "title": "两点确定一条直线",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3ad4648f-5827-4f2a-8c07-fd5a44e70f6a",
+            "title": "作线段(尺规作图)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "91fea670-061f-4939-a3a1-c2c7ca6fa8de",
+            "title": "线段的和与差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d597d0b5-151f-446d-a510-cd0b46cae18b",
+            "title": "线段中点的有关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "669a4da5-953b-46c5-9b47-f2a0e09b3071",
+            "title": "线段n等分点的有关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4b8e745c-3537-4810-9864-84d8e13980f6",
+            "title": "线段之间的数量关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "761a8057-8b56-42fb-8128-f308a6d01960",
+            "title": "与线段有关的动点问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5fe13f9f-30ae-43cb-ab6e-6a30b4a1b932",
+            "title": "两点之间线段最短",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5aba2f65-dce3-4bea-aa4c-35ff803795a7",
+            "title": "两点间的距离",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5a12c2d5-4611-492a-9aac-4416d09a6679",
+        "title": "4.3 角",
+        "content": "",
+        "children": [
+          {
+            "id": "9ac2d092-c6c1-4d9f-8f5e-5d6dd6693b24",
+            "title": "4.3.1 角",
+            "content": "",
+            "children": [
+              {
+                "id": "4aa0199b-20d3-45cc-9fb0-c7285bf57233",
+                "title": "角的概念理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "490fd13d-7ab0-4397-a059-a2ecb5bed42e",
+                "title": "角的表示方法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "82ba14a5-a3a1-4773-9932-6dfb071f6586",
+                "title": "角的分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a2da0b61-dbe1-4279-94ad-e74e55a6aed3",
+                "title": "画特殊角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "310a850d-acfb-41fb-b9e9-b2575c69f8eb",
+                "title": "钟面角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "77bd0ff7-4736-4a98-ad44-5f04d1fd9e29",
+                "title": "方向角的表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "647c4236-7c40-4130-8720-6b80b94f76c5",
+                "title": "与方向角有关的计算题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "645b4a52-1958-49e5-a8b5-0bd59b75eb83",
+            "title": "4.3.2 角的比较与运算",
+            "content": "",
+            "children": [
+              {
+                "id": "b7cae933-27d1-4001-beb1-f8598baea28d",
+                "title": "角的比较",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5542c288-c09f-4b1f-8f33-96eadb68f3e6",
+                "title": "三角板中角度计算问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "810c6123-34be-48fb-acd7-dcdb06971b2d",
+                "title": "几何图形中角度计算问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f54cad3c-6ddc-4da1-b2d7-b50351a6b037",
+                "title": "角度的四则运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9d439ba9-e7b2-4736-afc3-a54a17260d91",
+                "title": "实际问题中角度计算问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b77d45aa-1dd7-44ff-b9e4-0c573b6f3efb",
+                "title": "角平分线的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d19020b9-3956-487e-a6f9-e44f8f2b6ab5",
+                "title": "角n等分线的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d5ff1e14-4132-4b25-b877-a4ac023fdd7d",
+                "title": "角的单位与角度制",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6956f3a4-4f01-4f58-8aa6-6e2ca91ac5bb",
+                "title": "角的度数大小比较",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b4c42add-71f6-4765-a77a-3f94866809fa",
+            "title": "4.3.3 余角和补角",
+            "content": "",
+            "children": [
+              {
+                "id": "f3195acb-4cae-4904-a826-0dcda193e614",
+                "title": "求一个角的余角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9ff023e0-6a59-47c9-b36a-f4035b727e56",
+                "title": "求一个角的补角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4c6b487f-82ed-4098-b9df-56499bb8bd21",
+                "title": "与余角、补角有关的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "91b4168f-e66d-4ffb-9ad0-7c0c5c8d9f69",
+                "title": "同(等)角的余(补)角相等的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "11d792c3-3857-4cab-9073-e58c211d243d",
+        "title": "4.4 课题学习  设计制作长方体形状的包装纸盒",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

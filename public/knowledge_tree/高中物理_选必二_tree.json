@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "ae1f04b1-1e9d-44ef-89d4-2a9527e43a48",
+    "title": "第一章 安培力与洛伦兹力",
+    "content": "",
+    "children": [
+      {
+        "id": "1265bb77-3f04-40dc-92bb-1784cbb84195",
+        "title": "1. 磁场对通电导线的作用力",
+        "content": "",
+        "children": [
+          {
+            "id": "b941b2db-6701-42b7-a4b3-c8d2d3877aca",
+            "title": "两根通电导线之间的作用力方向",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "71b7b043-afac-425f-93ed-36969ba7ed61",
+            "title": "通电导线在磁场中的作用力方向",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dd3c1ec3-426a-426a-8e9c-ba3b72e30b93",
+            "title": "判断通电直导线在磁场中的运动趋势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "48a6c547-585e-46d2-8d60-aaeda3e3e5c8",
+            "title": "磁电式电流表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "223a1f1a-5cd7-44ec-abc0-244db168228a",
+            "title": "磁力矩",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "af369cec-810c-4d51-9f91-eaf9ba70684b",
+            "title": "安培力的计算式及简单应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "00a3a6c1-6746-489f-995e-a1fcee62d4a5",
+            "title": "计算非直导线的安培力大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "765f61b1-f67d-402b-9f8f-53099d8a7f39",
+            "title": "计算安培力的冲量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "70c1a035-51be-43e8-9b8a-abb9b9e65b62",
+            "title": "斜轨道上的导体棒受力分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "83d078ad-2a62-4530-935f-cd00a1a9455c",
+            "title": "电磁炮",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "49e62c5d-9974-480c-af24-e82947dbe876",
+            "title": "直流电动机",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7906b204-b7b4-4dec-8854-11bd22bac410",
+            "title": "左手定则的内容及简单应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d2e3cb3b-fdc0-4345-8a79-95f3b4cae348",
+        "title": "2. 磁场对运动电荷的作用力",
+        "content": "",
+        "children": [
+          {
+            "id": "2aa94f76-7614-4e3a-980d-55de949422ee",
+            "title": "洛伦兹力的方向",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7bab08a3-d47a-4ed9-887c-739eea28768b",
+            "title": "洛伦兹力的公式及简单计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2725d150-aacf-4740-ad56-4874f55e5426",
+            "title": "推导洛伦兹力与安培力的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "88fe705f-35dc-4587-a484-16d1adef19e0",
+            "title": "电子束的磁偏转",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3e4e7d5a-4cf8-42c4-9896-5eba3fd1bb57",
+            "title": "电磁流量计的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "da925f4b-4308-4bd8-9847-b09f3782ecdd",
+            "title": "电磁流量计的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fc5e6dd4-e1b3-4413-a32f-786ad89600b0",
+            "title": "霍尔效应的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d3ed8452-dfc0-4e2c-a027-ab21552021a4",
+            "title": "霍尔效应的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fc6ac7c9-943c-46a9-8879-cbcabb2649da",
+            "title": "霍尔元件的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "aa171c73-84da-4e70-9e40-ab057e1a21bb",
+        "title": "3. 带电粒子在匀强磁场中的运动",
+        "content": "",
+        "children": [
+          {
+            "id": "132e3c4c-bd06-4555-bb68-24d3ebabb8cb",
+            "title": "带电粒子在匀强磁场中的圆周运动：半径与周期公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "53993a9d-64bb-4d80-a8f1-11b20ed47bc9",
+            "title": "带电粒子在磁场中做圆周运动的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9b0a4508-291b-4895-93a3-3a5430f176f8",
+            "title": "带电粒子在直导线周围的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "638e19a6-3d17-4a5b-9329-046000e21ee5",
+            "title": "带电微粒（计重力）在磁场中的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "835fe9ef-a1fb-42eb-8011-0bca74819c1c",
+            "title": "带电粒子在直边界磁场中运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1a4d26e2-c417-468b-af19-f800b34f267e",
+            "title": "带电粒子在弧形边界磁场中运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0608922c-f6da-49a3-b987-7252779a4c5a",
+            "title": "根据粒子运动确定磁场区域的范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2c9642a0-5db1-4fb7-87f5-5963d2a23fe2",
+            "title": "带电粒子电性不确定形成的多解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3c7f4015-a170-402c-b79a-2b48172902e7",
+            "title": "磁场方向的不确定形成的多解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c6b114f7-cd95-4ed7-b716-895c0331b21e",
+            "title": "临界状态的不唯一形成多解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "36ee5557-2853-49cd-a8df-709390aa9ad4",
+            "title": "带电粒子在交变磁场中的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d3b9c6a8-7b93-42be-b6e0-c1fb1265f6c4",
+        "title": "4. 质谱仪与回旋加速器",
+        "content": "",
+        "children": [
+          {
+            "id": "1200bc6d-65a2-4754-8364-5bde62d86410",
+            "title": "速度选择器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4958a2a2-2104-4901-81f9-087e373aae0a",
+            "title": "基于加速电场的质谱仪",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "70e38a15-02a1-4f8c-a31c-d0a89f621fb4",
+            "title": "基于速度选择器的质谱仪",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bba78781-2dc5-49bc-a6a2-8cefb76f6d61",
+            "title": "三维质谱仪",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4fdd27da-8826-422e-998a-62238a25e01c",
+            "title": "磁流体发电机的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "caad4479-f69e-4e31-ac7f-b9c923a50be7",
+            "title": "磁流体发电机的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cd6dfc03-8931-4682-983c-dc7559970e89",
+            "title": "回旋加速器的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ec598144-7079-4a81-8c61-e2cba751788c",
+            "title": "粒子在回旋加速器中的最大动能",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b2ac0af8-f446-4285-a79a-6c35c0c663c5",
+            "title": "粒子在回旋加速器中的运动时间",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4905a430-63a3-48a4-9738-8836fc48388e",
+            "title": "回旋加速器中电场变化的周期和磁感应强度的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "94037f47-52ce-4353-9cd2-22a486047f4e",
+            "title": "回旋加速器的综合计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f78d26ed-3a32-4c3a-ae75-ee3b611e49a0",
+            "title": "粒子由磁场进入电场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4398ba7f-e0c2-4379-9385-95a6015ac2e6",
+            "title": "粒子由电场进入磁场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "263e3077-62e9-40d7-a135-bd734d9516a5",
+            "title": "粒子在电场和磁场中的往复运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e6d2e8c4-4af5-4b71-a954-39569582a544",
+            "title": "带电粒子在叠加场中做直线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cb385789-3c98-4730-a230-0031c9c36ad8",
+            "title": "带电粒子在叠加场中做匀速圆周运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c543f047-100c-40e5-bca4-c5a3c9209082",
+            "title": "带电粒子在叠加场中的变速圆周运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1f90b783-dcb5-41db-b5a6-048ce1ab4536",
+            "title": "带电粒子在叠加场中做旋进运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6dc102df-b4f2-4373-b1b0-ac55fde5822a",
+            "title": "带电粒子在叠加场中的一般曲线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3788a675-60dc-4e1f-9719-731b405b0d11",
+            "title": "电视显像管的工作原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f08cf805-6ac1-41ff-bed8-8b2c848cf049",
+            "title": "带电粒子在交变磁场中的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b7218075-da41-4144-bf27-ce90a04a7fcd",
+            "title": "带电粒子在组合场中含动量问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3cb4ba74-8225-42c2-8673-7c27a8f474dc",
+            "title": "带电粒子在叠加场中含动量问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "ae6a11f6-1453-4d05-b0b9-4537401023cc",
+    "title": "第二章 电磁感应",
+    "content": "",
+    "children": [
+      {
+        "id": "ea344e01-c732-48b4-956d-031d8be49182",
+        "title": "1. 楞次定律",
+        "content": "",
+        "children": [
+          {
+            "id": "bc6b7d8a-4d54-48ee-b427-7025fa90fd6f",
+            "title": "右手定则的表述",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c496c0e6-13d2-4d10-acfb-8ef46683989d",
+            "title": "判断导体切割磁感线中的电流方向",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c878b746-d38d-4d9d-865c-6b1d545a3701",
+            "title": "右手定则的灵活应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1a426de0-e650-48d6-893d-5359009248c2",
+            "title": "楞次定律的表述",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e344d6f3-aaff-44c2-b073-6cb281b17587",
+            "title": "增反减同",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4a6e1123-0802-4add-a9d5-62eedeebd08b",
+            "title": "来拒去留",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "975d29a0-a5b9-4bfd-8a04-81c394041a43",
+            "title": "增缩减扩",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a61e27dd-3b40-488e-8954-217cf0de0178",
+            "title": "楞次定律重要结论的推广应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "35bdbbe3-1c43-4a42-83a0-6e756c6f1674",
+            "title": "探究影响感应电流方向的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9474804b-42d2-47a6-8a22-3735027557b7",
+        "title": "2. 法拉第电磁感应定律",
+        "content": "",
+        "children": [
+          {
+            "id": "50a5ced3-a35a-419b-ad77-8e0eaf63f87e",
+            "title": "磁通量的变化量与变化率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "456bb267-b427-4ece-86c5-49223ea0588c",
+            "title": "导体棒平动切割磁感线产生的动生电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cd25f8c2-617d-440d-aff6-1ff2bc4b6973",
+            "title": "含有导体棒切割磁感线的电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0ec3ab18-c8fa-4045-bf08-06d5a8530c85",
+            "title": "线圈穿过磁场边界的电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f1657830-1e5e-4db2-adbb-ceda2287d2fd",
+            "title": "已知磁感应强度随时间的变化的关系式求电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "954cd517-2c01-4a38-85f5-2dc88d6977e6",
+            "title": "由B-t图象计算感生电动势的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ba72c740-1734-49c8-bc3c-a382aa7da508",
+            "title": "感生电动势产生的环形电场对小球的加速作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2209b3ff-dbfa-4cb0-9e65-77fc8ea0fb00",
+            "title": "感生电动势与动生电动势并存",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "09d72bc5-429b-462e-893a-d21a18b4b759",
+            "title": "线框进出磁场产生的等效电路相关计算（E、I、F、U、P）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9f95c2c3-3b23-4cdb-a4a2-783566adb1ce",
+            "title": "描绘线框两点间电势差的U-t图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fb926629-6cc3-4805-bb17-21271104fc46",
+            "title": "描绘线框进出磁场区域的I-t图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b90abe61-831b-4550-88f9-707cd3d023ee",
+            "title": "判断线框进出磁场区域的a-t图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a3e615b4-cf39-4f0d-bf9d-639d62041a60",
+            "title": "求线框进出磁场时电阻上生热",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "33db4d93-41cd-4088-8540-18dc178da11e",
+            "title": "求线框进出磁场时通过导体截面的电量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f6c1b731-5512-4bd4-b392-718f677eda9b",
+            "title": "作用的导体棒在导轨上运动的电动势、安培力、电流、路端电压",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "46b4d4ae-1f74-42a8-8c0f-0d7f73f1daa9",
+            "title": "导体棒进出磁场区域的加速度变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b89d74f0-c183-4b4e-b310-aff901211489",
+            "title": "计算导轨切割磁感线电路中产生的热量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f65f09fc-bb03-4be4-b678-6de132269cf1",
+            "title": "求导体棒运动过程中通过其截面的电量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a57fee07-bd46-4a7d-94e8-96acae3d6376",
+            "title": "根据I-t图象判断导体棒的运动情况",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "51f7f0c8-c846-4a0e-83ac-9aabc014c013",
+            "title": "导体棒在不受拉力时运动的位移与速度的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9dcc3085-998f-4006-8e30-f3c53f95295d",
+            "title": "双杆在等宽导轨上运动问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a884382b-5720-424f-8c40-954b1b36da24",
+            "title": "双杆在不等宽导轨上运动问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0cfc3080-64b4-4487-9cde-c71b21ddb777",
+            "title": "导体棒转动切割磁感线产生的动生电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bc1a7b20-43d0-4384-8d83-3e3225a50e8a",
+            "title": "法拉第电磁感应定律的表述和表达式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "03d0a1a5-8755-4eb1-a143-fd5a73323dd2",
+            "title": "求导体棒运动时间、或某力作用时间或者某个恒力大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "89b0c0a9-6683-4aab-885e-5354a7985623",
+        "title": "3. 涡流、电磁阻尼和电磁驱动",
+        "content": "",
+        "children": [
+          {
+            "id": "5d0df56e-b2fb-4c15-ba35-49252335fbf1",
+            "title": "涡流的原理、应用与防止",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1f26756d-6b21-4f4c-ba13-864c59c39c89",
+            "title": "电磁灶的结构和原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "442c4caf-be70-4329-987e-33db55866ea9",
+            "title": "安检警报器结构和原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b4f4ff19-467c-4aab-94d9-64ee71d216ea",
+            "title": "电磁阻尼与电磁驱动的理解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0588b3bb-04ad-4c6a-aed5-15687f81fe3e",
+            "title": "磁场主动运动时的驱动力和变化趋势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c55f5f24-4a5a-45ba-a203-7baca6864740",
+            "title": "导体框在方向交替变化的运动磁场中的运动情况及能量转化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "903211e1-04b2-4cfc-85ea-f37ff8a47908",
+            "title": "电磁驱动原理的其他应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4d6fd9a3-7add-4a79-b820-ac86cd1b3e19",
+        "title": "4. 互感和自感",
+        "content": "",
+        "children": [
+          {
+            "id": "6f852044-81af-4bf0-9b64-94a2768350ec",
+            "title": "自感和自感电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f138906d-0760-40fa-a253-3c0aaa39fc03",
+            "title": "线圈的自感系数及其决定因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e11422ae-0259-463d-93a8-aabed57c83e2",
+            "title": "根据公式计算自感电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b98ef7d2-6ddb-4281-851c-7f91cca49f4e",
+            "title": "含自感线圈的电路闭合及断开后电流的变化及其图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6bf8b949-6e00-483d-a646-c80685f64aa5",
+            "title": "分析含自感线圈的电路小灯泡能否闪亮的原因",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "08565ac8-d699-47a7-b077-a146370b4342",
+            "title": "日光灯镇流器的原理和作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d5dc60da-6e97-49e0-856a-258d962013ad",
+            "title": "互感",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "50f7674a-7d33-421f-b60c-ad9184f96ad3",
+    "title": "第三章 交变电流",
+    "content": "",
+    "children": [
+      {
+        "id": "cff8be09-1d79-4c8d-a3ed-0d219af5a5e4",
+        "title": "1. 交变电流",
+        "content": "",
+        "children": [
+          {
+            "id": "7fe2b244-64a7-4dd5-a2d3-7c5aed63a092",
+            "title": "交流发电机原理和示意图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e3b255d1-a6fb-4a52-80c2-cb638e06ff78",
+            "title": "判断线圈转到不同位置的电流方向",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d91b9391-3039-4944-9a91-d27a1aca8c85",
+            "title": "中性面及其性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "226dcb84-6bbf-4121-bf5c-9520b832accc",
+            "title": "交流电在示波器上的显示",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c7963ad5-e3b1-42f4-a42b-40dd5bcc8827",
+        "title": "2. 交变电流的描述",
+        "content": "",
+        "children": [
+          {
+            "id": "42b63bb3-1f41-496b-b246-8875aa633305",
+            "title": "交流电的u-t图像和i-t图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b28f8355-9310-4e79-abdb-07934c718234",
+            "title": "其他类型交流电的图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1369a5c4-7526-4824-8d7e-4cf7b01b1be6",
+            "title": "交流电频率的意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d283166d-0cbc-4a09-97af-707b63bbf506",
+            "title": "线圈转动产生的交变电流的峰值及其表达式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca342d30-0ccf-4f5f-9050-40ff3296a58f",
+            "title": "外部条件改变对交变电流峰值的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "85b841aa-5d0c-4de0-9d28-3a29215026d1",
+            "title": "正弦式交变电流瞬时值的表达式及其推导",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "010df557-f96c-4581-b9b6-b6e8a0652c65",
+            "title": "正弦交流电的I-t图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "52033780-59b4-4583-822e-8aebc7a0a519",
+            "title": "各物理量改变对正弦交流电的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f11223bf-5803-4a3e-87a1-852053ca0647",
+            "title": "交变电流的相位和相位差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eacfc556-e8a6-4ec4-a5e1-cd43180e64f8",
+            "title": "从不同位置开始计时交变电流的表达式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "901ff38b-8963-4aa8-a996-db520f1baf13",
+            "title": "根据线圈位置计算交变电流的瞬时值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "136c2a28-9e75-4d26-9d16-84df6371516a",
+            "title": "计算氖灯泡/霓虹灯等灯泡的发光时间和次数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d8576036-e207-45eb-9c2e-fe1e25288585",
+            "title": "有效值的定义、一般交流电的有效值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "88045c8d-2bb8-4457-9586-1a738be41772",
+            "title": "正弦式交流电的电动势和电流有效值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bc911b5c-1af6-41ef-8947-21d3f02dd146",
+            "title": "有效值读取交流电表示数的含义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3070917c-2b3d-42de-bb8f-b0ec673b37fb",
+            "title": "根据有效值计算交流电路中的电功、电功率和焦耳热",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5bc7569c-f96b-40c4-ac03-106fda4ef9a9",
+            "title": "用电器铭牌上的额定电压与额定功率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "893f38b9-d0c1-4ceb-a914-d19c39721e21",
+            "title": "交变电流在家庭电路及家用电器中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4113d36c-8478-4956-9e4e-992e28e1e47d",
+            "title": "根据图象判定交流电的峰值和有效值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "67706b14-e53a-4653-94a7-708cac35c760",
+            "title": "计算线圈转动过程中电动势和电流的平均值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82515a02-2a7f-45fa-ac17-407eb2f69ee9",
+            "title": "计算转动过程中通过线圈截面的电量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a7d79330-030a-43eb-ba18-474e9e4e7ee3",
+            "title": "电感器在直流电路和交流电路的作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a7d2ee3a-c52e-4adf-af8e-7a09d4693cc1",
+            "title": "电感器的感抗",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aa9108c3-9641-4474-890f-1bcfeec3a6b9",
+            "title": "低频扼流圈与高频扼流圈",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3619e66a-ce07-441c-922c-43183c3ee14d",
+            "title": "电感器在电子技术中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7c1f351e-567d-4725-93f1-478e9c72b995",
+            "title": "电容器对交流电的导通和阻碍作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bb2f2054-f40c-4cd7-afb4-b1ad0961d790",
+            "title": "电容器的容抗",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "454be79b-1915-4730-ac54-55c94db2644e",
+            "title": "电容器在电子技术中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "18125309-4bff-48f9-a814-6c03868c3ccd",
+            "title": "频率改变对交流电路中小灯泡亮度的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "56fd2cc5-7525-43b2-a0fd-7ed4030a239d",
+            "title": "含有电感器和电容器的滤波电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "3628a59d-d52f-44cb-82a5-e1747b0d2100",
+        "title": "3. 变压器",
+        "content": "",
+        "children": [
+          {
+            "id": "e1a81a12-e5d5-42a7-8ead-1cece413438a",
+            "title": "变压器原理与结构",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "14f63ccf-575d-4258-8bc0-715dfe95aeb6",
+            "title": "理想变压器两端电压与匝数的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4331ffe7-270f-46ec-81c7-8028d78fd3d3",
+            "title": "理想变压器两端功率的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "39c81d56-89b7-4bdd-8934-645f5d3bd746",
+            "title": "理想变压器原副线圈的电流关系及其推导",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3ceaeef1-e611-4c02-8abc-1c5b991ffad4",
+            "title": "变压器两端电路的动态分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "38ac9e5d-acf0-4e47-89bb-6c8b83e9898c",
+            "title": "结合图象计算变压器两端的电表示数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5877304e-1841-4c89-acfd-43785bf60221",
+            "title": "变压器原副线圈频率和相位的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e843a5b4-210a-4626-be87-05d24aa46d22",
+            "title": "自耦变压器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "17298246-8e16-4915-864f-968e1a850e9f",
+            "title": "电压互感器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "42bbf753-caac-4678-ad63-dbf44c292201",
+            "title": "电流互感器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4c6900f7-b206-42d5-968d-c9b1f658b7a3",
+            "title": "探究变压器电压与匝数的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7ac1bd6f-c528-4500-81f4-0c2ef2afa392",
+            "title": "探究变压器原、副线圈电压与匝数的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1f0b56eb-b740-4e44-a2dc-96d6afee84d6",
+        "title": "4. 电能的输送",
+        "content": "",
+        "children": [
+          {
+            "id": "6209c0f9-5d0f-4d3a-ace3-5d9bfa6925d1",
+            "title": "升压变压器和降压变压器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6f7eb33c-3efc-47c8-a096-9926259d2209",
+            "title": "影响输电损耗的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "505bfd6c-b2a5-44ab-bb55-594046221694",
+            "title": "高压输电的原理与优点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "943aeb46-6ded-41b9-bf3a-ef9e5d20354b",
+            "title": "远距离输电在导线上损失功率的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f53e4d44-5483-492e-9012-714f4ba62cc5",
+            "title": "降压变压器原线圈电压的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7737f4d2-f33a-4e7c-a04d-8f85659e81fe",
+            "title": "用户端功率改变判断输电线路中物理量变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "08c2e6b3-31f0-4e13-9dbc-0a76c8d85074",
+            "title": "计算用户端用电器的数量",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "b4229868-a124-4b6f-bfad-3c076833127a",
+    "title": "第四章 电磁振荡与电磁波",
+    "content": "",
+    "children": [
+      {
+        "id": "45969b83-04c1-47b1-b1bc-036330646a20",
+        "title": "1. 电磁振荡",
+        "content": "",
+        "children": [
+          {
+            "id": "65cea541-f819-42cf-83a8-866335043561",
+            "title": "振荡回路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "567b016f-9c00-4150-89e0-efeda6eb5b82",
+            "title": "电磁波的波长和频率的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1363bdae-698a-463e-81fd-e1e1720745cd",
+            "title": "电磁波的能量",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f385700b-2e05-4749-b472-81b81a9df2a5",
+        "title": "2. 电磁场与电磁波",
+        "content": "",
+        "children": [
+          {
+            "id": "07527e25-e187-44fa-9b6f-b9a591a70165",
+            "title": "电磁场理论与电磁波的发现",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9ba60c68-a5a2-4388-9316-f1233098b227",
+        "title": "3. 无线电波的发射和接收",
+        "content": "",
+        "children": [
+          {
+            "id": "1846b09b-d6e0-4743-8bef-65886a1ac68b",
+            "title": "电磁波的发射和接收",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "980c2ca7-0cae-4fc5-9f5e-f68c12224672",
+            "title": "电磁波与信息化社会",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "54fa125d-7232-475d-9631-22e528ce0171",
+        "title": "4. 电磁波谱",
+        "content": "",
+        "children": [
+          {
+            "id": "7c9aa726-6248-482d-af36-024d0c7f822d",
+            "title": "电磁波的波长和频率的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "26540c77-9eb4-4ec1-9aeb-76394e2bcc14",
+            "title": "无线电波的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ec15c883-faec-4544-811f-785e4ea71e1f",
+            "title": "红外线的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "75ac6daf-93b5-4fd7-9acb-3f7910dfc3ed",
+            "title": "可见光的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "122e80f4-a7b0-45a9-abdd-a23092cc6293",
+            "title": "紫外线的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "35cd360f-3c43-4c17-ae9b-b66c41c32936",
+            "title": "X射线的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3bd907d2-3d8e-4a46-acbc-94b9403483d8",
+            "title": "γ射线的特性及作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3df59ee2-2b47-4961-9808-35639c693c97",
+            "title": "电磁波的能量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "121a05af-e238-4db3-b87b-2695f38a3180",
+            "title": "了解太阳辐射",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "148efc08-69c9-4f64-afd8-0de86d685acd",
+    "title": "第五章 传感器",
+    "content": "",
+    "children": [
+      {
+        "id": "1a9ac0a5-94f5-43ad-a0ee-6a05da217169",
+        "title": "1. 认识传感器",
+        "content": "",
+        "children": [
+          {
+            "id": "037cc4b7-183e-4a62-8401-a4cb742eaaca",
+            "title": "传感器定义及原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9ca2339d-b19c-4f19-a9ff-1d384d9e7f2f",
+        "title": "2. 常见传感器的工作原理及应用",
+        "content": "",
+        "children": [
+          {
+            "id": "eab54d57-ea3b-4ed8-aed1-adbbe97fe564",
+            "title": "光敏电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0ad42e27-90a8-4ac8-a1ef-fd911228c2d8",
+            "title": "热敏电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8e544ee8-0dc3-409f-a9a3-b2dc22e699b8",
+            "title": "金属热电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c5c6873d-669d-4ffc-8f2b-31319245dcfc",
+            "title": "霍尔元件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c63b1fe8-1e58-4dba-a732-793963ccd804",
+            "title": "光传感器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3bfe9458-eca5-4c78-b2a0-b04f9468d5d5",
+            "title": "温度传感器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e7da945d-9a03-42f8-8666-967e75d5af5f",
+            "title": "压（拉）力传感器",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "136ba902-3942-403d-b9e6-7e2a0dfd1846",
+        "title": "3. 利用传感器制作简单的自动控制装置",
+        "content": "",
+        "children": [
+          {
+            "id": "61a22dbe-127f-4cdf-b094-9cd1d3017e15",
+            "title": "光控开关",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8fa64c8b-364c-4f7c-a409-a64d4e4689e7",
+            "title": "温度报警器",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

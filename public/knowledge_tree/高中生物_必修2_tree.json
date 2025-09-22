@@ -1,0 +1,828 @@
+[
+  {
+    "id": "e7fe11e4-ae65-44f2-b668-aeb41926a8df",
+    "title": "第1章 遗传因子的发现",
+    "content": "",
+    "children": [
+      {
+        "id": "6b87b20b-dd18-4863-924c-f73551356244",
+        "title": "第1节 孟德尔的豌豆杂交实验（一）",
+        "content": "",
+        "children": [
+          {
+            "id": "26744103-5d90-4003-8376-4655d11f5c07",
+            "title": "融合遗传",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f1639921-b997-4a17-87ba-76cf09a887c7",
+            "title": "性状与相对性状",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1e1781cf-4ae6-42c6-b9c3-3015c72bce12",
+            "title": "纯合子与杂合子",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b7e59749-2414-4918-a873-c751bad2043f",
+            "title": "孟德尔一对相对性状的杂交实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c5273923-d222-464d-ab94-6d0de1e390a2",
+            "title": "性状分离比的模拟实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "218e6a7b-c162-46bf-b379-0cfc248ef38e",
+            "title": "基因分离定律的实质和应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "427e733e-b10e-4eb6-9cac-362eae4c6763",
+            "title": "分离定律综合问题分析（异常现象分析）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b939ad10-422f-4888-a355-8e5a06120495",
+            "title": "完全显性、不完全显性和共显性",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d743e8f5-93cc-488a-adf6-502286ba7527",
+        "title": "第2节 孟德尔的豌豆杂交实验（二）",
+        "content": "",
+        "children": [
+          {
+            "id": "3cffe4de-c447-42d8-b3e4-8e8f39aa9ba9",
+            "title": "性状的显、隐性关系及基因型、表现型、等位基因",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e556d4bf-6ca9-4c8a-a986-82d7d0175211",
+            "title": "用测交的方法检验F1的基因型",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d4a63294-a47f-402a-a5e3-30fa9f1a3299",
+            "title": "孟德尔两对相对性状的杂交实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2bb1b6fb-ca69-4446-af4f-4906ab2e8e14",
+            "title": "基因自由组合定律的实质和应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c9ec146b-251c-4a6d-9a37-b093ca45b33d",
+            "title": "孟德尔遗传实验的科学方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "200fe47b-9e91-4c74-a5fe-2effd17ca1c2",
+            "title": "利用分离定律思维解决自由组合定律的问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "17972502-5c05-4dff-b682-e8b2b30cbe27",
+            "title": "9:3:3:1和1:1:1:1的变式类型及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "783a1f54-d112-4e8b-9195-9118c9c8c7e0",
+            "title": "基因连锁与交换定律",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "4847e9f8-775b-43b3-82f1-77e03fe2e98b",
+    "title": "第2章 基因和染色体的关系",
+    "content": "",
+    "children": [
+      {
+        "id": "e2a5d67c-5c34-4476-80c3-9d8952d8fc0e",
+        "title": "第1节 减数分裂和受精作用",
+        "content": "",
+        "children": [
+          {
+            "id": "b51776d6-cf07-4201-89e9-5ebbc72e185c",
+            "title": "一 减数分裂",
+            "content": "",
+            "children": [
+              {
+                "id": "f9ff0385-5633-420e-8b99-48efde146f52",
+                "title": "减数分裂概念、四分体、同源染色体、非同源染色体",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "72003498-2a11-4990-9d69-c3da9821b79f",
+                "title": "精子的形成过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1a85bf23-f33f-442c-addd-b181d55ed43f",
+                "title": "卵细胞的形成过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "10829661-c022-4d84-a6eb-a6be74e89eec",
+                "title": "精子和卵细胞的形成过程异同",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d5097ab2-24a3-4e27-a0ee-a8b9e7073c94",
+                "title": "减数分裂过程中的变化规律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1410b451-23c4-4066-9992-631d6d78298c",
+                "title": "减数分裂异常情况分析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f0926603-e99a-4194-af00-49981c6ee6dd",
+                "title": "观察细胞的减数分裂实验",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ff1d6695-360d-41cf-97e3-2d203429dfc6",
+                "title": "细胞的减数分裂综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1bc8bf68-9383-4df7-89aa-72886b06b0d3",
+                "title": "减数分裂和有丝分裂的综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d9f694e4-8972-49a6-82af-872d679af562",
+            "title": "二 受精作用",
+            "content": "",
+            "children": [
+              {
+                "id": "546483f8-958d-4659-a8f9-e603fafc5f64",
+                "title": "受精作用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "16b0ea6c-dbae-4019-a96e-db3b4e895600",
+        "title": "第2节 基因在染色体上",
+        "content": "",
+        "children": [
+          {
+            "id": "ea49a5cc-a2a8-4219-9b5f-af812d8c8477",
+            "title": "萨顿的假说",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "94f0c51e-b270-4bb8-99f0-f4e939b699ca",
+            "title": "基因位于染色体上的实验证据",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "65afc32e-ea9e-4e2e-be3b-81b4610e2ed2",
+            "title": "孟德尔遗传规律的细胞学解释",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "21338ff0-4d75-41fe-9f05-686e5067d2b4",
+        "title": "第3节 伴性遗传",
+        "content": "",
+        "children": [
+          {
+            "id": "24c939c9-9007-4f57-bc5e-6c7b4a5eae36",
+            "title": "伴性遗传的遗传规律及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1cc7663f-2bce-40bb-8029-f9903d133d16",
+            "title": "遗传系谱图中遗传方式的判定及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a5904e46-8d3d-4908-b49b-11dc45473f23",
+            "title": "基因在染色体上位置的判定方法问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bc3a54ff-fdc5-4ebc-9d9f-e4ccdcd257ed",
+            "title": "遗传的基本规律综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "04807ca1-d102-440f-934f-a9342aa5dcf3",
+    "title": "第3章 基因的本质",
+    "content": "",
+    "children": [
+      {
+        "id": "87553fe6-9c7a-4a76-a36e-dfba7b8f64df",
+        "title": "第1节 DNA是主要的遗传物质",
+        "content": "",
+        "children": [
+          {
+            "id": "b2f6465b-f99a-4546-aba9-bcb8c6d8d0da",
+            "title": "肺炎链球菌的转化实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "33ca0ca7-92dc-49e2-8dc3-deab92b31c74",
+            "title": "噬菌体侵染细菌的实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1db3b160-bb01-487f-8586-d8d648aab4aa",
+            "title": "RNA是遗传物质的实验证据",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ae3fd540-dc47-4560-b9ea-c1002129439a",
+            "title": "DNA是主要的遗传物质",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "ca9f12d8-19c4-4ee5-9487-c82acfbeb74e",
+        "title": "第2节 DNA的结构",
+        "content": "",
+        "children": [
+          {
+            "id": "c76a19a1-57d6-44dd-b57e-95e57f0e851a",
+            "title": "DNA分子的结构和特点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a5774cd4-cd24-44bc-9f8b-8a6bfadb9b89",
+            "title": "DNA分子中碱基的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "09bd93f6-47da-494a-827c-7a710b74c24b",
+            "title": "制作DNA双螺旋结构模型",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9f380d4f-fb91-4b37-8897-e7ae2d36928a",
+            "title": "不同生物中核酸、核苷酸和碱基的比较",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "2731f3df-a188-4eac-b3b0-8e58e1aff269",
+        "title": "第3节 DNA的复制",
+        "content": "",
+        "children": [
+          {
+            "id": "40d7f6bd-1170-4b95-b106-9c0106b41921",
+            "title": "探究DNA的复制过程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1257dc30-79ae-425f-926d-ddcd60238433",
+            "title": "DNA分子的复制过程、特点及意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9d1a787b-2093-4f61-98d6-41cc1a30d36e",
+            "title": "DNA分子复制的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "396a8592-c658-40a6-8dae-4b3a988f8024",
+        "title": "第4节 基因通常是有遗传效应的DNA片段",
+        "content": "",
+        "children": [
+          {
+            "id": "bcd81d39-19de-4c6a-b6d8-23483424c851",
+            "title": "基因的结构及功能",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ff70a506-1440-4f9a-ae04-c08882d24fd7",
+            "title": "染色体、DNA、基因和核苷酸之间的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "59928ca6-17a5-4856-9966-0b55f4eda51e",
+    "title": "第4章 基因的表达",
+    "content": "",
+    "children": [
+      {
+        "id": "f70fd27b-bd0c-46ab-999b-e21c77b7f33a",
+        "title": "第1节 基因指导蛋白质的合成",
+        "content": "",
+        "children": [
+          {
+            "id": "e8abef4c-c53c-42f6-b772-8a294bd1626a",
+            "title": "遗传信息的转录",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a300d8bb-dc31-4454-882f-3574b317d17d",
+            "title": "遗传信息的翻译",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "97f80339-0049-4e70-a536-2bdf15a84e6e",
+            "title": "基因表达过程中的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5c8ebd3c-b46c-4e30-80d3-1aa9eb50c834",
+            "title": "基因的表达综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "efa66c53-5a1c-4cad-b9b9-25584d3a1b0a",
+            "title": "中心法则及其发展",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d23184d2-d347-4463-b91e-3f55b9fb089e",
+            "title": "遗传密码的阅读方式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "89e88f80-22e5-4574-abf8-9954bb74748f",
+            "title": "克里克的实验证据",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1fb83b4c-fe0f-4e4d-b7f5-52e2e6d016b9",
+            "title": "遗传密码对应规则的发现",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8ef67c59-e4fc-43df-98f4-8ba47c9559f4",
+        "title": "第2节 基因表达与性状的关系",
+        "content": "",
+        "children": [
+          {
+            "id": "b9d8bda6-f564-4a48-bf5c-be2154fe52a5",
+            "title": "基因、蛋白质与性状的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1971156e-eaff-4f16-a922-65627888c6fa",
+            "title": "表观遗传",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "63f8789e-f82b-4370-a6f7-7a0e6b592247",
+            "title": "遗传的分子基础综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "722efc7b-d152-4967-acee-14824f07e55a",
+    "title": "第5章 基因突变及其他变异",
+    "content": "",
+    "children": [
+      {
+        "id": "9eb9c8b5-58df-4887-80d7-9e944cdc4395",
+        "title": "第1节 基因突变和基因重组",
+        "content": "",
+        "children": [
+          {
+            "id": "f3c13cef-c504-4f0c-a3db-c3855d0ecd99",
+            "title": "基因突变",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82d002a1-93e2-48f8-b60f-e214b79df7c8",
+            "title": "细胞癌变的原因及防治",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "539ac137-5f2a-4bd0-a60d-ae3bdb01a288",
+            "title": "DNA分子上碱基对的改变对后代性状的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f7d36e5-f28b-4573-880b-3f638ba4c8a3",
+            "title": "基因重组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7a9d2188-e66a-4f6e-a208-307e723675f2",
+            "title": "癌细胞的概念及主要特征",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e31a88ca-7467-4ba2-9ce8-a6112ebc5e4b",
+        "title": "第2节 染色体变异",
+        "content": "",
+        "children": [
+          {
+            "id": "115feb65-b503-4cb2-9999-abb61aa8d180",
+            "title": "染色体结构的变异",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0c75ad32-9042-46cc-b001-7e85d150ef2b",
+            "title": "染色体数目的变异",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "568d57cb-580b-4b68-93ae-10c2cbf6aa2f",
+            "title": "染色体结构变异和数目变异综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "296bc22a-ecc2-4360-b436-b37fee38dded",
+            "title": "低温诱导植物染色体数目的变化实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5c3db005-d3fc-4e0d-8511-7f64899c6587",
+            "title": "基因突变、基因重组和染色体变异综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2cc4f554-5d2f-48b2-bca7-db13a7cfaed7",
+            "title": "染色体组、单倍体、二倍体、多倍体概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bdbc143b-7894-4845-a227-525c4ebb622a",
+            "title": "杂交育种",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e6e926a8-f52c-4060-abe1-718d16ee7557",
+            "title": "诱变育种",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e5867a4b-e490-4eef-9e24-99fd42f68404",
+            "title": "单倍体育种",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fc287cfd-9e3d-4924-89e8-673bbebc0891",
+            "title": "多倍体育种",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f4e4db07-2d73-4337-ab53-e05dbd4f2830",
+            "title": "其他育种方式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "10513516-a2bd-454b-9a77-8078a865f1bd",
+            "title": "生物的变异与育种综合（旧）",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "2c98b139-eca2-4e13-9942-3bd70386d1aa",
+        "title": "第3节 人类遗传病",
+        "content": "",
+        "children": [
+          {
+            "id": "9f437976-d332-47ae-b828-5a3031da875e",
+            "title": "人类遗传病的类型及实例",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4ac1e569-d843-40bb-ab65-0e36fc120e79",
+            "title": "调查人群中的遗传病",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6e60a46b-b269-4acb-b68d-44113fe28840",
+            "title": "遗传病的检测和预防",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "763a8c8f-ad17-40ab-a6dd-60a2c71523d4",
+            "title": "人类基因组计划",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a813b237-4461-4393-8867-53c978d03599",
+            "title": "遗传病与人类未来",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2139f87d-462b-4b78-b431-fb92a3351142",
+            "title": "遗传与人类健康综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "54383547-f5dd-4c6b-9047-20ccce620367",
+    "title": "第6章 生物的进化",
+    "content": "",
+    "children": [
+      {
+        "id": "70aa6aad-88f8-4788-bc3f-888bb0996104",
+        "title": "第1节 生物有共同祖先的证据",
+        "content": "",
+        "children": [
+          {
+            "id": "2241851a-950d-457f-b6d8-aaa722524213",
+            "title": "生物有共同祖先的证据",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "02a4c1d2-d6ff-4fd9-8178-976f8d618e52",
+        "title": "第2节 自然选择与适应的形成",
+        "content": "",
+        "children": [
+          {
+            "id": "ac12691e-f799-4637-a024-124ada8b3fd9",
+            "title": "自然选择与适应的形成",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8e5e1cf1-e6c2-44db-8e51-e478068a0843",
+        "title": "第3节 种群基因组成的变化与物种的形成",
+        "content": "",
+        "children": [
+          {
+            "id": "819e38da-fe59-4cf9-b32c-271f92c3bcbf",
+            "title": "一 种群基因组成的变化",
+            "content": "",
+            "children": [
+              {
+                "id": "9715b1b5-fbc5-4c3a-82cf-e002377c5802",
+                "title": "基因频率的改变与生物进化",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "37181d40-8d1f-47e8-aa4e-5d569273cf95",
+            "title": "二 隔离在物种形成中的作用",
+            "content": "",
+            "children": [
+              {
+                "id": "34461c5d-a448-4a78-abd8-eca2a95e4f0e",
+                "title": "隔离与物种的形成",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "47bb8449-a118-4cf6-a696-4d2e874c0ea6",
+        "title": "第4节 协同进化与生物多样性的形成",
+        "content": "",
+        "children": [
+          {
+            "id": "b51e6e3f-c009-43ea-9e7e-90504100c489",
+            "title": "协同进化与生物多样性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2b0af568-7dad-4a8f-85c4-a96f5503ada0",
+            "title": "生物的进化综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

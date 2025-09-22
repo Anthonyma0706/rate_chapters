@@ -1,0 +1,455 @@
+[
+  {
+    "id": "a72374c0-5fba-4b95-b6dd-74ca74a2df92",
+    "title": "第一章  原子结构与性质",
+    "content": "",
+    "children": [
+      {
+        "id": "6bbf819c-7117-4ca7-a432-5c6b495efb42",
+        "title": "第一节  原子结构",
+        "content": "",
+        "children": [
+          {
+            "id": "84a5da85-3865-4f1a-842d-1d89fccb9898",
+            "title": "核外电子运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3c372f13-c0ca-46d2-ada7-83abeb470410",
+            "title": "能层与能级",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1eae11bc-2b1f-4fac-9e36-4184b1c16d97",
+            "title": "构造原理与元素周期表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aac9dd9e-42d4-462e-8955-575717c1dda3",
+            "title": "核外电子排布的表示形式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e718ebba-658a-4042-8de5-33b9e6a2a45c",
+            "title": "能量最低原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "edfc2f3e-f609-4529-b486-1e5d6612ef97",
+            "title": "泡利原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4e697907-50ce-43a0-a48e-1e2abff7259c",
+            "title": "洪特规则",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "ad3e8d9d-2ce9-4f8b-8000-bf44ae979475",
+        "title": "第二节  原子结构与元素的性质",
+        "content": "",
+        "children": [
+          {
+            "id": "bc5728d9-a47b-49d5-bca6-fd49c6abbb88",
+            "title": "电离能",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "db6a4e7a-2269-4e82-87f3-1f08f58e1a5a",
+            "title": "电负性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "839bd6a7-167d-4fb2-8039-b2a8f1bfc565",
+            "title": "元素周期表结构",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5921809e-6a22-4aa2-8efe-fcd2b5633293",
+            "title": "元素周期表的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "01715db0-f62e-4102-80cb-ef8ba85853ec",
+            "title": "元素周期律实质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "521af474-e063-43fc-8dad-d3164dfb490a",
+            "title": "同周期元素性质递变规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5625a606-24dc-45b1-abc6-1255be260b66",
+            "title": "同主族元素性质递变规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6d23914f-f19f-49d4-afb0-a3bdbb35e47c",
+            "title": "金属与非金属在周期表中位置及其性质递变的规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8043dbf3-4562-484f-8be3-09017e5f8085",
+            "title": "元素周期律的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d8880d82-a39c-41f2-9f88-b702ea0c42cd",
+            "title": "原子的构成结构",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9e53fcb7-e3d0-48f5-b72e-37e649da4ed1",
+            "title": "原子核外电子的排布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "73b788c6-763e-4fa8-9898-2c13aa22d073",
+            "title": "核素",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "b5d4095c-99a4-4472-a5ea-201a9592c698",
+        "title": "整理与提升",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "48d43139-3231-4fb7-85a7-ece3aa858ba8",
+    "title": "第二章  分子结构与性质",
+    "content": "",
+    "children": [
+      {
+        "id": "c95c260e-4a97-44bc-b675-9a09f3fbfe95",
+        "title": "第一节  共价键",
+        "content": "",
+        "children": [
+          {
+            "id": "f1cedc9d-fbc1-4b1c-9908-b8b8d930674b",
+            "title": "化学键基本概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a95e4af5-5ccb-4bcd-acd0-b49a9ea2dc2e",
+            "title": "共价键",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c9a5261d-11b8-4fed-8592-d2d227bcf3f2",
+        "title": "第二节  分子的空间结构",
+        "content": "",
+        "children": [
+          {
+            "id": "b2e6b90f-a5e5-4062-b292-66776e954721",
+            "title": "价层电子对互斥理论",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8fe86207-058c-459c-b584-f5fdfcc7ca25",
+            "title": "杂化轨道理论",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7988d553-e292-4fee-9b64-73934df547f8",
+            "title": "等电子原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "094c0bcf-2eaf-438d-a240-7923ebec702b",
+        "title": "第三节  分子结构与物质的性质",
+        "content": "",
+        "children": [
+          {
+            "id": "b935d8fe-8f0d-43f4-b4e4-39e18392e99c",
+            "title": "分子间作用力 氢键",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0c992adf-39b3-478a-a55b-23d60fdb8413",
+            "title": "极性分子和非极性分子",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dffdce58-9917-43bc-bc27-c82801cf4a24",
+            "title": "相似相溶原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4211c7d0-a02c-4c9d-81b4-d1d098a6c34c",
+            "title": "范德华力对物质性质的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "736e15d7-0c21-4c92-ae94-63a96b8deaad",
+            "title": "化学键与分子间作用力",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2ee9520e-825b-43dc-ad65-0c8bbaa2f0bb",
+            "title": "含有氢键的物质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b40f7caf-efd2-44ae-b396-6c869d67aa6a",
+            "title": "氢键对物质性质的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a6561094-e0f4-41b9-8aa2-8b911a0c6204",
+            "title": "分子的手性",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "65594342-2a64-4784-8bea-4bf3e035fd4c",
+        "title": "整理与提升",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "2ffadde5-b469-443f-9004-539f05db9b33",
+    "title": "第三章  晶体结构与性质",
+    "content": "",
+    "children": [
+      {
+        "id": "237847ad-5582-46f7-ae73-21911522b756",
+        "title": "第一节  物质的聚集状态与晶体的常识",
+        "content": "",
+        "children": [
+          {
+            "id": "2f0ed522-a8a8-401c-bfa9-d8105acd982a",
+            "title": "晶胞",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cd5fe079-f2c7-42b6-ac26-2c0497229bc4",
+            "title": "晶体与非晶体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fd9f2275-5b4e-4fa7-8ea2-605c5dc747e0",
+            "title": "晶体材料的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "17eae8ce-1389-43c9-933e-ccec53faeb1b",
+            "title": "等离子体、液晶、离子液体",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "dad419a1-2930-4f89-849e-1c4846dca550",
+        "title": "第二节 分子晶体与共价晶体",
+        "content": "",
+        "children": [
+          {
+            "id": "23de8a83-0bd7-414e-9dd1-89554fe43802",
+            "title": "分子晶体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0dae2416-bcbd-4974-8544-0bf6ab9e62e3",
+            "title": "共价晶体（新教材）",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "7992491f-3122-41dc-9e03-0c19413d72ca",
+        "title": "第三节  金属晶体与离子晶体",
+        "content": "",
+        "children": [
+          {
+            "id": "674ad2f4-01e8-4332-9d1f-0124d034b555",
+            "title": "金属晶体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2a0765f7-c1a2-4b73-8b1e-c0fffe788c8c",
+            "title": "离子晶体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5cb89796-b8a4-4283-96b3-1eace026b6db",
+            "title": "离子键",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "335b81c7-f4c7-4cd8-b770-88c8bfbc2e98",
+        "title": "第四节  配合物与超分子",
+        "content": "",
+        "children": [
+          {
+            "id": "d26082e7-a88a-47b9-a9d0-77a01d8b5308",
+            "title": "配合物的概念、组成及形成条件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82ea84d1-2d0d-47a0-87cc-af6fb14024d9",
+            "title": "配合物的结构与性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c96c4cce-09d7-4396-aa4b-c63f9076cdbe",
+            "title": "配合物的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "70565550-fe4f-4a54-9000-7f6ebf85c7d0",
+            "title": "简单配合物的成键",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a3770bf6-d053-4e7d-800d-2920e1fbff6b",
+            "title": "超分子",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "52192429-0692-4fac-911d-ffbc639c2895",
+            "title": "混合型晶体和过渡晶体",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4b0e3cd7-b775-47b3-92bd-100a10defeb6",
+        "title": "整理与提升",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "0a69a6ea-cb59-4a16-ab1e-a01bcee18b4d",
+    "title": "实验活动 简单配合物的形成",
+    "content": "",
+    "children": [],
+    "level": 0
+  }
+]

@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "83be1dc6-2571-41be-9923-295b34ee14a5",
+    "title": "第十六章 二次根式",
+    "content": "",
+    "children": [
+      {
+        "id": "bff78c74-9b55-4766-81fe-43574e2879ad",
+        "title": "16.1 二次根式",
+        "content": "",
+        "children": [
+          {
+            "id": "46bec278-e792-4c4c-af90-5ef972aac303",
+            "title": "求二次根式的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a643ab8f-d461-486b-a993-2e1ef80405f5",
+            "title": "求二次根式中的参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "16ceb422-aa05-4018-a6aa-2d76d1c4d2b5",
+            "title": "二次根式有意义的条件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "35ebd329-5cc2-4ab7-bbe3-7982d2afe9e0",
+            "title": "利用二次根式的性质化简",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5845fb34-02a3-45f4-8b04-01828f5c08da",
+            "title": "复合二次根式的化简",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "53d20530-a30e-403d-b1f9-b2f1b11ccb57",
+        "title": "16.2 二次根式的乘除",
+        "content": "",
+        "children": [
+          {
+            "id": "9b9e5b18-a960-464c-9cd2-fa4262bdbc93",
+            "title": "二次根式的乘法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7a4051ed-70bd-4b25-8867-2c73b65d7b57",
+            "title": "二次根式的除法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "89ce056e-cfa5-4b92-9412-a7223e465fe0",
+            "title": "二次根式的乘除混合运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "73712cff-0ed7-4a4a-b28e-99f6085a2ff1",
+            "title": "最简二次根式的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "232625ea-9cc6-49cb-9bd0-5b9cd49238a4",
+            "title": "化为最简二次根式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a8200817-e662-4789-8b22-1d6d26bc616c",
+            "title": "已知最简二次根式求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0681dc2b-79e1-45fe-a767-46f659e28376",
+        "title": "16.3 二次根式的加减",
+        "content": "",
+        "children": [
+          {
+            "id": "cd91f86d-a9db-4c20-b731-42765e506b32",
+            "title": "同类二次根式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aa58e361-8b88-44c6-b03f-26d386c835ca",
+            "title": "二次根式的加减运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0cae6273-8332-4c92-83cb-9390de87e2fe",
+            "title": "二次根式的混合运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "58291f99-4b89-42d9-90f6-ea79a94fa3f4",
+            "title": "分母有理化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2be896ad-66eb-4264-989a-436dcd800fae",
+            "title": "已知字母的值，化简求值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4d4d4e7b-c8e5-494a-83f9-28846331fbf5",
+            "title": "已知条件式，化简求值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ef23dfe3-8093-46ef-9b82-c2160c5d4ac0",
+            "title": "比较二次根式的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "56b97d2b-808a-41d9-80a7-e53b45554523",
+            "title": "二次根式的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "0c4b8420-5b9c-4ad4-9bee-fae60f158b87",
+    "title": "第十七章 勾股定理",
+    "content": "",
+    "children": [
+      {
+        "id": "d37b492c-0948-4096-b483-2c12a70e9cdb",
+        "title": "17.1 勾股定理",
+        "content": "",
+        "children": [
+          {
+            "id": "cd9836da-c73a-465c-9092-87ed4cf16890",
+            "title": "用勾股定理解三角形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "31a4286f-0a18-46a1-877c-1a61d720ffcf",
+            "title": "已知两点坐标求两点距离",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e214f4bd-1818-47cb-a1e1-b5d86f940db2",
+            "title": "勾股树（数）问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "490e95c2-fc0a-46dc-bcb7-a85a8ab2902e",
+            "title": "以直角三角形三边为边长的图形面积",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0d246751-6489-4340-b8d1-ec280530e281",
+            "title": "勾股定理与网格问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "45832f9e-706f-4d08-888b-cd9c91752e88",
+            "title": "勾股定理与折叠问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2e7e3f92-d820-4b91-84a8-0d71b9ead545",
+            "title": "利用勾股定理求两条线段的平方和（差）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82ecce97-6291-433e-b5a9-819d9a189b27",
+            "title": "利用勾股定理证明线段平方关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f4ef3591-5574-477e-82d0-32d15dd5aed7",
+            "title": "勾股定理的证明方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3c19cc33-c4db-4380-b187-012f13fe710c",
+            "title": "以弦图为背景的计算题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3499ccdd-7815-4a4a-8384-a808bcc9124a",
+            "title": "用勾股定理构造图形解决问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "820a09dc-2e70-4453-917c-31f801a49125",
+            "title": "勾股定理与无理数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a4340306-db89-4c8e-b853-8f77effa4006",
+            "title": "求梯子滑落高度(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ea383669-4b45-4677-9347-5649f36dbcfc",
+            "title": "求旗杆高度(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f7767eb5-40fd-4477-abcd-2afa0c3430ca",
+            "title": "求小鸟飞行距离(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a75329ca-ee27-4427-9dd6-36a7d38f32b8",
+            "title": "求大树折断前的高度(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "179d44e5-b7c1-49ce-acc0-ce2ab73e7736",
+            "title": "解决水杯中筷子问题(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e4dfee0d-44e0-41d4-94a8-fcb3aaa200d6",
+            "title": "解决航海问题(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3d0df4a7-2c62-40d3-9e7e-05d1b48524d8",
+            "title": "求河宽(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b3fd5a46-de40-4028-aa65-a379e0a0e76b",
+            "title": "求台阶上地毯长度(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "07154cd5-ed68-440e-a79f-c75c80e1b426",
+            "title": "判断汽车是否超速(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4b99e958-d7c7-43b5-9747-ffb873fed74c",
+            "title": "判断是否受台风影响(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0d7b1123-0344-46e6-b5b8-543d26f0bccd",
+            "title": "选址使到两地距离相等(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "98e18118-9bc7-41a4-ba4f-d7fca760a6a0",
+            "title": "求最短路径(勾股定理的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "231aa6aa-3d0c-4979-8375-690c11795acd",
+        "title": "17.2 勾股定理的逆定理",
+        "content": "",
+        "children": [
+          {
+            "id": "8bbe9a76-d3fc-4037-8e74-f534ecf6c6f2",
+            "title": "判断三边能否构成直角三角形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fdf9205c-ed6b-4145-9396-1a06adbafbb5",
+            "title": "图形上与已知两点构成直角三角形的点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a2418e96-14af-4496-877a-8d12cef109c3",
+            "title": "在网格中判断直角三角形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0668b9ab-75c5-4138-bb99-02530180d540",
+            "title": "利用勾股定理的逆定理求解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41c60513-c1ba-49d6-89d1-d03ad439ab3f",
+            "title": "勾股定理逆定理的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f5fa8c61-858a-4143-9b7f-dc4aaa3b45c7",
+            "title": "勾股定理逆定理的拓展问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "9b653f0c-086f-4d0b-b76a-a612c8c96a22",
+    "title": "第十八章 平行四边形",
+    "content": "",
+    "children": [
+      {
+        "id": "c75a8c2d-354c-46b5-aa76-2d92dfe41d5f",
+        "title": "18.1 平行四边形",
+        "content": "",
+        "children": [
+          {
+            "id": "68b21d85-96b3-46ee-8625-0225d4ce9498",
+            "title": "18.1.1 平行四边形的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "a8cbe48b-e098-454e-adc7-be744f1d17c7",
+                "title": "利用平行四边形的性质求解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da0ec42d-64c1-4d60-a5a5-2ff5935a3552",
+                "title": "利用平行四边形的性质证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f7680e72-9aff-4ecb-b9b9-c42229b044d8",
+                "title": "平行四边形性质的其他应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "131157fe-f88a-4f3e-83b8-672d6fe022f8",
+            "title": "18.1.2 平行四边形的判定",
+            "content": "",
+            "children": [
+              {
+                "id": "d5f51191-7b2d-4f62-9699-2a26f32df9a9",
+                "title": "判断能否构成平行四边形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07810616-0f72-45f9-8d76-bfa004386751",
+                "title": "添一个条件成为平行四边形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "753d4a00-7237-4a12-b505-80c097376cfc",
+                "title": "数图形中平行四边形的个数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d43609de-ffca-4ce3-9ddc-172f0db440c3",
+                "title": "求与已知三点组成平行四边形的点的个数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a1bff15d-b063-4a24-b859-761c4e4943ef",
+                "title": "证明四边形是平行四边形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "caf2b29a-c66a-48bf-b246-cd6cc1dd525d",
+                "title": "全等三角形拼平行四边形问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fce78257-ddb9-4422-af89-fc33dec8a97a",
+                "title": "利用平行四边形的判定与性质求解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a2073c71-dbcc-4f59-8cc3-86e5d0189e9b",
+                "title": "利用平行四边形性质和判定证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0d214e2c-3d00-443e-b8a3-2562c23ee153",
+                "title": "平行四边形性质和判定的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d41a8b6-faa6-46a0-82b7-21fa9766c65f",
+                "title": "与三角形中位线有关的求解问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "66428a77-d486-4fbb-b2ae-0fe313d9523b",
+                "title": "与三角形中位线有关的证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ea8a003e-501e-461d-9bc6-3ca0c076e60b",
+                "title": "三角形中位线的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "70a55438-36c4-4b55-945d-ac1f96ab98a3",
+        "title": "18.2 特殊的平行四边形",
+        "content": "",
+        "children": [
+          {
+            "id": "f1d7111b-63ad-4049-8b9e-d0e9e4454862",
+            "title": "18.2.1 矩形",
+            "content": "",
+            "children": [
+              {
+                "id": "04c84a4b-ffa4-402d-8980-7210162772a8",
+                "title": "矩形性质理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a5bc1579-c152-410b-bdf1-91ec210fe10e",
+                "title": "利用矩形的性质求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b231ced6-e73f-4ef4-a70b-f37313c1f06b",
+                "title": "根据矩形的性质求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d99ef1fb-ea45-498f-a335-db611e5cf3b0",
+                "title": "根据矩形的性质求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6f705412-c003-4d6d-9581-43337e3f7c84",
+                "title": "利用矩形的性质证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2236358d-56f0-43d8-b74b-096859981a68",
+                "title": "求矩形在坐标系中的坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8cbd2b00-c97d-4613-a1fc-ae11eeb96f3f",
+                "title": "矩形与折叠问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b55adb52-47b5-46e3-a0a6-137bb412baf3",
+                "title": "斜边的中线等于斜边的一半",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bf969e96-4bfd-4a09-9243-575cc1cf9008",
+                "title": "矩形的判定定理理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e39a2843-4137-49eb-a030-7a46e8e7c2e0",
+                "title": "添一条件使四边形是矩形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "09238a26-06d8-489c-8eec-27af278a0aae",
+                "title": "证明四边形是矩形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "63840bef-acdd-46d7-9a06-8ec01ddb847c",
+                "title": "根据矩形的性质与判定求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b941b9b3-cc51-46f6-887d-187b581b7851",
+                "title": "根据矩形的性质与判定求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0dd49340-dc4e-443c-9f43-4c014ebefad2",
+                "title": "根据矩形的性质与判定求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "1c9a0e81-0aac-4529-a1ea-492e380c7775",
+            "title": "18.2.2 菱形",
+            "content": "",
+            "children": [
+              {
+                "id": "351fafa2-0bfa-4d3f-873d-c5da92782e7d",
+                "title": "利用菱形的性质求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3e830b0d-7595-4501-a9e6-f6dfd2b67787",
+                "title": "利用菱形的性质求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8ff89ddc-c9cf-4718-86fd-baa97dae4b7f",
+                "title": "利用菱形的性质求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61770e49-6436-456d-8d83-72c92da50593",
+                "title": "利用菱形的性质证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "58418619-af6e-4cb6-a7fe-236df454bd80",
+                "title": "添一个条件使四边形是菱形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a4a04fa-6710-4a17-95ff-015fe107b8ef",
+                "title": "证明四边形是菱形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "18892d04-b2e4-4c52-8315-41ac839df7e3",
+                "title": "根据菱形的性质与判定求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0464dc1b-e3dd-4c49-894f-345a304df03f",
+                "title": "根据菱形的性质与判定求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a6810da6-6f61-4fea-a6e3-1c9b9027f5b6",
+                "title": "根据菱形的性质与判定求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "66ee2b4d-f1f9-40b5-b0d1-4068b3efd743",
+            "title": "18.2.3 正方形",
+            "content": "",
+            "children": [
+              {
+                "id": "b23fda8f-1ac8-4acc-ab13-ed631a9cbd7b",
+                "title": "正方形性质理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5dcba96-11a3-4d05-b0b4-1a91aa716ca5",
+                "title": "根据正方形的性质求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "37d759e7-7308-4601-8a35-7f6a4d5a9fe8",
+                "title": "根据正方形的性质求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "46f677b9-165c-4fe3-be5b-6e9c30919d98",
+                "title": "根据正方形的性质求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c7d9cfc0-0afe-4928-8f03-52fc968b8e2a",
+                "title": "正方形折叠问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ba7b56db-d561-4e49-bc90-38075c8cea88",
+                "title": "求正方形重叠部分面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a8e19bcb-29b6-4e09-b69d-8dfec329af15",
+                "title": "根据正方形的性质证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d21a132d-62bd-4b98-92f3-02f55889ed6f",
+                "title": "正方形的判定定理理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9c8e3af1-0dae-484b-8a31-6bc2cbe968b0",
+                "title": "添一个条件使四边形是正方形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "05ef57e1-bd6b-488b-9995-eb8f278c86a8",
+                "title": "证明四边形是正方形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4e5c5c1c-2afe-49df-9418-1ccc35a16e2a",
+                "title": "根据正方形的性质与判定求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e8264ac8-e66c-40d3-a7b0-a2a7e879c835",
+                "title": "根据正方形的性质与判定求线段长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "568324a1-770f-484d-9ec5-8bf56fb24096",
+                "title": "根据正方形的性质与判定求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5079a00f-14ba-482f-90fb-8d9e61f9fbea",
+                "title": "根据正方形的性质与判定证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5eaf5d8-412f-454c-9a48-44b6105916f0",
+                "title": "中点四边形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec2df76b-01c5-433d-b57b-71079919a51d",
+                "title": "利用（特殊)平行四边形的对称性求阴影面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "349a8a11-5a42-4bd8-90b6-573a02fd2eef",
+                "title": "（特殊）平行四边形的动点问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "db0b2171-5a59-4f08-9934-619beb3b85c5",
+                "title": "四边形中的线段最值问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b51f4eb4-9031-4acc-aa27-57a7e29f5cfa",
+                "title": "四边形其他综合问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "6a45de07-6d08-4bcb-a679-4ea8c289669a",
+    "title": "第十九章 一次函数",
+    "content": "",
+    "children": [
+      {
+        "id": "d5610b93-12b1-4969-8f3f-bc126de3288e",
+        "title": "19.1 函数",
+        "content": "",
+        "children": [
+          {
+            "id": "64ebaddd-bcc1-49a5-833a-87b1c06f7b2a",
+            "title": "19.1.1 变量与函数",
+            "content": "",
+            "children": [
+              {
+                "id": "a72d65b8-22af-4007-a406-b3121f5ae9ce",
+                "title": "函数的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "febda659-574d-4f40-9d43-19471ec38ef0",
+                "title": "函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0a7af417-bc91-46e1-8546-9fb04de5a2bd",
+                "title": "求自变量的取值范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "16985590-ea08-4e55-8a3e-20d64bfcd2d0",
+                "title": "求自变量的值或函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "120854c5-1a7f-4582-bd5f-7f79a2987485",
+                "title": "用表格表示变量间的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "441f9b49-5eaf-4fe7-acdf-cbc07afac068",
+                "title": "用关系式表示变量间的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "397fcd25-6367-4013-adee-81f97ba05649",
+                "title": "用图象表示变量间的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "08ed7f08-461c-41d6-a1e8-18aecba793b1",
+            "title": "19.1.2 函数的图象",
+            "content": "",
+            "children": [
+              {
+                "id": "1e62fcd1-007b-4953-8f9d-821ab2f00405",
+                "title": "函数图象识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2c40e784-0e83-4361-b845-dbdad9b430cf",
+                "title": "从函数的图象获取信息",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3cacd075-82f6-47f9-870d-80c869696301",
+                "title": "用描点法画函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "309fb019-c676-4712-88bb-cc3bf90e4b5c",
+                "title": "动点问题的函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7865fa5a-636b-4db7-bd47-eb53cd0504c9",
+                "title": "函数的三种表示方法",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9dd2169c-a64e-4ab9-b144-4bb4d6a91c7f",
+        "title": "19.2 一次函数",
+        "content": "",
+        "children": [
+          {
+            "id": "6f6d74d8-5b2e-435d-914b-2dfb61d1c2e1",
+            "title": "19.2.1 正比例函数",
+            "content": "",
+            "children": [
+              {
+                "id": "9f0142dd-95d0-4a71-a7d3-812e1da0fe4a",
+                "title": "正比例函数的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "492640e9-92b0-40f3-9427-bc6f522f939a",
+                "title": "正比例函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8dfd39e1-2123-4dc4-a86d-0e0bebc81ae4",
+                "title": "正比例函数的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "faff08ec-bab1-408e-b78b-2f0c236bc17d",
+            "title": "19.2.2 一次函数",
+            "content": "",
+            "children": [
+              {
+                "id": "3885e558-f721-43e5-b35a-b1d3fd26a73d",
+                "title": "识别一次函数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f068621-189b-42ed-8820-4bddbddc0e0b",
+                "title": "根据一次函数的定义求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a8e6fba2-d142-4047-a126-cded81e90a94",
+                "title": "求一次函数自变量或函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "780d0c7d-8d97-473b-aa45-5b6002a62c8a",
+                "title": "列一次函数解析式并求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "69cc0129-4a15-4b80-ace3-0ba204d78ca2",
+                "title": "判断一次函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "44c61347-977f-4693-b540-1f4067743c0b",
+                "title": "根据一次函数解析式判断其经过的象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b4591073-205a-4be1-8b38-2888912d1ba5",
+                "title": "已知函数经过的象限求参数范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c54e0cd3-d164-4118-b7d1-cd1c1c7005b2",
+                "title": "一次函数图象与坐标轴的交点问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c6c72cf3-2604-4570-bb49-c4c34cea8105",
+                "title": "画一次函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d2845112-d77d-4c4d-a9ec-83917e204ec4",
+                "title": "一次函数图象平移问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "939c9a98-1d0b-4b43-a80d-d2a6002b03b2",
+                "title": "判断一次函数的增减性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ef9efa4b-cf39-4445-bacc-226069dcaf36",
+                "title": "根据一次函数增减性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1c1aec4b-9fa8-47fd-8d61-ec2073d46796",
+                "title": "根据一次函数的增减性判断自变量的变化情况",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "68b670a0-7930-4634-a500-3b95a1f8a574",
+                "title": "比较一次函数值的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ef8a2a28-de92-46c2-8bd4-ab0be7aa7532",
+                "title": "一次函数的规律探究问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "08128830-3f5f-4e22-a31c-2f89e48d87b7",
+                "title": "求一次函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da463780-4795-4278-b8a1-fa5e907f2f32",
+                "title": "一次函数图象与对称问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "75e4c4b9-3f4a-42be-89f2-c668171a5c0f",
+                "title": "一次函数图象与旋转问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d5a2534f-61f4-4cb3-9d83-bc5ee6bb441e",
+            "title": "19.2.3 一次函数与方程、不等式",
+            "content": "",
+            "children": [
+              {
+                "id": "04b3ac10-449d-4745-a7e4-f3505c0e0069",
+                "title": "已知直线与坐标轴交点求方程的解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3ad004f6-2ad2-4236-a62c-4b65d8aaddbe",
+                "title": "由一元一次方程的解判断直线与x轴的交点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "69d315d8-8af6-482a-ab51-3dec5b7311a7",
+                "title": "利用图象法解一元一次方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1778cec2-caa5-4d42-983f-17960683d9d8",
+                "title": "由直线与坐标轴的交点求不等式的解集",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "14c37189-2ec8-4ca7-8a36-171ea10876f8",
+                "title": "根据两条直线的交点求不等式的解集",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ad9eba36-013f-4430-b2cb-06846d259952",
+                "title": "两直线的交点与二元一次方程组的解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a1346d43-5665-4b99-96a7-078733f1bdf5",
+                "title": "图象法解二元一次方程组",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "131ba659-8256-4b12-bb7e-53b9b7eca44f",
+                "title": "求直线围成的图形面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f68abfeb-8e93-407f-90fe-b0fa2d0599f9",
+        "title": "19.3 课题学习  选择方案",
+        "content": "",
+        "children": [
+          {
+            "id": "d0874055-456e-4a7d-aee4-bd6d0ef70348",
+            "title": "分配方案问题(一次函数的实际应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41b723d6-291a-4a08-bf02-f9e3115fea51",
+            "title": "最大利润问题(一次函数的实际应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5722a911-ba9a-48c0-917b-e92c44b742cc",
+            "title": "行程问题(一次函数的实际应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bd784008-0e14-4479-acaa-5f983a83277d",
+            "title": "一次函数与几何综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c7a53a79-49d5-46ef-8ff2-2c8f1dfeaa55",
+            "title": "其他问题(一次函数的实际应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b1868848-8629-4dce-9c39-3f70de99a1c1",
+            "title": "梯度计价问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "f78983b1-43a8-4a5a-a65d-362544dd2008",
+    "title": "第二十章 数据的分析",
+    "content": "",
+    "children": [
+      {
+        "id": "2fd9596a-5122-400d-b52a-cc6a9a7f09f1",
+        "title": "20.1 数据的集中趋势",
+        "content": "",
+        "children": [
+          {
+            "id": "e6b777b1-fa39-4512-a540-8098daa28886",
+            "title": "20.1.1 平均数",
+            "content": "",
+            "children": [
+              {
+                "id": "fb5f7088-74f4-48d2-a8f9-5db24c43a2aa",
+                "title": "求一组数据的平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2fb7429e-d3f2-4338-ae89-23faf3af9141",
+                "title": "已知 平均数求未知数据的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "28fb5faf-db93-4e01-bbf8-0e6cf104bfa0",
+                "title": "利用已知的平均数求相关数据的平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "24711e36-b082-4a2e-aaff-2fdb2f1dbdbe",
+                "title": "利用平均数做决策",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f3ff5d6f-6691-49a2-a94b-6b580062ed87",
+                "title": "求加权平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8deca5e0-f050-45dd-a3e9-5f7422d77316",
+                "title": "利用加权平均数求未知数据的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6918f9ac-7b8b-4512-841d-75eb2030d026",
+                "title": "运用加权平均数做决策",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e3af9d7b-31e4-491b-bb82-a86ef57f1f98",
+                "title": "出错情况下的平均数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "82e53a9b-514d-42dd-99f6-4923cc3a1e9e",
+                "title": "用计算器求平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "4443410e-8e20-433b-a397-f45d69860439",
+            "title": "20.1.2 中位数和众数",
+            "content": "",
+            "children": [
+              {
+                "id": "b5312004-cb2b-499d-a997-cabe0e790530",
+                "title": "求中位数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a0d73942-734c-40b2-b8ec-f761a3bc85c0",
+                "title": "利用中位数求未知数据的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0ebffb5f-d623-4274-bb3a-f0901a190c1c",
+                "title": "运用中位数做决策",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e4172eca-1654-4671-841c-cdacc23c3d0a",
+                "title": "求众数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ccb7321f-cd8b-4662-a9f2-9fabe59fb99c",
+                "title": "利用众数求未知数据的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fca219c4-f143-4724-bdf2-aab9445bdf12",
+                "title": "运用众数做决策",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a7c52586-361d-4856-9e9e-035a6a5c6db6",
+        "title": "20.2 数据的波动程度",
+        "content": "",
+        "children": [
+          {
+            "id": "716613bc-291f-4883-89b5-2aa9608b894c",
+            "title": "求方差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "edcf6151-dc1f-415a-8caa-666648f2aab7",
+            "title": "利用方差求未知数据的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d01a0ba1-5f13-4a79-ae05-befe9ab5df7e",
+            "title": "根据方差判断稳定性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bee65940-b7bc-4582-acbc-01da950ceea9",
+            "title": "运用方差做决策",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "56e63fd9-d8a7-4f09-9822-c9e7a9262dcb",
+            "title": "求极差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ed348ddd-e35f-40a8-a0d5-27ca8f8bc4eb",
+            "title": "已知极差求未知数据",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2e9d6163-a77a-4dc9-9e22-6d188331b744",
+            "title": "标准差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3d27ea09-876c-4767-8354-1f26a1d4b1dd",
+            "title": "平均差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4c41b53f-f67e-4b98-a738-a573761eb471",
+            "title": "用计算器求方差",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "fe03d478-5829-4b22-95ab-253937d98dfc",
+        "title": "20.3 课题学习  体质健康测试中的数据分析",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

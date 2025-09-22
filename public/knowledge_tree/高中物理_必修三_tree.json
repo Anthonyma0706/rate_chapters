@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "b4ff4386-a47b-44c7-b716-6e13300d928b",
+    "title": "第九章 静电场及其应用",
+    "content": "",
+    "children": [
+      {
+        "id": "05869168-3a75-4ebc-98ab-038feb4220f1",
+        "title": "1. 电荷",
+        "content": "",
+        "children": [
+          {
+            "id": "9f8c8294-ab3f-427a-820f-cdbf0a28650a",
+            "title": "电现象及其本质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "44810341-a317-4fa9-b16a-ecfafb4c492d",
+            "title": "判断物体带电的电性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca78626a-6660-4572-b17e-a497ed343568",
+            "title": "电量、电荷守恒定律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8a51e7c1-0d19-48e2-9eaa-0ccbd822e304",
+            "title": "元电荷与比荷",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dfbc7f36-8acc-44c5-8669-8b8d55b9559b",
+            "title": "接触起电",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3f494fb6-301c-45cf-afcd-9c703bb7c051",
+            "title": "摩擦起电",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fde23c61-9f74-48b7-a99c-1b4e2dea7f87",
+            "title": "感应起电与验电器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3c7ce9a2-7445-4cd2-8e52-e748666fa0e5",
+            "title": "带电与导电",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "696345a9-b247-456c-9277-ea1cc8652c89",
+        "title": "2. 库仑定律",
+        "content": "",
+        "children": [
+          {
+            "id": "4a651780-ef5d-471f-aac9-27137913f7bc",
+            "title": "点电荷模型及库仑定律的适用范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "567adb5c-a8f7-49cc-80a3-1309898beede",
+            "title": "库仑定律表达式和简单计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e36b7f98-9509-4305-af77-ca3e986f2453",
+            "title": "库仑的实验——静电力常量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ac7e0b56-bb8a-40b5-87f5-40ae7da31943",
+            "title": "计算不能当做点电荷的带电球之间的作用力",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a781f291-31a5-4391-ae0c-e5d6344a501c",
+            "title": "库仑定律与万有引力定律的类比",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "286ff0d6-5343-41a9-9213-782206ff75df",
+            "title": "带电小球的平衡问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b508eb83-8782-4c86-b960-7f3ea5b5a834",
+            "title": "静电力作用下的加速度问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "75bfe03c-e390-4c76-b1d9-1dc850bf5983",
+            "title": "多个点电荷间库仑力合成",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "22937092-6a12-4a07-bfac-1aed409a1825",
+            "title": "库仑力下的曲线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d42996ce-8635-4bb5-a3d6-9c62c0d848af",
+            "title": "利用动量守恒分析两带电小球的运动情况",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5ece6dc2-173f-4892-9066-4db9d55553cb",
+        "title": "3. 电场 电场强度",
+        "content": "",
+        "children": [
+          {
+            "id": "61627a93-5d2f-441a-9ee8-793429009123",
+            "title": "电场强度的定义和单位",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "78dd188a-88b1-4e3a-ad2f-9010776a66af",
+            "title": "点电荷与均匀球体（球壳）周围的场强",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2e28fe71-f118-4d5a-a43e-164430d0fd64",
+            "title": "割补法求电场强度",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9a3e47ee-3399-4061-a2ae-6e4506878989",
+            "title": "匀强电场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fe2033e1-189a-4848-96c8-c501e8e9e893",
+            "title": "电场强度的叠加法则",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7c0de403-a7b7-48fc-8bbd-bfc3b782eb58",
+            "title": "电场线定义及其性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d75faddc-90a3-4287-8436-84459a1ea4cc",
+            "title": "匀强电场的电场线分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b1f22676-2951-4171-b076-499fc6ca25c0",
+            "title": "正负电荷的电场线分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a9469b19-56a5-49a7-be59-e2a5f6a613ad",
+            "title": "根据电场线的疏密比较电场强弱",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "07e6e4cf-d1b7-43ea-a0da-f7f81b3329c0",
+            "title": "异种等量点电荷电场线分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cacfe306-fb8c-44ac-a083-fb2fde3daa4d",
+            "title": "同种等量点电荷电场线分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1378c429-45cd-4f81-bb45-4a41e3b39d44",
+            "title": "等量异种电荷连线中垂线和连线上的电场强度分布图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8fdbd899-e62d-4ba8-a97b-a72203d9ab9c",
+            "title": "等量同种电荷连线中垂线和连线上的电场强度分布图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d583f7e9-24ad-4642-8529-6671e0eb0a18",
+            "title": "不等量点电荷或多个点电荷周围的电场分布规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a504d079-253f-4b34-8883-66c520e7586b",
+            "title": "带电物体（计重力）在电场中的平衡问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ff1b3b42-ad70-4782-870f-f7fc53ec6e06",
+            "title": "电场的概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "140f2422-4407-4c95-8348-d14e0546a2ab",
+        "title": "4. 静电的防止与利用",
+        "content": "",
+        "children": [
+          {
+            "id": "25802051-206d-4efa-8e9f-c843ae78dd5f",
+            "title": "静电的利用和防止",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "68ba35f6-d42d-4905-a6b1-ce8bc025254f",
+            "title": "导体上电荷的分布、尖端放电",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9e8cb376-7ed8-4f59-a4fa-da9e12a79b2a",
+            "title": "导体处于静电平衡状态时内外电场及电荷的分布规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fb9667f4-6106-4e7f-958f-2421f42ce59e",
+            "title": "金属外壳屏蔽外电场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "734c598d-d2d0-4427-9191-0066b9ba2b8f",
+            "title": "金属壳内部电荷的电场被屏蔽",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e067e16a-f788-4e9e-aa81-91d217737909",
+            "title": "静电屏蔽原理的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a692ae85-6bf3-4781-ba78-7e3031475a95",
+            "title": "法拉第圆筒与静电加速器",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "a15e65c6-89f6-490f-afe4-f36b51d1d01a",
+    "title": "第十章 静电场中的能量",
+    "content": "",
+    "children": [
+      {
+        "id": "0b9e6a9d-f942-4281-8f2b-3252257a632c",
+        "title": "1. 电势能和电势",
+        "content": "",
+        "children": [
+          {
+            "id": "0ebfa70e-dd92-40fe-97ab-1f65f6ff886a",
+            "title": "静电力做功的特点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0eb01b97-c8ce-4885-bbcd-bf74d376b356",
+            "title": "电势能的概念及其相对性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8c9a7992-f7b3-4908-9dd2-1b39658363b8",
+            "title": "带电粒子在电场中的电势能",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ef9bf286-30a2-4627-b17b-6ea4f05c3f16",
+            "title": "利用功能关系计算电场力做的功及电势能的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "09610247-9050-4b4e-a2ad-fb4b59a4e847",
+            "title": "电势的概念、定义式、单位和物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eb412762-6b93-494d-a18c-e661bf65714c",
+            "title": "零电势的选取与电势高低的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "34887985-155e-4fe3-8d68-f27ff9a78f7a",
+            "title": "电势变化与电场线分布的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5e129973-7835-4a04-919c-ef8ea76fccb1",
+            "title": "带电体周围的电势分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d257f590-9057-4b70-ac04-75fb194b8bb9",
+            "title": "ψ-x图像的物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "400138af-a93b-4dcf-9374-de2e0e394247",
+            "title": "等量同种电荷周围电势的分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1f7af0e9-f829-49c6-b628-cb6856248fb6",
+            "title": "等量异种电荷周围电势的分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8ec9f1d3-e476-4571-87ce-015e9f414287",
+            "title": "等量同种电荷连线中垂线和连线上的电势分布图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "665b5163-df35-4b44-8097-503dea30765e",
+            "title": "等量异种电荷连线中垂线和连线上的电势分布图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3cf07d75-fd19-4453-ae51-97863323a1fc",
+            "title": "不等量点电荷周围的电势分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "42f5ca2c-8d77-4bd2-afa5-7cce31eb4119",
+            "title": "匀强电场中电势的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "50b38910-1857-40e2-902d-30f14eec4142",
+            "title": "点电荷周围电势的表达式与多个电荷的叠加",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e77c034b-4f5d-4c61-a252-55cbfd85eb5c",
+            "title": "根据带电粒子的运动轨迹判断电场方向或等势面的电势高低",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f24421a0-a3f6-42d3-9cdb-cb2a4f94c016",
+            "title": "Ep-x图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d6db9f28-4740-4912-b0a3-04105791d891",
+            "title": "带电粒子在点电荷电场中的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "aaf90218-7181-4a63-b368-06869e48f11d",
+        "title": "2. 电势差",
+        "content": "",
+        "children": [
+          {
+            "id": "2e99e41c-17d6-43fa-bbad-781dab25d37f",
+            "title": "电势差的概念和定义式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b75f3f51-3b11-45c2-a104-428ff115fc80",
+            "title": "电势差的单位和物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "accd6cd0-1810-404d-8952-47043635a578",
+            "title": "静电力做功与电势差的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "26928da3-0872-4ff9-89af-99d6e06ef6e5",
+            "title": "根据定义式计算电势差的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fdca86d4-427f-419f-b37f-9599da739dce",
+            "title": "电势与电势差的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f571a558-36b9-48ee-9a39-c6190378fc26",
+            "title": "用ψ-x图像计算两点间的电势差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1241446c-aa32-4260-a98b-7d97dde30186",
+            "title": "微观粒子的电势能单位——电子伏特（eV）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4b907c84-f6f3-4e41-baaf-9498912d5a5c",
+            "title": "点电荷周围的等势面",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6ce78575-2f98-47e1-b234-4e6e68525854",
+            "title": "等势面与电场的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ab9f7e0d-bf8b-448f-bb21-839d860df55a",
+            "title": "计算带电粒子穿越不同等势面时电场力做功和能量变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5fa4f310-6c5e-4600-bbb6-a7c1a0aa0895",
+            "title": "静电感应现象、等势体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cc9b719a-5158-4369-b013-cb2cb5047e47",
+            "title": "比较静电平衡后不同位置电势的高低",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c71f86c7-a3c1-4b10-936b-37291c306bc7",
+        "title": "3. 电势差与电场强度的关系",
+        "content": "",
+        "children": [
+          {
+            "id": "226089bf-fe2b-44e7-8148-783ee65b72fd",
+            "title": "匀强电场中电势差与电场强度的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0761a339-44e0-4f6a-a3bc-8a6a7567d9c4",
+            "title": "计算匀强电场中两点的电势差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "69283918-9b9e-4a63-909b-e9c408e29c08",
+            "title": "电场强度与电势的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aaa84532-d8cf-4b3f-a0c8-d317e3e5739b",
+            "title": "判断非匀强电场中等距的两点电势差大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9a6acb2d-50f0-411d-a760-f2fe36bdd13e",
+        "title": "4. 电容器的电容",
+        "content": "",
+        "children": [
+          {
+            "id": "d67cf90e-7092-44ff-af5e-a1a49a75c711",
+            "title": "电容器构造、用途及其分类",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0a8c72ff-88b0-4909-aa5c-621a4c97e26e",
+            "title": "平行板电容器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1dfada0a-45b4-4797-8d78-48a11446df0a",
+            "title": "电容的概念、定义式、单位和物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f00dc78a-ea63-4e83-a61f-256c2f7cd335",
+            "title": "利用电容定义式计算两极板的电势差和电量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e477901c-45d8-44eb-a4e9-da278648eb61",
+            "title": "电容器的Q-U图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a7d1a7d6-a0af-4c96-b2e5-2aeedb125936",
+            "title": "电容器的额定电压与击穿电压",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "34e37396-7325-4227-9a99-27393a67d2dd",
+            "title": "平板电容器电容的决定式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4d86aa63-9979-4b00-9cf6-918616a1c8a9",
+            "title": "电介质对电容器电容的影响",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "afffc593-6255-4bf4-99d2-c9c8b6787f44",
+            "title": "平板电容器中的电场强度",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "934913ed-b481-4487-a4cc-4faaac1fcd10",
+            "title": "改变极板间距，正对面积、填充物等，判断电容的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cb24b82a-7961-45d0-9011-28101c2b75d7",
+            "title": "电容器两极间电势差一定时，Q、E随电容器的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ad143b73-6c20-4eae-9bb9-a65c1f9d05e7",
+            "title": "电容器电荷量一定时，U、E随电容器的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "91889d1c-b2c9-4772-88ac-e2b9083352ea",
+            "title": "电容器内部的电势随极板移动的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d96df5ae-6af0-4c4a-90c8-b9b08a36a065",
+            "title": "电容器与验电器组合的动态分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41baeec4-28b2-4b5c-9af5-d64cd499ae94",
+            "title": "两个电容器相连时的电荷分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "81b900fe-8ff8-43ee-9428-39f529c1eaa8",
+            "title": "电容器的充放电过程及其特点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a1833753-6687-4487-bebf-75f30bbef196",
+            "title": "电容改变时电荷的移动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4cadab46-76da-4c54-a90d-a4a404b21ee1",
+            "title": "利用电流表测量电容器的电容",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d37c5c9d-0f9e-4a48-9888-2bb884329290",
+            "title": "电容器的储能",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9993fd55-d76a-421d-827b-e5bc8c83b8e3",
+            "title": "平行板电容器中某一点的电势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "21d494d6-128b-413b-9b18-79db9c2b15b1",
+            "title": "观察电容器充、放电现象",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4e87f98d-87d8-448b-8752-95b0b43978a2",
+        "title": "5. 带电粒子在电场中的运动",
+        "content": "",
+        "children": [
+          {
+            "id": "1b6f352e-2a0a-491b-9d20-8333a87b6238",
+            "title": "带电粒子在匀强电场中的直线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "398df922-2c7f-4ff2-8130-77c6d58df85a",
+            "title": "带电粒子在周期性变化电场中的直线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "48fbfad5-a97e-4771-b669-df91b7c11f63",
+            "title": "带电物体（计重力）在匀强电场中的直线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "79c82b57-e78e-4054-9aa3-7e1210994a98",
+            "title": "带电物体（计重力）在匀强电场中的圆周运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bcadabc4-9913-4a23-ad79-f6afc3d2f6c3",
+            "title": "带电物体（计重力）在匀强电场中的一般运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cc60b0a4-e5d5-4b35-a32c-edeb3e6872be",
+            "title": "带电粒子在匀强电场中做类抛体运动的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1bedf669-b996-44c4-ae88-ad9ba06a0250",
+            "title": "带电粒子离开匀强电场时方向的反向延长线经过极板中点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f328e7c3-3e9d-4f45-b967-586d269f44d7",
+            "title": "带电粒子在周期性变化的电场运动（初速度垂直电场）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "56c407b8-d09c-46a3-9de4-1844a9a7d823",
+            "title": "示波器的原理、用途与相关操作",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7819cb48-4b9c-4d8d-b1e3-f8f7b415a75b",
+            "title": "示波器的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "947e05d7-e860-4d44-8f53-2d21c8f846f6",
+            "title": "根据示波器原理推断荧光屏上图象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ae85b4cb-fcca-472e-a603-05d63fab60a0",
+            "title": "带电粒子在其他非匀强电场中的运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0a8c17fd-feb8-4da0-8656-8ceabf1cd00c",
+            "title": "带电物体（计重力）在非匀强电场中的直线运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "092f6763-b175-49d4-8a1d-aba069095ac8",
+            "title": "带电物体（计重力）在非匀强电场中的一般运动",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "bdaa10ec-cfae-411b-ae26-8844c8e49c04",
+    "title": "第十一章 电路及其应用",
+    "content": "",
+    "children": [
+      {
+        "id": "ec05f00c-3c45-4a8c-b6aa-59310b23b89b",
+        "title": "1. 电源和电流",
+        "content": "",
+        "children": [
+          {
+            "id": "6e216cd3-11c9-4c9c-b5ec-a781124cabec",
+            "title": "电流强度的定义及单位",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b8f21fd8-f014-430f-8e21-36e44fbc57a1",
+            "title": "电流的微观表达式及其应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2bac9954-64c6-48d6-889c-276ae8912e57",
+            "title": "等效电流",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9148513f-935d-4387-937b-9a67d5f25689",
+        "title": "2. 导体的电阻",
+        "content": "",
+        "children": [
+          {
+            "id": "382327b4-b50d-439b-ab3d-cfcdd55e304a",
+            "title": "非线性元件的伏安特性曲线",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82e8cfef-45ce-4177-bbcf-30e0764396a8",
+            "title": "限流接法的电路设计与应用条件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82b2dfbe-924a-4672-b6c3-f4deb11baffe",
+            "title": "分压接法的电路设计与应用条件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ece44ae9-b420-4a5e-a054-9d80e7773707",
+            "title": "探究导体电阻大小的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ed680aab-3710-44c1-87e1-8ad452657520",
+            "title": "电阻定律的内容及表达式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eac61488-dfe9-4f21-928a-370937084f3a",
+            "title": "计算导体的电阻率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "54468e81-ade9-46e1-8330-58e9606bcd81",
+            "title": "电阻率与温度的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "defdfdd4-c172-4af3-802c-16cd953f1580",
+            "title": "光敏电阻和热敏电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cc00f724-67fc-4b54-b16c-9cc12ea099f6",
+            "title": "超导体和半导体",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cf71273c-b3b2-4053-b720-bb0cf6c2e026",
+            "title": "测绘小灯泡的伏安特性曲线的实验目的、原理、器材",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8802f70e-df8e-4428-8b82-97000d8a4ede",
+            "title": "描绘小灯泡伏安特性曲线的实验步骤和数据处理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4a378c8b-7d71-4633-b0bc-a0cfaabbadba",
+            "title": "描绘小灯泡伏安特性曲线的注意事项和误差分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e21deb12-47a4-48b8-9bc9-145c0b643404",
+            "title": "由伏安特性曲线推测其他关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7ba2e3d0-7835-4a74-9f77-879192d698c8",
+            "title": "伏安特性曲线在求用电器实际功率时的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "72d4c574-5f55-401f-9a53-d7e096af49e7",
+            "title": "欧姆定律的内容、表达式及简单应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f52bace5-324a-4ef7-97f8-74764b70149b",
+            "title": "线性元件的伏安特性曲线",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "466219d7-3343-4858-8c57-3ecaeef5558b",
+            "title": "伏安法测量未知电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "7cc5d793-8bab-4d01-b005-411bbed1ae79",
+        "title": "3. 实验：导体电阻率的测量",
+        "content": "",
+        "children": [
+          {
+            "id": "efa2e6aa-6b7e-4096-a53b-00df15e7bc27",
+            "title": "测量电阻丝电阻率的实验原理和器材",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "44683b8c-aa28-4c58-b239-ec0127b954aa",
+            "title": "测量电阻丝电阻率的实验电路、实验步骤和注意事项",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f00d1f13-8e3b-4d61-bc27-aff9bee21b6c",
+            "title": "测量电阻丝电阻率的数据处理方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "11218fd4-4f61-4257-911e-430541389d9d",
+            "title": "电流表的内接与外接及相应的误差分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9cc4946e-e4da-4d4f-8cda-18f379bbf5fd",
+            "title": "补偿法消除系统误差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e3e8be0e-5502-4994-8aa4-cd9019a83e5e",
+            "title": "滑动变阻器的分压接法与限流接法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f41c0cc1-eabf-40c5-a069-72b322c1cd37",
+            "title": "利用双安法测量电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a4bd9363-fb96-49b8-a441-ba44653503db",
+            "title": "利用双伏法测量电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "05e97ec5-82dc-498d-bec4-db5d494414c1",
+            "title": "用电阻箱替代电阻测量阻值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ecff2367-fb07-4c5c-8e58-c9c7f6b5b7c1",
+            "title": "电桥法测电阻问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a85045af-e079-4249-8c63-80dc60bdfcd2",
+            "title": "游标卡尺的使用与读数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4e3cf773-5856-4d2d-9efb-4580dd54b085",
+            "title": "螺旋测微器的读数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c8bd175a-bffe-4ac2-ad6f-5cc9a395d3ef",
+            "title": "利用改装的电表充当电流（电压）表",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "fb00ae12-1556-4955-9a8f-a92727febd48",
+        "title": "4. 串联电路和并联电路",
+        "content": "",
+        "children": [
+          {
+            "id": "53cefdab-71e7-425c-828c-1515a4ad8a65",
+            "title": "计算电阻串联或并联时的电压、电流和电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "434ac570-ff3f-45d1-a059-e998e05900b3",
+            "title": "计算电阻混联时的电压、电流和电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b9660e2c-6ad4-4157-87b5-de29853055b8",
+            "title": "电流表与电压表的读数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cc6703ee-f2fd-41a8-817e-4f3d1d654188",
+            "title": "灵敏电流计改装成电流表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "461683a6-1af7-43d3-807f-3e0f999541c7",
+            "title": "灵敏电流计改装成电压表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9eefa33f-3df7-4e46-b735-e53f9ca97987",
+            "title": "电表的校准原理及其电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f2b84319-f70e-4d40-b3be-9401d9f3f7d6",
+            "title": "半偏法测电表内阻的实验目的、原理、器材",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6b69d022-4930-4f6f-b6e4-7a386689d034",
+            "title": "半偏法测灵敏电流计内阻的电路设计和实验步骤和误差分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "31fa5481-0158-4b9b-8652-19478ce6dad4",
+            "title": "电表内阻的校准",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "548e0214-04e2-4b63-960e-b56469a2a345",
+            "title": "电流表的内接与外接及相应的误差分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "10a6e345-d1b6-4797-8f32-41ba83c419f4",
+            "title": "利用改装的电表充当电流（电压）表",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5ab70fa9-da27-489b-89ae-4e226a38e2c1",
+        "title": "5. 实验：练习使用多用电表",
+        "content": "",
+        "children": [
+          {
+            "id": "860a4ef8-91fd-429a-a4ff-c1a857be00fa",
+            "title": "多用电表的结构和使用方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2c0f4d5c-ae7c-4dec-a966-2972cfc3234b",
+            "title": "多用电表直流电流、电压表的读数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b85e33ee-d55c-4c90-b24d-5a645c9e68ae",
+            "title": "多用电表测电阻的方法、操作步骤、注意事项和读数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aff4231e-ee7c-41eb-84ae-393921ce1174",
+            "title": "使用多用电表测量二极管的正反向电阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "02c00647-7e2c-490e-a6fb-2e317c501f04",
+    "title": "第十二章 电能 能量守恒定律",
+    "content": "",
+    "children": [
+      {
+        "id": "20d10a09-1012-4515-ad32-2501acfafc0e",
+        "title": "1. 电路中的能量转化",
+        "content": "",
+        "children": [
+          {
+            "id": "af9bbbf4-3e96-4c47-bad7-da5d6254af7a",
+            "title": "计算串联和并联电路的电功和电功率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7b6d03ac-420a-4926-9e8a-4818c859c971",
+            "title": "计算混联电路各电阻的电功和电功率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8065a736-f451-48e2-869f-bf57fe72f9f5",
+            "title": "焦耳定律的内容和含义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b4ddf4ba-a043-4bbe-8334-91fa9e1eee9a",
+            "title": "电流生热与电流做功的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a88cdc72-57e7-4918-8765-b61752f8b727",
+            "title": "电动机工作时的能量转化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9a1c65d0-e212-41f3-a4b0-b9d0cea4f6dc",
+            "title": "含有电动机电路综合计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a0d29d04-378e-481f-abc3-cb2cc076c3f1",
+            "title": "电动机被卡住时的功率情况",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bf28d5da-fb41-412f-891a-91f3155224a8",
+            "title": "其他非纯电阻元件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f4ef612-f62c-4fc4-8c0a-df8638d5a8dd",
+            "title": "电功和电功率定义、表达式及简单应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "da27bfe4-dc92-4d01-9111-ca866e57a383",
+        "title": "2. 闭合电路的欧姆定律",
+        "content": "",
+        "children": [
+          {
+            "id": "c65eccef-9357-421f-8f8a-d6e6e24bf3d4",
+            "title": "电源、电动势的定义、电动势与电势差的对比",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9d9879bc-3b28-4520-92ee-980cb2a0e083",
+            "title": "常见的电源种类及其电动势",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f6fe0d6a-b416-4a0b-9f49-dbd919c4a8e7",
+            "title": "判断电源内部带电粒子移动方向和能量转化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "03cd0d03-adf6-44a8-a7be-dec37b87ecc4",
+            "title": "闭合电路欧姆定律的内容和三个公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1bdda6bd-e29d-4bdc-afda-599e8f3818c9",
+            "title": "电源的U-I图像",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9bd94c7b-176b-4fd4-9b5e-f22ce86e36a7",
+            "title": "利用电源的U-I图像求解可变电阻的实际功率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f901255c-cc80-492c-9dae-0bf6833b47ed",
+            "title": "计算电源的输出电压、总功率、输出功率、效率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "77374610-c1da-4baf-b1da-b81df2a78a6b",
+            "title": "电源的最大输出功率及其条件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8625a9b3-9d95-42d9-a9b8-b6d5d58afadd",
+            "title": "多用电表欧姆挡的测量原理和内部电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f390bff6-d4c3-447c-8b85-cc056633524a",
+            "title": "路端电压随负载的变化规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "afb36e5c-9844-46e3-b457-7b596ae514a6",
+            "title": "由闭合电路欧姆定律计算电源的电动势和内阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "00585a02-1e2c-4a5e-aa44-07d63c4be3e1",
+            "title": "通过电源外特性曲线得到电动势和内阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8ba9e452-40be-4097-9865-5ac03f004869",
+            "title": "利用局部→整体→局部的方法分析动态电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f7f5f1c7-edad-459f-bd78-06c17cbbd1d4",
+            "title": "根据串反并同判断电阻电压和电流的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ae0bb95a-ad44-4bdc-88a4-ab71996e1f28",
+            "title": "判断电路中发生故障的元件和原因",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "adce502c-39f6-4778-a26c-bb87656c5e4c",
+            "title": "电路发生故障后电表示数变化问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "98e3c581-7e4e-47d4-87ba-f464d1e0c834",
+            "title": "电路发生故障后小灯泡亮度变化问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a089939f-5d81-4e58-bb4b-73016065db2a",
+            "title": "判断电路中电容器极板的电性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "99a9d7b9-31f0-4b16-ae4b-368446b024e0",
+            "title": "含容电路中有关电荷量及其变化的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "99acc780-0577-4b27-ace1-057f44019f66",
+            "title": "计算含容电路的电流和电压",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6f1af516-6bf4-44d8-9df7-82d77a61da2c",
+            "title": "含有电容的电桥问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "74886922-0625-41f3-a7e3-bea55d8c5310",
+            "title": "黑箱问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0cd92ee8-cdd0-432e-82e2-f153699b31b6",
+        "title": "3. 实验：电池电动势和内阻的测量",
+        "content": "",
+        "children": [
+          {
+            "id": "1c05d0fc-747d-45fe-8204-e3f756cc797c",
+            "title": "测量电源电动势和内阻的实验原理、器材、实验电路",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c2a724da-53ac-4eaf-b630-f912fa762340",
+            "title": "测量电源电动势和内阻的实验步骤和数据处理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b697da6c-07ec-4442-8763-f092c223da4e",
+            "title": "测量电源电动势和内阻的注意事项和误差分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7f908564-2f7b-440a-abea-1b9a7042e753",
+            "title": "用电流表和电阻箱测量电源的电动势和内阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "170034be-2c6e-469d-8ffe-16e280e45672",
+            "title": "用电压表和电阻箱测量电源的电动势和内阻",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "164c3005-62d3-47c9-9c60-166363ea5a49",
+        "title": "4. 能源与可持续发展",
+        "content": "",
+        "children": [
+          {
+            "id": "35e7d365-9be7-44e3-83ea-9cabcee3e929",
+            "title": "能源与环境",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "112558f5-766d-434a-b0e8-3682dd983722",
+            "title": "能量的多种形式",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "1a031bf1-6db6-428f-8ce6-ec68cd793935",
+    "title": "第十三章 电磁感应与电磁波初步",
+    "content": "",
+    "children": [
+      {
+        "id": "15e58fd4-e908-4cf2-ab70-9ae254536729",
+        "title": "1. 磁场 磁感线",
+        "content": "",
+        "children": [
+          {
+            "id": "ce9b6092-4c17-4ab9-bee0-8e647f97fffa",
+            "title": "磁现象、磁性和磁极、磁性材料",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "57ab3725-9c2f-4d2e-a7d4-7fc1a5638465",
+            "title": "磁感线的概念与特征",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "83e70548-a074-4090-910d-5b8fa4044c99",
+            "title": "地磁场及其磁感线分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8684bfac-ca84-4e29-89d4-6f556cced05b",
+            "title": "分析磁感线与电场线的异同点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "65e393b9-291d-40bb-8cfd-5e3d87881ac0",
+            "title": "由小磁针的偏转判断磁场的分布",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c2c06c99-145a-4432-bf9d-c045b3eceed2",
+            "title": "安培分子电流假说的内容",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6e8e2575-e56c-4d2e-92a8-ecbffc23666e",
+            "title": "用安培分子电流假说解释磁现象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8c379eb3-f4ff-4984-b927-8c7d91362196",
+            "title": "奥斯特实验与安培定则",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "03c2e91d-c0b7-45d0-8f08-7f5b4877cd58",
+            "title": "直线电流周围的磁场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9a1f9630-93df-4b54-86db-430b9b4d470d",
+            "title": "环形电流和通电螺线管周围的磁场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "897c0951-4635-4198-ae7f-f52642423b45",
+            "title": "磁感线与小磁针的偏转",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "62bbf706-6727-4740-a592-d5f2ee084b0f",
+            "title": "条形磁铁和蹄形磁铁",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "44487020-6fe8-4363-a0a7-6d0d03415075",
+        "title": "2. 磁感应强度 磁通量",
+        "content": "",
+        "children": [
+          {
+            "id": "ca6fa678-950a-4efb-85eb-88bb45fd594e",
+            "title": "磁感应强度的定义和物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c2ad6f6a-9a1c-49ee-bb52-2e1e7ac7a631",
+            "title": "磁感应强度的矢量性与叠加",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2e4bb85b-bc09-43fd-a674-22256ab7e323",
+            "title": "计算磁感应强度的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "88efe56a-ff55-4464-852c-bec15d0982e9",
+            "title": "匀强磁场",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2b8a9769-9cb9-4c2d-b510-cd79c5fd0293",
+            "title": "磁通量的定义、公式、单位和物理意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a6128510-1304-4112-918d-2b213abcfe5e",
+            "title": "计算磁通量的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8cadbc8a-7b71-4f3a-a364-505963d0fa57",
+            "title": "计算磁通量的变化量",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "aaf54b83-1856-42bb-b00d-180e1fbca636",
+        "title": "3. 电磁感应现象及应用",
+        "content": "",
+        "children": [
+          {
+            "id": "ba136228-6b17-47d3-84ed-38dc766f706d",
+            "title": "电磁感应的发现过程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1fd1f6c0-cb7f-4897-b7f1-30c82c5c759f",
+            "title": "导体棒切割磁感线产生感应电流",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6adb4e92-c424-427e-ad14-173036e85c17",
+            "title": "插入拔出铁芯电流表指针变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c1782db3-e615-44b6-9cf0-c6a6c30b89b6",
+            "title": "开关闭合断开的瞬间线圈电流变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "709da95d-b2ee-436a-922f-a3586db0f29c",
+            "title": "感应电流产生条件的总结",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "48e99d36-4e17-44a8-b4c3-51c84c3374b8",
+            "title": "磁铁靠近或远离线圈时产生感应电流",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "efb6d649-c2df-4916-bfa6-fdeaf8afe736",
+            "title": "线圈在进出磁场时产生电流",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5567539f-5052-4679-a3e5-e0459765fec6",
+            "title": "弹簧线圈收缩产生感应电流",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4d14972a-c7d7-4bee-9536-ee844232d4c2",
+            "title": "在地磁场作用下的摇绳发电",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "30244ca1-7814-477a-bb9f-31af0f49a534",
+        "title": "4. 电磁波的发现及应用",
+        "content": "",
+        "children": [
+          {
+            "id": "86bb7d39-b344-490f-99d4-c8a003aefec9",
+            "title": "电磁场理论与电磁波的发现",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c6ea7856-373e-470e-92be-c59253327e51",
+            "title": "电磁波与信息化社会",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1e8cab1f-949f-4fc6-9c46-99fbaf6f9695",
+            "title": "电磁波的波长和频率的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8633ad43-c3b0-44f0-ba8b-e572177ae5d0",
+            "title": "电磁波的能量",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "28a4eb44-94ac-4c7d-846b-c710ba68d8b5",
+        "title": "5. 能量量子化",
+        "content": "",
+        "children": [
+          {
+            "id": "ce707429-f795-4978-9add-ec0b65f59a52",
+            "title": "热辐射、黑体和黑体辐射",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e0ed50eb-c280-4fac-a23b-069240e8c58a",
+            "title": "黑体辐射的实验规律",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e258e62e-026c-4fc6-9b52-c7e73b6b722a",
+            "title": "理解量子化与能量子",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c40be157-46c1-4cb5-b024-991555f73958",
+            "title": "根据公式计算能量子ε的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

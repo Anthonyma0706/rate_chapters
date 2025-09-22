@@ -1,0 +1,3891 @@
+[
+  {
+    "id": "269022dc-fcfe-44b9-b8e3-163bf5c78b09",
+    "title": "第一章 集合与常用逻辑用语",
+    "content": "",
+    "children": [
+      {
+        "id": "94541459-5814-409c-afcf-c2c0eefde3a1",
+        "title": "1.1 集合的概念",
+        "content": "",
+        "children": [
+          {
+            "id": "fab08c1e-2b2b-41b1-9e51-92b8c948b611",
+            "title": "判断元素能否构成集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5b5abd65-cf87-46f2-a14e-2cf2ab64713f",
+            "title": "判断是否为同一集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "03c954d9-a0a8-4263-befd-fdaa7e6be4de",
+            "title": "判断元素与集合的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "533b3ccb-d6cc-4544-a58a-845b5ce1493c",
+            "title": "根据元素与集合的关系求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "12158656-2a4b-4f58-9a27-63590cfdc96f",
+            "title": "利用集合元素的互异性求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bd9ba8de-e071-4cd1-98f3-c1b14623081a",
+            "title": "自然语言表示集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3e4551c0-f7bf-47a0-8610-a6455fa6ab65",
+            "title": "描述法表示集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6f96f5d9-aeec-4442-86d1-2c7cb8b94b27",
+            "title": "列举法表示集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "53d303e7-ebe1-409e-b3fe-fe6cf6308cb6",
+            "title": "根据集合中元素的个数求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "541ad9d2-22d7-4658-8577-1912d3a252c2",
+            "title": "集合元素互异性的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7a16a141-59c3-4928-aed4-82ca265dd41e",
+            "title": "利用集合中元素的性质求集合元素个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bed5df1d-25bd-493f-a234-354a45320943",
+            "title": "列举法求集合中元素的个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f6aab4fb-670c-4328-a092-96269052e8a0",
+            "title": "常用数集或数集关系应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "80dad2b9-3da7-4030-88af-615707514d8f",
+            "title": "集合的分类",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7ec413f6-abb4-4d3f-bc42-c009a4860adf",
+            "title": "根据集合相等关系进行计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d2c5d42b-44e7-44ef-a8d0-558e0dae1650",
+            "title": "根据两个集合相等求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1799188a-f022-457d-b052-012e62b7847d",
+        "title": "1.2 集合间的基本关系",
+        "content": "",
+        "children": [
+          {
+            "id": "c81d6f12-1873-4988-be8f-0cff2413375e",
+            "title": "判断集合的子集（真子集）的个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "af8d344a-3767-4598-a5f4-486dac15cbe7",
+            "title": "求集合的子集（真子集）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a92b88c6-05dc-41f6-aa52-dd149aef2596",
+            "title": "判断两个集合的包含关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "08ebaf25-d7e8-460a-9679-9c45eacae83b",
+            "title": "根据集合的包含关系求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cdfdadc0-a7c1-4bd4-9324-c3e68518c3f9",
+            "title": "判断两个集合是否相等",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f937ecc2-c850-4b87-862d-a0a4d16fa03a",
+            "title": "根据两个集合相等求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6bccd841-b05d-4f75-87bd-abafb615a4c2",
+            "title": "空集的概念以及判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8e476423-139d-4131-b500-6d5f035315bc",
+            "title": "空集的性质及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4b9579f1-9f4b-48b3-83c3-7f3c3224d23c",
+            "title": "根据集合相等关系进行计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "37a61c77-43f8-43a3-90c2-27a731ba6179",
+            "title": "子集的概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0da801e8-bf63-44e6-a18e-799c8faf926a",
+        "title": "1.3 集合的基本运算",
+        "content": "",
+        "children": [
+          {
+            "id": "6e53eb9e-a3af-4691-99b6-b3acd6430b29",
+            "title": "交集的概念及运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b39c64e9-7de3-48e0-bd66-13c139a10d87",
+            "title": "根据交集结果求集合或参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1f506c08-c81b-4422-8c7f-cd24e3d8d71a",
+            "title": "并集的概念及运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a2d6eddb-b222-47ec-9155-01cdecd8dcce",
+            "title": "根据并集结果求集合或参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1c31a0c1-e2b8-49a0-90b7-637494553feb",
+            "title": "补集的概念及运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d73799ea-5dee-4daf-97d4-55b3a84efbdf",
+            "title": "根据补集运算确定集合或参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "25fd1af6-fc17-405b-ab4e-75f5ad4b1efd",
+            "title": "交并补混合运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "37ff5121-2102-4fa3-979f-cde7d4891e6c",
+            "title": "根据交并补混合运算确定集合或参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b803d58c-7be4-45d5-8022-d8d272a0617e",
+            "title": "集合的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "500707b6-64ad-4ed2-961d-1681f3d89b71",
+            "title": "容斥原理的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4611174d-755b-4baf-bb8f-9d1681753069",
+            "title": "根据并集结果求集合元素个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "908d84e0-04b4-441e-900c-3f6ac3e5678a",
+            "title": "集合新定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "740eddcb-726d-4cb0-b4a6-28d4979d5ab7",
+            "title": "利用Venn图求集合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "60883a63-2801-47f9-85d0-ca64fb51e8b6",
+        "title": "1.4 充分条件与必要条件",
+        "content": "",
+        "children": [
+          {
+            "id": "455d7f4b-2ef2-4a60-8a4e-30159e437fee",
+            "title": "1.4.1 充分条件与必要条件",
+            "content": "",
+            "children": [
+              {
+                "id": "2a0890ae-902f-4398-a521-13cf54eda3cb",
+                "title": "命题的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "834d19e4-ce56-4035-8748-675464e4957c",
+                "title": "判断命题的真假",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "57b22c92-c125-4fdd-8976-19fbfc0989ad",
+                "title": "充分条件的判定及性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "293f887a-7814-4dcc-953c-3c810a455af4",
+                "title": "必要条件的判定及性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "3504776d-3898-48ff-b7d4-22b0fe307aa4",
+            "title": "1.4.2 充要条件",
+            "content": "",
+            "children": [
+              {
+                "id": "749826d0-d108-4b78-b348-bd1fbec57dea",
+                "title": "判断命题的充分不必要条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "02a93275-de01-48fa-91b7-03e452203c19",
+                "title": "根据充分不必要条件求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "35b479d9-c979-47d6-8d88-15fb113b6d58",
+                "title": "判断命题的必要不充分条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5ca22a4a-4013-4942-be0e-6eade52b7b30",
+                "title": "根据必要不充分条件求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d52b6ef3-c784-4f72-b8f5-af4721b94d1d",
+                "title": "根据充要条件求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "96f1aec5-00a5-4f25-900b-92b7e3f4aa0b",
+                "title": "既不充分也不必要条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5073075d-c349-4af1-88f8-dc834ccb699f",
+                "title": "充要条件的证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "383a1793-f9fd-4356-984e-a42047ed41cc",
+                "title": "探求命题为真的充要条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8bf6ad58-de29-489e-80d9-4418970df7c7",
+        "title": "1.5 全称量词与存在量词",
+        "content": "",
+        "children": [
+          {
+            "id": "052b1294-9d10-4edf-b04d-98d164ea45b9",
+            "title": "1.5.1 全称量词与存在量词",
+            "content": "",
+            "children": [
+              {
+                "id": "95683bd6-629f-4900-924b-a4416c4bc226",
+                "title": "判断命题是否为全称命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "993ff7d5-cfb1-4e68-9b95-5a0ff691b932",
+                "title": "用全称量词改写命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3a830bda-cd88-45e1-87f3-fb7c49d5e750",
+                "title": "判断全称命题的真假",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "54cefa9a-981c-4db6-9c8d-9ec144cf283d",
+                "title": "根据全称命题的真假求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b05f4168-ef7b-4cc5-8342-385b11daefc7",
+                "title": "判断命题是否为特称（存在性）命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e6f405cf-4607-4840-b5e6-c91bfc830501",
+                "title": "用存在量词改写命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca0c6ea1-49dc-4865-8829-a7d1e8408ed7",
+                "title": "判断特称（存在性）命题的真假",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5d136cf-6014-4ba8-9944-3dc9800ac926",
+                "title": "根据特称（存在性）命题的真假求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "f4d02456-cebe-49cf-8c34-ea615301d42f",
+            "title": "1.5.2 全称量词命题和存在量词命题的否定",
+            "content": "",
+            "children": [
+              {
+                "id": "9bce87b6-45f5-4ed0-b8f1-276c383b046a",
+                "title": "全称命题的否定及其真假判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c38c5c4b-8db4-41a2-9ab3-8ef9a8666a61",
+                "title": "特称命题的否定及其真假判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4caca45c-7976-4033-9a29-da988bcedfe8",
+                "title": "含有一个量词的命题的否定的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "fa66a293-53c8-48a2-a085-160dc400b926",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "c33bcbd1-f94e-4980-8a60-21d6d4c2d581",
+    "title": "第二章 一元二次函数、方程和不等式",
+    "content": "",
+    "children": [
+      {
+        "id": "ab453ac0-bf0e-482e-928f-516287a0c7c8",
+        "title": "2.1 等式性质与不等式性质",
+        "content": "",
+        "children": [
+          {
+            "id": "dcf4f206-7fa1-43a7-831c-923fe70cd095",
+            "title": "用不等式表示不等关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "849a1164-6e5e-468b-9730-964074093d09",
+            "title": "作差法比较代数式的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e0ab19d3-ad3e-4f7f-aa9b-6ce8fd2c26ad",
+            "title": "作商法比较代数式的大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c3b5f0ef-c838-44e7-bb03-c7890e3ef9dd",
+            "title": "由已知条件判断所给不等式是否正确",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e4e3b862-9a6d-4e80-a203-5c212bcacd3e",
+            "title": "由不等式的性质比较数（式）大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "16a227e0-5e10-4eea-81c4-20a9a91f29ea",
+            "title": "由不等式的性质证明不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "dfac4a77-db85-4487-b985-b1bb9020ec3c",
+        "title": "2.2 基本不等式",
+        "content": "",
+        "children": [
+          {
+            "id": "1f761169-0f6f-410b-80bb-501af63119f7",
+            "title": "由基本不等式比较大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e72ce5d6-a8cc-418d-8376-13f1521b2fef",
+            "title": "由基本不等式证明不等关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4c49c522-0d99-4b68-9ccd-b755de19c307",
+            "title": "基本不等式求积的最大值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "24dcbcfb-ad7c-45d5-9330-916ab77065fa",
+            "title": "基本不等式求和的最小值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d5c220e5-9074-4bdf-a3e9-d8657b0256d7",
+            "title": "二次与二次（或一次）的商式的最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9bd0ebae-85af-4375-9ef9-bd6dc88a7a46",
+            "title": "条件等式求最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a5ffbaaf-8c05-4f9e-aafb-77221ac27d78",
+            "title": "基本不等式的恒成立问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "71a805a2-e3a5-4a9a-ba58-4bae54bf0537",
+            "title": "对勾函数求最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5227e0c5-87ed-4738-ba67-ffad656c3259",
+            "title": "容积的最值问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "40350782-7f91-42eb-97f0-37b031f5e2f2",
+            "title": "基本（均值）不等式的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "53506c18-169f-4df2-8f70-1c58f3dcdd2a",
+            "title": "基本不等式“1”的妙用求最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b7a790fb-e81d-4cf2-96a5-0b9b3a7ba6ff",
+            "title": "基本不等式的内容及辨析",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a033d0d1-cb01-4d7b-bf11-bc84b747cba8",
+        "title": "2.3 二次函数与一元二次方程、不等式",
+        "content": "",
+        "children": [
+          {
+            "id": "92870d65-7572-46f0-9a9d-0482c800eb91",
+            "title": "一元二次不等式的概念及辨析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "047b01b1-2d95-406a-8777-e21779a9d099",
+            "title": "解不含参数的一元二次不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7787b7c9-2292-47df-85d9-a78b4e5508a7",
+            "title": "解含有参数的一元二次不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c900e21f-889d-4e6d-b98a-21cb75f89dda",
+            "title": "由一元二次不等式的解确定参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca263011-450a-4a8c-9294-03a8818bbda7",
+            "title": "一元二次方程根的分布问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c4b23658-c117-4f7e-a359-e8e45558d96d",
+            "title": "一元二次不等式与二次函数、一元二次方程的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "60fc811e-a510-45e5-9e5a-fe028e4522b5",
+            "title": "一元二次不等式在实数集上恒成立问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ece4a0d4-acfa-4dd0-bef0-093e63476755",
+            "title": "一元二次不等式在某区间上的恒成立问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9a8d79c5-29fc-444d-a496-1b05f295cf2d",
+            "title": "一元二次不等式在某区间上有解问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "2d499149-61fd-4faa-9573-6990b8e7987d",
+            "title": "一元二次不等式的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "def5aa46-1da9-4622-b08d-7367847de839",
+            "title": "一元二次不等式在几何中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ccd7538a-5c4b-48c2-a8e3-809d57375f9e",
+            "title": "求二次函数的值域或最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5e9bfb86-328d-41a0-a007-01d6ff1c6579",
+            "title": "根据二次函数的最值或值域求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cbfee9cb-a9ea-4d7b-8383-203d13c4bb42",
+            "title": "已知二次函数单调区间求参数值或范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "54697348-8748-458b-8106-86e9513c8c5c",
+            "title": "判断二次函数的单调性和求解单调区间",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "79afbe48-8585-4062-a4bc-83e8dfccef97",
+            "title": "与二次函数相关的复合函数问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "555b6256-40ca-4f62-b2f1-8c4e2340a706",
+            "title": "二次函数的图象分析与判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "62d14d33-da12-4d66-b2cc-39d504cdfae1",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "029278d7-0833-4c53-9553-4ed102e82a06",
+    "title": "第三章 函数的概念与性质",
+    "content": "",
+    "children": [
+      {
+        "id": "b753591c-1948-48f9-a979-25dba9c09f0e",
+        "title": "3.1 函数的概念及其表示",
+        "content": "",
+        "children": [
+          {
+            "id": "e9ccb350-7d58-4aca-adbf-1f015502ccf0",
+            "title": "3.1.1 函数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "0a5ff864-0aea-4471-9275-749fecfcc7b1",
+                "title": "函数关系的判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d8c2a6aa-bbbb-409b-9241-dc9887e129c6",
+                "title": "求函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "01ecf20d-1f8f-49bc-b096-4021d6a0b82f",
+                "title": "已知函数值求自变量或参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c68a3a5c-f73f-4186-9489-53c86466dc85",
+                "title": "区间的定义与表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bb13e11e-1077-4d8d-b81c-719a9954722a",
+                "title": "区间的关系与运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4da86078-b6dd-4944-a8f0-5382a103d889",
+                "title": "具体函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a70fad52-5f94-4043-ba27-d7f4087a459b",
+                "title": "抽象函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "089be54b-ebe8-4562-9afc-7be1d09a22e4",
+                "title": "复合函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "417ff3d5-898f-4bad-be50-b9178dbf64e6",
+                "title": "实际问题中的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7b66d314-6503-4eff-ab5c-07e55eda5a5d",
+                "title": "常见（一次函数、二次函数、反比例函数等）的函数值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bea359d1-16ec-4117-a7cf-f3a0df5a79ae",
+                "title": "复杂（根式型、分式型等）函数的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6db7cc99-0218-434e-a7a2-51c116733442",
+                "title": "判断两个函数是否相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8c0ddf75-2f24-44a4-a87f-2fbe2d374af5",
+                "title": "根据函数的值域求定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cb7b097a-a425-4076-8bf2-f6f6c894f4e9",
+                "title": "判别式法求最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "91b7adea-a8bd-4c21-a822-5048f8ca7d5a",
+            "title": "3.1.2 函数的表示法",
+            "content": "",
+            "children": [
+              {
+                "id": "d265ef71-6cf0-4dcf-bfa1-1384c958fd25",
+                "title": "已知函数类型求解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "02391638-7cd1-4918-b80e-d46dab3e9b47",
+                "title": "已知f（g（x））求解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c07ae3e7-4315-4ac4-b75f-2fae369d6205",
+                "title": "解析法表示函数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3f2213cb-d290-45b4-b0d8-0671efe6685d",
+                "title": "图象法表示函数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "78d026df-b4d3-46fd-86e7-6a912b416e71",
+                "title": "列表法表示函数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "27b92268-5491-4c5e-b2a0-ec532b0b86ed",
+                "title": "求分段函数解析式或求函数的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "53e5050e-4335-40d3-acb3-303084329a7e",
+                "title": "分段函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4db5eeee-6948-41d4-9f16-3a0a319441f4",
+                "title": "分段函数的性质及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d895630d-0068-46a6-ad39-ce42f4dc51dc",
+                "title": "已知分段函数的值求参数或自变量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8ae2bc87-5b70-42f9-8b99-4e0352bdcdb8",
+                "title": "根据函数图象选择解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1db1b56f-2a2f-430b-bef0-0c225efcf892",
+                "title": "根据分段函数的值域（最值）求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b8415cac-ce6c-419a-ae74-60fa2ab492ff",
+                "title": "求分段函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c23b7332-60ae-4466-8494-cd2b51e6e8ca",
+                "title": "画出具体函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "751e7a3a-af4f-43e1-af28-f808cc5a645e",
+                "title": "根据分段函数的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9f732646-a8b2-4297-9279-0b08eda1f17e",
+                "title": "分段函数的值域或最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "933a1910-d42d-41b4-a6da-b5577337d65a",
+                "title": "解分段函数不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9f86e178-177d-4c55-984a-01b1e4eb88ab",
+                "title": "分段函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2467fc39-191f-49b5-b176-aaf8f55161b6",
+                "title": "函数方程组法求解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "089f4baf-7eb6-4027-9036-fcc3df790aff",
+                "title": "函数图像的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9ae5551d-2c77-47d2-a51e-e0e93e63692c",
+                "title": "根据实际问题作函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "11fd2964-f53d-4db0-92cc-639784bb2f73",
+                "title": "函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "13f892df-b388-419e-8d48-edf628b54487",
+                "title": "函数图象的变换",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0aa48fda-a954-4794-b28f-be44158fc16b",
+        "title": "3.2 函数的基本性质",
+        "content": "",
+        "children": [
+          {
+            "id": "8b925eab-35d2-425f-abbd-bdaf8cfa97c4",
+            "title": "3.2.1 单调性与最大（小）值",
+            "content": "",
+            "children": [
+              {
+                "id": "f591dd3d-ce7a-454a-b9ad-03cc097b7d4a",
+                "title": "定义法判断或证明函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec6641d7-4e3f-4fef-86a6-4a04492897ed",
+                "title": "求函数的单调区间",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a099d407-51bc-4edb-b320-eacd62fa0fd1",
+                "title": "根据函数的单调性求参数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0eaf6787-be3d-46b7-afd8-00bbcd6da63d",
+                "title": "根据图像判断函数单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "aafaa3c6-15f1-424d-8b49-37ca013d8aa2",
+                "title": "复合函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5d96bb8-4e0f-481e-bbc5-6b4489d818b9",
+                "title": "利用函数单调性求最值或值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "58c870cd-c399-4ad5-8a4a-bc66aa5ab051",
+                "title": "根据函数的最值求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e0680a06-16d1-4429-a099-eea51bbb848e",
+                "title": "根据解析式直接判断函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e1feb3a6-59e1-4679-9c09-7fc6eae75832",
+                "title": "比较函数值的大小关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4c94a445-ca69-4385-a5a6-4e9c5db8a537",
+                "title": "根据函数的单调性解不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "25963671-0cc3-4f5e-9ec3-0cafe9381fbd",
+                "title": "函数不等式恒成立问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7abdaf03-37f3-4358-bb1f-cdbbe7e11705",
+                "title": "函数不等式能成立（有解）问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c1c39e42-4b93-42b3-acce-b7b3837ed982",
+                "title": "复合函数的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "118ab034-b3f6-4983-a977-5f8a165501b5",
+                "title": "判别式法求最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7ec8c21f-e5c0-4a68-a896-dec318b2c120",
+                "title": "函数图像的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d9055421-6a44-4b6e-a77e-a9c579050cdd",
+                "title": "画出具体函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5cda325e-fed9-4a11-8c11-8d7652d21eb8",
+                "title": "根据实际问题作函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "94ce8e2a-1062-47c3-8f0a-dc8fae34f454",
+                "title": "函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "64cabe8f-a5e9-4f3b-a821-33abf1a7838e",
+                "title": "函数图象的变换",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c50526ad-a67a-4b4f-ba1f-3304506e30ac",
+                "title": "根据函数图象选择解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5df9e0ee-30bb-4d17-adb3-aede5102e6ff",
+                "title": "分段函数的值域或最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6874c817-dfd4-40fd-b91a-9cacd59d6deb",
+                "title": "根据值域求参数的值或者范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "297c2872-01ce-4685-ad93-fdcf35a82b9b",
+            "title": "3.2.2 奇偶性",
+            "content": "",
+            "children": [
+              {
+                "id": "3ce13b10-7951-472c-80c2-79cf7b243f24",
+                "title": "函数奇偶性的定义与判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7444c3ae-01bd-4075-8d89-d5cccc943396",
+                "title": "由奇偶性求函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f4a91621-d346-4477-9cd7-f2ae2e3dce98",
+                "title": "函数奇偶性的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da234c51-a780-4752-8334-3037e02cb0d6",
+                "title": "抽象函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "159cbb7e-aeac-4ef9-8574-4442fb76d81a",
+                "title": "由奇偶性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2df5696e-24a0-4c45-abb2-33d00d30f29f",
+                "title": "由函数奇偶性解不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b02e5b77-d2b1-4fa4-afff-f15457d824c3",
+                "title": "奇偶函数对称性的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a5cc1cdc-f15f-4782-b78e-a345c5a085e4",
+        "title": "3.3 幂函数",
+        "content": "",
+        "children": [
+          {
+            "id": "71830c12-deba-48ae-8306-585e4f7211a9",
+            "title": "判断函数是否是幂函数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a9069c38-648b-44da-b6e0-893ae1d2c65e",
+            "title": "求幂函数的值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cff2a513-05ea-4503-9f94-cc7bc5a609d5",
+            "title": "求幂函数的解析式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5da6230a-9d91-4395-8835-e01c290e47b9",
+            "title": "根据函数是幂函数求参数值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "038ee97b-36be-4f48-baf8-0fdd31a14ac1",
+            "title": "求幂函数的定义域",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "297f01f7-7697-4bcd-87fc-33c0d1a3e514",
+            "title": "求与幂函数有关的复合函数定义域",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8cf6517e-4bb3-4cc5-ae4c-5978645b06ce",
+            "title": "求幂函数的值域",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fd38810e-5e47-4f9a-a560-5abe8fc0529f",
+            "title": "求与幂函数有关的复合函数值域",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "203085ee-bcfa-4ca4-8070-26e9d6098b3d",
+            "title": "根据幂函数值域求参数或范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "53ed85fb-8a16-469d-8de4-3609feceb18a",
+            "title": "幂函数图象的判断及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b017c449-4ff5-48f5-946a-f7e63490a3a8",
+            "title": "幂函数图象过定点问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e23d21e8-2021-4dd4-893c-aeeb95c0bf51",
+            "title": "判断一般幂函数的单调性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5291c4e7-0089-4de5-b6b4-ed8ec4d28ae7",
+            "title": "判断与幂函数相关的复合函数的单调性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e7c6938d-9277-4440-820e-35679622ddbe",
+            "title": "幂函数的单调性的其他应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "48734692-8a5b-4389-9e68-91b345f6d686",
+            "title": "判断五种常见幂函数的奇偶性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "45149297-c0ac-4a89-bbed-648e06285dd9",
+            "title": "幂函数的奇偶性的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "016ec53b-61b7-4b14-ab0d-f2b129ba2717",
+            "title": "由幂函数的单调性求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca9b0ddd-2dc7-4874-8fbb-6afac210bdab",
+            "title": "由幂函数的单调性解不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ae2da07c-3e93-48a9-8872-4f6db81eeec1",
+            "title": "由幂函数的单调性比较大小",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e5204ccc-7a3a-4963-afc6-01be1fd0cdfa",
+        "title": "3.4 函数的应用（一）",
+        "content": "",
+        "children": [
+          {
+            "id": "d671627b-0aaf-4c2d-b4b3-08d9bf587725",
+            "title": "利用二次函数模型解决实际问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "23d09dc8-1334-42e4-9357-fe510f1bda60",
+            "title": "分段函数模型的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "60a117cc-6c97-45b5-aced-306351f939a9",
+            "title": "分式型函数模型的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0e35ed39-1318-4adb-a19c-de7569674ff0",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "6b21bcb9-58ef-4939-b359-db8b58749250",
+    "title": "第四章 指数函数与对数函数",
+    "content": "",
+    "children": [
+      {
+        "id": "c0ed0428-82a0-4251-a4df-1e09d83b2e31",
+        "title": "4.1 指数",
+        "content": "",
+        "children": [
+          {
+            "id": "0e09469f-5d5f-4375-8f31-fae7b07d496f",
+            "title": "4.1.1  n次方根与分数指数幂",
+            "content": "",
+            "children": [
+              {
+                "id": "29ca859c-c4cc-443c-a2c5-5749832453b0",
+                "title": "指数与指数幂的运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fc531f05-d5a7-4e92-9170-0a52699b1e4e",
+                "title": "根式的化简求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "e9e21af0-01be-4c62-9ed9-e2e9a1e3d6ba",
+            "title": "4.1.2 无理数指数幂及其运算性质",
+            "content": "",
+            "children": [
+              {
+                "id": "c899e0ba-870d-4adc-ace1-80a3da66143a",
+                "title": "指数幂的运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e06ce9ce-9b76-4147-83b1-4d4b1a2627e4",
+                "title": "分数指数幂与根式的互化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b17dc395-c87f-4583-8501-b674f620f8ef",
+                "title": "指数幂的化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "2bacc0ea-1037-4c77-80a8-d027de17cfb3",
+        "title": "4.2 指数函数",
+        "content": "",
+        "children": [
+          {
+            "id": "1a27a32f-81ad-4dda-bf89-248983a62884",
+            "title": "4.2.1 指数函数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "1a53a994-c8ce-4f60-a297-c7dff051f07e",
+                "title": "指数函数的判定与求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2b44a016-3391-43c8-865c-16f764d29f58",
+                "title": "根据函数是指数函数求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d7e99aa4-8967-4e55-afcd-a0e87f3bf13e",
+                "title": "求指数函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "60575716-8451-4079-82bd-5fff0cd7ae0f",
+            "title": "4.2.2 指数函数的图象和性质",
+            "content": "",
+            "children": [
+              {
+                "id": "b4057d47-7901-482d-b93f-66c6cbc53c4f",
+                "title": "判断指数型函数的图象形状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9741db23-f969-4a8a-a889-504a27cb5da9",
+                "title": "根据指数型函数图象判断参数的范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e7464571-85bc-4e63-b4a8-39466af053dc",
+                "title": "指数型函数图象过定点问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0f1d6d40-268b-453d-942f-b933cde2c825",
+                "title": "指数函数图像应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f3386e3c-786c-4cc4-825e-ed0f29d24d51",
+                "title": "求指数（型)函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "85a11cb2-222f-49b2-9c5f-740206695d1b",
+                "title": "求指数型复合函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1081467a-5dd4-4f4d-9b8f-78ef7292e9ca",
+                "title": "求指数函数在区间内的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f8c9e0a5-abf6-4db7-8b41-9ff42e3b4389",
+                "title": "求指数型复合函数的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7fd8cd63-bc19-48f3-8fa2-f98eec6a1af7",
+                "title": "根据指数函数的值域或最值求参数（定义域）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "794375ed-d111-4fbc-a3b1-0dbb1d675b19",
+                "title": "判断指数函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7df01478-ec39-432f-a57e-6f61094df628",
+                "title": "判断指数型复合函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d85416da-2e4c-478d-9682-61ca5c7082e2",
+                "title": "比较指数幂的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3c23a60e-be07-4c1e-b98b-7f2754ee9f1b",
+                "title": "求已知指数型函数的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "67097ebb-21c4-458e-8649-37410c4a7e47",
+                "title": "根据指数函数的最值求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "28032247-b349-471e-b2fc-e0b688ea21c3",
+                "title": "含参指数函数的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "72058b6d-c34e-4429-97c5-a1d115248c54",
+                "title": "指数函数最值与不等式的综合问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dde56cc6-c85a-437d-bd69-089710e22132",
+                "title": "指数函数y=2x和y=(1/2)x的图像和性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "45e38084-dd02-4906-932d-16f98c6e73f6",
+                "title": "由指数（型）的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8432f353-9803-4ccb-838d-0d0b88d3b275",
+        "title": "4.3 对数",
+        "content": "",
+        "children": [
+          {
+            "id": "71bf4f28-612a-4b33-b956-7e62a3980aa4",
+            "title": "4.3.1 对数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "325e2519-5e9e-40c0-a61d-abfddcd8381a",
+                "title": "对数的概念判断与求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "db59449a-f5b1-4fb9-b9b2-cd048df303e2",
+                "title": "指数式与对数式的互化",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "edc2e323-b4bd-4f4a-ae35-1e3dbf6d3c72",
+            "title": "4.3.2 对数的运算",
+            "content": "",
+            "children": [
+              {
+                "id": "ba7e0baf-06a8-4839-9986-1cc9c910df1d",
+                "title": "对数的运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "46c17b84-79bc-4fd5-b9e7-159d84840b96",
+                "title": "对数的运算性质的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "19bab6f4-9fa0-4475-8ffe-bfca7dcb8bf6",
+                "title": "运用换底公式化简计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bacb9b49-b3f0-43b9-9613-d87b8f8497f9",
+                "title": "运用换底公式证明恒等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f842cd59-62aa-4a9c-80ba-3edd7acec6be",
+        "title": "4.4 对数函数",
+        "content": "",
+        "children": [
+          {
+            "id": "0f73b6e3-bb41-4f4a-b3e1-f64be51227a4",
+            "title": "4.4.1 对数函数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "bfce19bb-a338-4ea1-b63b-2d9f4f0130bc",
+                "title": "对数函数的概念判断与求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cb271897-9467-4797-9f59-16612637f146",
+                "title": "求对数函数的解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ca6fdd5a-23a2-4415-be1e-92928daf8c7f",
+            "title": "4.4.2 对数函数的图象和性质",
+            "content": "",
+            "children": [
+              {
+                "id": "f953bdcc-81bb-4af7-a9ed-d058cff4f937",
+                "title": "求对数函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e6ec13d-e5a1-4428-b1c6-12fb01ba7a1a",
+                "title": "求对数型复合函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "27440cbc-da60-468b-8087-7fd0c1a95f18",
+                "title": "求对数函数在区间上的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c6e7e71b-0fac-457a-8ef3-c2af72a67a2d",
+                "title": "求对数型复合函数的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "01062c0b-b98e-488a-bef6-626df35deb5e",
+                "title": "根据对数函数的值域求参数值或范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "09bb9bdc-8706-41f4-b418-e7a5efc6a778",
+                "title": "判断对数型函数的图象形状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1f127bc6-05a1-4c94-a655-9a8f355677a6",
+                "title": "根据对数型函数图象判断参数的范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2cae5da7-1e61-4ecb-8792-636fa0e4c681",
+                "title": "对数型函数图象过定点问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "52bc104e-7240-4721-b7ed-6a537f957652",
+                "title": "对数函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec1cbb15-413b-421b-baff-681d40f6e810",
+                "title": "研究对数函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c06bee4b-6b2a-4393-b1f7-15bd2a876929",
+                "title": "对数型复合函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6fdb48d1-782f-4f22-b7b7-b8c34883bf6d",
+                "title": "对数函数单调性的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "898a6724-d827-4cd3-af05-6f8f9f679a9e",
+                "title": "求对数函数的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "60344ced-36d7-4cc3-b132-e3ded5f4e731",
+                "title": "根据对数函数的最值求参数或范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "80dad6e8-932a-42ea-9dc4-21e364f3046a",
+                "title": "对数函数最值与不等式的综合问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "76bead62-2dca-4e8c-bf80-db161f36a168",
+                "title": "求反函数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f4f99f8b-77c6-4daf-adfa-6a78c97ab4a5",
+                "title": "反函数的性质应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0928ff6f-1d77-4306-83bf-a086bab50da6",
+                "title": "列出对数函数模型的解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "84954711-c178-4bcc-8cc3-683fe985ae8f",
+                "title": "利用对数函数的性质综合解题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e3eea459-8492-4e5e-a7db-d52554e0ea6a",
+                "title": "对数函数y=log2x的图像和性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bdc304c2-1371-437e-86a4-25780781f34c",
+                "title": "简单的指数方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "071ae52f-24e8-42b7-819e-85d7af4e7d16",
+                "title": "简单的对数方程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eb69c2c7-89e4-4dfa-a4d5-318277d6be3e",
+                "title": "比较对数式的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2956bb3c-27f7-414c-935c-0972234717c0",
+                "title": "由对数（型）的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "00a073d9-74d4-42fc-8b9d-6c108681db1b",
+                "title": "由对数函数的单调性解不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d2ef194f-0d67-4732-aa15-0be83bd2d1fd",
+            "title": "4.4.3 不同函数增长的差异",
+            "content": "",
+            "children": [
+              {
+                "id": "3503a5c5-4781-43b8-9e6f-d4e9215899d3",
+                "title": "指数、对数、幂函数模型的增长差异",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dfbadc66-4856-40fd-a165-ad540f3e9a18",
+                "title": "根据实际问题增长率选择合适的函数模型",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1602b674-2940-40f4-ab1a-5605dc5d81f0",
+        "title": "4.5 函数的应用（二）",
+        "content": "",
+        "children": [
+          {
+            "id": "d0dadbe8-e77d-4f06-aac2-d8ea69c0ae24",
+            "title": "4.5.1 函数的零点与方程的解",
+            "content": "",
+            "children": [
+              {
+                "id": "6ae3d718-0324-49dd-8fbe-62ed0ed87a08",
+                "title": "求函数的零点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3beff11f-5ada-49ca-ba30-5c0a00bd78b8",
+                "title": "根据零点求函数解析式中的参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4fc6f0c1-d9b6-4e5f-81ef-a577babb857f",
+                "title": "零点存在性定理的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2cd41782-4f9c-4abb-9860-909e096b78cc",
+                "title": "根据零点所在的区间求参数范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c7e77eeb-f2ac-491f-9d0e-85a527d26c3c",
+                "title": "根据函数零点的个数求参数范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "727999b9-5dc2-4f64-9c58-cc365f8e46e5",
+                "title": "根据一次函数零点的分布求参数范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1becf765-5300-4291-a2d5-7315f40784c2",
+                "title": "根据二次函数零点的分布求参数的范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8837744a-03a0-4851-b888-d4b9f7c91eab",
+                "title": "根据指对幂函数零点的分布求参数范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fa0b69e3-9d0c-4b52-af88-dc51ab12467b",
+                "title": "函数与方程的综合应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e01d7e80-2a2c-4c26-b33c-df0d37438bc3",
+                "title": "求函数零点或方程根的个数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f40d80aa-4b81-458a-816a-01acc935ffd8",
+                "title": "比较零点的大小关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "409c0b31-ba0c-4afc-a899-e3d964ab69f6",
+                "title": "求零点的和",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "33b116e6-8094-408a-964d-045f9ab2c695",
+                "title": "根据零点判断函数值的符号",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7233dff0-ea54-4ef6-b0e5-211f8cdd159d",
+                "title": "判断零点所在的区间",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "9feadd55-4e43-4c9f-be28-79d3e3cfb3e6",
+            "title": "4.5.2 用二分法求方程的近似解",
+            "content": "",
+            "children": [
+              {
+                "id": "d6294e0d-517a-4a75-9be5-b975fbaac31f",
+                "title": "用二分法求近似解的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e948d81-08c9-4973-a68d-b46a103e0bf6",
+                "title": "二分法求方程近似解的过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a505a771-ab7f-4a28-b007-41d24e0b24db",
+                "title": "二分法求函数零点的过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "560c0dd4-6696-40ff-a56d-edb24eeb3559",
+            "title": "4.5.3 函数模型的应用",
+            "content": "",
+            "children": [
+              {
+                "id": "f3368f92-2c01-4735-9584-986c3aff60d6",
+                "title": "指数、对数、幂函数模型的增长差异",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3bc41447-1547-4f2b-a35b-f09e5f033f10",
+                "title": "根据实际问题增长率选择合适的函数模型",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7d2f5751-caae-458b-9cb5-8e129c317b67",
+                "title": "利用二次函数模型解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "968344f8-5803-4cbe-85a0-c4185513fbfa",
+                "title": "分段函数模型的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7b56cdd1-c8c2-4009-970c-92064ad91e47",
+                "title": "分式型函数模型的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "79bc1492-811b-45d0-b878-cf2c28be6dd9",
+                "title": "指数函数模型的应用（2）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e07a8190-e0a0-4bc9-b4e4-2570143a6b2f",
+                "title": "对数函数模型的应用（2）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ad89dec6-c31b-4e52-91b1-789de4182b59",
+                "title": "幂函数模型的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7f961320-773a-4d4b-8a0c-50fe511dbc2c",
+                "title": "利用给定函数模型解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5284283d-8397-4844-89ac-9bb29c0217a5",
+                "title": "建立拟合函数模型解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c57f8742-44d2-4efa-8db6-67a47b2b9300",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "f9480963-23aa-4be8-ba2a-33f159e0f2d6",
+    "title": "数学建模      建立函数模型解决实际问题",
+    "content": "",
+    "children": [],
+    "level": 0
+  },
+  {
+    "id": "600bb37c-60a0-4d93-8536-05927d662ef8",
+    "title": "第五章 三角函数",
+    "content": "",
+    "children": [
+      {
+        "id": "fbc44544-a8ce-409d-b735-cf60f1954021",
+        "title": "5.1 任意角和弧度制",
+        "content": "",
+        "children": [
+          {
+            "id": "89fdd02f-755a-47ee-9d3c-efa28e3051cf",
+            "title": "5.1.1 任意角",
+            "content": "",
+            "children": [
+              {
+                "id": "39709361-8225-4aef-8f34-ff7ec0e23a8f",
+                "title": "周期现象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2c17c672-ba77-4af1-ae65-7121b806e130",
+                "title": "任意角的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2fe022af-92a1-4c85-b990-959f791edfcd",
+                "title": "终边相同的角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "09ecb73b-e9ea-4cfb-9d2b-8d1203199a42",
+                "title": "找出终边相同的角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "19218a6d-f15f-4c73-a506-de9ba17fc759",
+                "title": "根据图形写出角（范围）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fd929bd8-ba8d-4da2-82b1-f9d2c72014bd",
+                "title": "轴线角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c05590da-8898-4c5d-be56-031156bf2584",
+                "title": "象限角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f20aaa31-7e3e-4a18-8931-ad2489a7020e",
+                "title": "确定已知角所在象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a9e7fc04-eaef-4a6d-bfb1-5bdc6e742645",
+                "title": "由已知角所在的象限确定某角的范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b31b076d-9fef-4a97-b71b-4b63c7edf4c7",
+                "title": "确定n倍角所在象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2f9d36e2-cc22-4592-b036-488f0a5d9b87",
+                "title": "确定n分角所在象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "8a045ccf-9d73-4e38-b78f-82c45dca6ee5",
+            "title": "5.1.2 弧度制",
+            "content": "",
+            "children": [
+              {
+                "id": "02283c61-a335-4af3-aa70-6b05ceca561f",
+                "title": "弧度制",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fa1db565-8610-498c-ba07-02d1ba954cb4",
+                "title": "弧度的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c7e4ac51-d82d-4a18-abf2-1b1bd207ca21",
+                "title": "用弧度制表示角的集合",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c4ae08a5-6c5f-4022-adfa-918347a00f7a",
+                "title": "角度与弧度的互化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "701397d3-6aeb-48fc-93f3-e515ae6665f0",
+                "title": "角度化为弧度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2646eb7b-5975-4d37-8f39-ae8f369c8d1d",
+                "title": "弧度化为角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7eecea03-8217-4bd7-bc77-82dae7580f11",
+                "title": "弧长公式、扇形面积公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2ff56627-bc79-4535-a1da-e42ec8cd78ba",
+                "title": "弧长的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f8ff8b28-30ad-4e48-a66f-1274536af940",
+                "title": "扇形面积的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2110e48f-c15d-44f0-99ed-0e5cf81cfdb1",
+                "title": "扇形中的最值问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "57a9f081-8331-4f6a-bfc8-5366ab3d7727",
+                "title": "扇形弧长公式与面积公式的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "45bd5c46-70c2-4b08-9873-1f9897af0981",
+        "title": "5.2 三角函数的概念",
+        "content": "",
+        "children": [
+          {
+            "id": "ee821b9e-2001-4ba5-a81e-93223502b04c",
+            "title": "5.2.1 三角函数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "8a7a2a21-7a15-4864-bee1-0c598292c5ed",
+                "title": "任意角的三角函数的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3f9cebe4-4a37-4ea5-a529-9ced3eedf9ea",
+                "title": "利用定义求某角的三角函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d5206166-3216-469b-ba81-d8875b0bbcfc",
+                "title": "由终边或终边上的点求三角函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8a1f9c35-8f40-4eeb-92bb-1b4792941eb6",
+                "title": "由三角函数值求终边上的点或参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "634569ab-d2bd-443e-a1b6-80eba6dbef52",
+                "title": "特殊角的三角函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "92e150bf-2fdf-4584-88c2-85ebd593177d",
+            "title": "5.2.2 同角三角函数的基本关系",
+            "content": "",
+            "children": [
+              {
+                "id": "58808e0d-f9c6-40ea-b87b-bc7a6b4bcb06",
+                "title": "单位圆与周期性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b1d98d23-9f32-4a6e-8d8d-9a6c4ffe66e7",
+                "title": "由单位圆求三角函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d1c96c24-d6ad-4ef4-b8f3-98c5d85c8ccc",
+                "title": "单位圆与正弦函数、余弦函数的基本性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e619d35e-dbbc-435a-9f2e-5815fffcb433",
+                "title": "各象限角三角函数值的符号",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "44d7e9ac-625a-4e95-84ce-21433de6d253",
+                "title": "已知角或角的范围确定三角函数式的符号",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da61e67a-1ac1-4a36-a23f-8118c1c1fd4f",
+                "title": "由三角函数式的符号确定角的范围或象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e75db994-4352-4af9-bbcf-761a4355510d",
+                "title": "三角函数线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1c3d968a-bb22-4cb5-baf9-1c7ffeaec5d3",
+                "title": "画三角函数线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8b4d973e-3c52-4c65-aeb0-111fcd63ce5b",
+                "title": "三角函数线的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca2a78f6-a7ab-4a2d-96a3-df07a36d207c",
+                "title": "已知三角函数值求角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7aeb6bf7-b741-4f5c-aa93-c6007d186688",
+                "title": "同角三角函数的基本关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bc367bf4-cbde-4518-82e7-16c3c441b208",
+                "title": "平方关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6e4d6ee6-2904-4e9c-a75e-06436d547b70",
+                "title": "已知正（余）弦求余（正）弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9f39fb39-3312-4937-84a3-dcdf42ea9a04",
+                "title": "由条件等式求正、余弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c5215cfb-f71b-495d-a1fe-86f87c3aef70",
+                "title": "利用平方关系求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "35c796ec-3f25-4fb9-bac4-0f97ea20f5e4",
+                "title": "sinα±cosα和sinα·cosα的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b0258de6-6439-426d-849a-ec19418e91e1",
+                "title": "商数关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b8e179cd-56d2-4eaf-ad64-b67bf5c73174",
+                "title": "已知弦（切）求切（弦）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ce4f2467-f9d6-4313-a6d6-6dedf6cf7f5b",
+                "title": "正、余弦齐次式的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8eab22ba-055c-40d3-95f2-01ac876e3c0e",
+                "title": "同角三角函数基本关系的综合应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07fa7a88-ac88-402c-9ef3-7d0114a91f8b",
+                "title": "三角函数恒等式的证明——同角三角函数基本关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bc481d41-181a-4e4f-a42a-1d37dc7d82cc",
+                "title": "三角函数的化简、求值——同角三角函数基本关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e89fce40-d5b3-45f2-8363-c97b14648eba",
+        "title": "5.3 诱导公式",
+        "content": "",
+        "children": [
+          {
+            "id": "61d9dc30-4c30-42ac-b9c6-c5553c78e8a8",
+            "title": "三角函数的诱导公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "29ab9732-e95d-4a4e-8bcb-75d9887c2803",
+            "title": "诱导公式一",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "66207980-bf0e-4cca-95a2-d59456bf6199",
+            "title": "诱导公式二、三、四",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a734aca2-6e8a-49dc-af20-79e8c868d5e9",
+            "title": "诱导公式五、六",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5b50643d-1009-4c4a-a4ed-4ff4e4891b50",
+            "title": "诱导公式的综合应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "57f9bec4-e7c5-4458-b2d5-b67ce500d863",
+            "title": "三角函数恒等式的证明——诱导公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bdef6310-e046-4eaf-b30d-9eca3bfa1310",
+            "title": "三角函数的化简、求值——诱导公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8e3051b7-d494-472b-acaa-fdbb0e58d046",
+            "title": "正切函数的诱导公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "bc872ea9-481a-4c16-a602-e8df706aa977",
+        "title": "5.4 三角函数的图象与性质",
+        "content": "",
+        "children": [
+          {
+            "id": "ca3fb4a4-33f8-4bfd-ba0f-53541d138f99",
+            "title": "5.4.1 正弦函数、余弦函数的图象",
+            "content": "",
+            "children": [
+              {
+                "id": "98285875-6554-4d30-8c5b-22728d5b6ee5",
+                "title": "正弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "34d8afb2-15d6-4a1e-a940-46643e9ef0d0",
+                "title": "五点法画正弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cdd341e4-d168-4689-839e-da9221be1921",
+                "title": "y=Asinx+B的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "12a9b65a-41ed-4257-bea4-a6273ce67194",
+                "title": "含绝对值的正弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "930d0260-dc31-4ede-a935-cc2d3b027246",
+                "title": "正弦函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6db6794f-02d1-4d51-8b8f-ed33ab91d24c",
+                "title": "余弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "18ca571c-f457-4351-9b37-511e0af410bb",
+                "title": "五点法画余弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "56a58832-b23d-4a0b-a918-6c32e59cbec7",
+                "title": "y=Acosx+B的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "92d85c6d-2469-4bd6-a8f7-59b21347195a",
+                "title": "含绝对值的余弦函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9cb43d74-53f0-4737-b522-75517237d59f",
+                "title": "余弦函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "fc80b8a5-9def-413d-9d26-08121f0357e5",
+            "title": "5.4.2 正弦函数、余弦函数的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "e8904d58-53df-4fae-bf55-853a46a76a00",
+                "title": "正弦函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f33f2575-8ff6-4fb4-bf74-80c041328d24",
+                "title": "求sinx的函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "22c63a01-6f93-4d23-8c21-cf92b5eddada",
+                "title": "利用正弦型函数的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d0d872b2-5269-42f2-9adc-74c5f4f489bc",
+                "title": "比较正弦值的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "28292c86-d8e7-4e07-8998-e808bdfcc0eb",
+                "title": "解正弦不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d13dd06a-1022-44cb-8d2a-91405b9fe118",
+                "title": "正弦函数的定义域、值域和最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1cba076a-ed12-4ced-b986-2e860f4272ec",
+                "title": "求含sinx(型)函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "203a1a21-ce6d-4bdf-892a-36f74472e31b",
+                "title": "求含sinx(型)函数的值域和最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "11b2d6b6-a7ec-462f-8edf-ec5dd8ca0e8a",
+                "title": "由正弦（型）函数的值域（最值）求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "710a4008-97bc-4608-a7a9-82b57f6b20d7",
+                "title": "正弦函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "02933d7a-77d0-4a7a-95d5-78485aa94bab",
+                "title": "求正弦（型）函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dc47bb66-817a-4e91-860c-4298303d06d1",
+                "title": "求含sinx的函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9d3a3276-6d44-44c4-85d6-177f46d6adca",
+                "title": "由正弦（型）函数的奇偶性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d4bc651-107b-42bd-9a9a-20ee24aff69c",
+                "title": "由正弦函数的奇偶性求函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "84f44bc0-69cc-4553-8d90-78554f1487b7",
+                "title": "正弦函数的周期性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bebf681f-d6f5-42e2-9e47-0b07df071b49",
+                "title": "求正弦（型）函数的最小正周期",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b3767f2c-20e7-493a-8ce2-e25417a72942",
+                "title": "求含sinx的函数的最小正周期",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "438d5a2b-2549-4e7b-ad35-8d9edd0803ae",
+                "title": "由正弦（型）函数的周期性求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "12a4648b-3f72-4940-84d9-87ad1e4ada93",
+                "title": "正弦函数的对称性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8328c1ff-c6e1-469a-825f-94c5e38e6537",
+                "title": "求正弦（型）函数的对称轴及对称中心",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3e97205d-e8f5-466a-af0a-e5cd1e0e1b63",
+                "title": "正弦函数的对称轴与单调性、最值的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ad184952-75c1-4c93-90c1-0919d4240f6c",
+                "title": "由正弦函数的对称性求单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9c9ae062-96c3-460f-8766-9a855e943061",
+                "title": "利用正弦函数的对称性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2ed26ca8-cd30-4183-b535-aee171ef5b71",
+                "title": "利用正弦函数的对称性求最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "87d6d2ba-ebf8-4378-9b87-38c80c3d9dec",
+                "title": "正弦函数对称性的其他应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "df74cb15-d341-4acc-921b-9d486aacc0e1",
+                "title": "余弦函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61e469a8-8a3a-4821-9956-daac60150b19",
+                "title": "求含cosx的函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cd6e41cf-32fe-440f-bc7a-bf470e449824",
+                "title": "求cosx型三角函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2affa084-0c50-4e08-80cb-1bb99dc9ff68",
+                "title": "利用余弦函数的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a17e275-70bb-4c00-822b-3b403824241d",
+                "title": "比较余弦值的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "33455066-b56c-4548-8338-02e5a09f547a",
+                "title": "解余弦不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "86d912ca-9249-4cc1-9fce-a7f42fc9a9a8",
+                "title": "余弦函数的定义域、值域和最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dbb749a4-3d68-4dcf-a226-3834b6ef5368",
+                "title": "求含cosx型的函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5da0331a-6c35-41cf-80df-4e6dac327f36",
+                "title": "求cosx(型)函数的值域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e9fecf33-d2b0-422a-bb14-05aad46054d0",
+                "title": "求含cosx的二次式的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c6674357-976d-4229-9f9a-2160efa6db82",
+                "title": "求cosx（型）函数的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "925a6e28-aafc-4052-b379-1d8cfa140b4d",
+                "title": "由cosx（型）函数的值域（最值）求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "28379ed4-48cf-4e64-9f9b-5000bd136089",
+                "title": "余弦函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6fe1be77-f542-4682-b186-263d0c673537",
+                "title": "求余弦（型）函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fce8d9a0-df86-4138-893c-069487028e88",
+                "title": "求含cosx的函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d0c6fc17-48d1-440e-a8cb-2dd5c1c833a1",
+                "title": "由余弦（型）函数的奇偶性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1c3b067f-91ac-4e62-a832-efc13223f042",
+                "title": "由余弦函数的奇偶性求函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5825309f-00a1-4c4d-a693-74d4b5269e99",
+                "title": "余弦函数的周期性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1ccfbe5f-2bfa-4fec-b70c-6801cf008c43",
+                "title": "求余弦（型）函数的最小正周期",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "91a1661b-7212-4ef8-8dfb-e62164ce363f",
+                "title": "求含cosx的函数的最小正周期",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b4ef501f-d8f9-432d-9685-943c7f91b09a",
+                "title": "由余弦（型）函数的周期性求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "54fc93fc-8605-4468-8b36-db534ace284e",
+                "title": "余弦函数的对称性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "903ef97a-1c0e-44f6-b505-a805c4ed9442",
+                "title": "求cosx（型）函数的对称轴及对称中心",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "86ecb3e0-b8eb-4a87-bab8-7205e347dfbd",
+                "title": "cosx（型）函数的对称轴与单调性、最值的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec253fc3-cb1d-4451-a668-ee491054b9e5",
+                "title": "由cosx（型）函数的对称性求单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "afc26a8f-20b6-41b4-8cc6-66f6ec8ef57c",
+                "title": "利用cosx（型）函数的对称性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "002dbe92-0ab5-4263-a8ad-4ac5ebee7441",
+                "title": "利用cosx（型）函数的对称性求最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e99a9288-5599-4d38-9eef-c9532d6700f5",
+                "title": "cosx（型）函数对称性的其他应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a6186c0b-fd44-40e4-bb9b-0863f673b937",
+            "title": "5.4.3 正切函数的性质与图象",
+            "content": "",
+            "children": [
+              {
+                "id": "eae1bffa-eeba-4846-92ec-80029a602e8c",
+                "title": "正切函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ccb7ab00-e916-494f-b4af-3ede4ec88f16",
+                "title": "正切函数的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "85e3a6fe-d28f-4aaa-8ce4-5b6600fcc7f5",
+                "title": "画出正切函数图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e864d516-4ac5-4764-80d5-17e3c3680474",
+                "title": "正切函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9f317ebc-5b6c-4be9-a853-374b62c92af2",
+                "title": "正切函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e8bac077-9129-405f-9fd5-cfcf995c8eeb",
+                "title": "求含tanx的函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9709e692-bf29-4864-aee1-1a93cc3961b0",
+                "title": "求正切型三角函数的单调性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "241e8d61-d0cf-4c71-befb-448a5af46ed5",
+                "title": "利用正切函数的单调性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "56fa0a92-0434-46b6-bb95-70b993478f71",
+                "title": "比较正切值的大小",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d890019c-db28-428f-8d3b-8c28f1084fae",
+                "title": "解正切不等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "50b25291-e418-4534-8a73-e69e13901745",
+                "title": "正切函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fbb3145e-93e8-4078-bc25-546f4bfae99e",
+                "title": "求正切（型）函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d128bd96-adcf-492a-8961-27da66d66726",
+                "title": "求含tanx的函数的奇偶性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e9c2e3c9-e7d6-4c75-a0f2-176918914173",
+                "title": "由正切（型）函数的奇偶性求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "90029538-fc99-4a2c-b65f-8fb8fe5a0926",
+                "title": "由正切函数的奇偶性求函数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a865d12e-0821-454c-823c-5364aafb78fb",
+                "title": "正切函数的周期性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "217f5764-67ff-47fd-935a-cffdc420ea66",
+                "title": "求正切（型）函数的周期",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f0030511-a993-4b1d-8b06-4dc148939c59",
+                "title": "由正切函数的周期求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9153d27c-9960-4885-8e2f-ab339f096a4b",
+                "title": "正切函数的对称性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "051c9bb8-99bc-4942-80b2-66dc56f48647",
+                "title": "求正切（型）函数的对称中心",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "70c49bcd-296c-4254-bf9c-17fdf27b9dfc",
+                "title": "正切函数对称性的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "94c0e4e9-afb1-404a-84d9-0550dc84151e",
+                "title": "正切函数的定义域、值域和最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "76c51d9c-fe38-4a92-b5f7-164f18a56e8c",
+                "title": "求正切（型）函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a9d6c8e-f0f2-464a-a4c2-591b80cf192e",
+                "title": "求含tanx的函数的定义域",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b44f1ee0-e6c3-4648-a5e5-cbd41a310419",
+                "title": "求正切（型）函数的值域及最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4275160c-16ca-4a25-8edc-f73e2f34ccf4",
+                "title": "求含tanx的二次式的最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c810bb6f-d5e9-48e3-869e-43b39163b10d",
+                "title": "由正切（型）函数的值域（最值）求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5472aaf1-e4f7-4b58-8fff-90ca191ac573",
+                "title": "正（余）弦型三角函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "12f81996-0312-4208-aab0-ae8827f46ff2",
+                "title": "识别正（余）弦型三角函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f6e405c3-1233-40ca-9d0d-48c08aaee4b8",
+                "title": "由图象确定正（余）弦型函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e0e232f-d08f-44fb-9d92-6323029fbb54",
+                "title": "由正（余）弦函数的性质确定图象（解析式）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "83811c64-e4f0-4aeb-8b5c-0bb96cc98c29",
+                "title": "正、余弦型三角函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b3f6d8bf-5515-48ed-8bce-a869732efcd1",
+                "title": "正切型三角函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07684657-d2c2-4f97-8a77-dc05b4ba8ad4",
+                "title": "识别正切型三角函数的图象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7c3ba357-9547-4a85-b675-63e240aaf893",
+                "title": "由图象确定正切（型）函数解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "88ff6184-020a-4d28-9fe0-ab753d9681c5",
+                "title": "由正切型函数的性质确定图象（解析式）",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6dd0b57a-bebe-4a89-8b2c-1bfcf634c116",
+                "title": "正切型三角函数图象的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0dd73537-a74c-42f8-8cc7-1ad2ea0f1def",
+                "title": "三角函数图象的综合应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9038e82e-b5c5-4453-9492-0e908040ea3d",
+        "title": "5.5 三角恒等变换",
+        "content": "",
+        "children": [
+          {
+            "id": "94a33290-f0db-4f42-914a-ab8cd9e3fb5b",
+            "title": "5.5.1 两角和与差的正弦、余弦和正切公式",
+            "content": "",
+            "children": [
+              {
+                "id": "aa0fe5c3-dcfb-4b46-a4d5-2fc61d7d2b4b",
+                "title": "两角和与差的余弦公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1cc4e359-6f5d-4cbb-a0ca-7b53445bda30",
+                "title": "已知两角的正、余弦，求和、差角的余弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "41b3945c-7fdf-4377-afd2-d17a82fb7c42",
+                "title": "求15°等特殊角的余弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f885ce2f-2029-4517-a688-813382e0426d",
+                "title": "用和、差角的余弦公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eba808d2-92d1-4337-aa30-e8b6d6c81a22",
+                "title": "逆用和、差角的余弦公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "70da6416-10a2-4ca1-b9f5-22997cff3cd6",
+                "title": "两角和与差的正弦公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1a995b51-886a-4fd9-9a5c-d06f522ab1a3",
+                "title": "已知两角的正、余弦，求和、差角的正弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0fa375e5-6090-4d69-9c6c-9f626aecc2d9",
+                "title": "求15°等特殊角的正弦",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fb80bf0a-0167-40aa-984c-2f55364fdc73",
+                "title": "用和、差角的正弦公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "32559571-2194-4d02-bac0-279b0e167260",
+                "title": "逆用和、差角的正弦公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "831553e7-360d-48ae-beef-60a6b702fa2b",
+                "title": "两角和与差的正切公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "56ee0b77-68bd-4a3b-8c0c-42758370bea0",
+                "title": "已知两角的正、余弦，求和、差角的正切",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "51648d8d-c326-48c7-9ca3-c155e0cb4280",
+                "title": "求15°等特殊角的正切",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c8dfec11-87a5-4e0a-b0ef-bd14f2b8aa57",
+                "title": "用和、差角的正切公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "42e78e40-1db6-4a4e-b48f-163116751f20",
+                "title": "逆用和、差角的正切公式化简、求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bee99cf3-3990-40bc-9fe0-4ed4b18a0f90",
+                "title": "二倍角公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5ba0f65-92b3-407a-8802-556928c84877",
+                "title": "二倍角的正弦公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "604ac6f0-11f0-4b3a-a19a-e3e3d5c7776e",
+                "title": "二倍角的余弦公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3dbcffe0-8544-498a-8d80-11321269011b",
+                "title": "二倍角的正切公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "534e866b-480b-42cb-901d-fc169044a2c5",
+            "title": "5.5.2 简单的三角恒等变换",
+            "content": "",
+            "children": [
+              {
+                "id": "e16e4e91-31ce-4687-a4f7-af8873dd3ab0",
+                "title": "降幂公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e14f4fd4-7ad3-4bcb-b936-a7559bfa7e6e",
+                "title": "sin2x的降幂公式及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b4d5f2ed-87bb-4a4b-8927-2065a579cd1b",
+                "title": "cos2x的降幂公式及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9c51c3b5-0614-446b-b1eb-f764c9b2ce0b",
+                "title": "sinxcosx的降幂公式及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "906aeb32-2db2-4b67-973d-cd07c8216418",
+                "title": "辅助角公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2dcba032-a89b-42c8-a6ec-db2277f596d1",
+                "title": "三角恒等变换的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07760036-d210-4cf6-aec1-0e949a9564d3",
+                "title": "三角恒等变换的化简问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6cf79fc7-3b7b-406d-8b12-a1f7e73a860e",
+                "title": "给角求值型问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "01ac1586-8e6e-4246-8f18-8bf631b29e40",
+                "title": "给值求值型问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "379ef69f-048c-4c4a-b053-78d597b8bf9d",
+                "title": "给值求角型问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2c6ce023-dc54-4ada-b7fd-36b7596dbb6e",
+                "title": "利用三角恒等变换判断三角形的形状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "70b77a2b-3fb3-44b0-9a91-2b1366990951",
+                "title": "有条件的恒等式证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f31ad819-c5de-4161-b09c-dbc57678d16a",
+                "title": "无条件的恒等式证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f57ed2f7-33a4-44bf-8e5c-9bf0117a6fb7",
+                "title": "三角形中的三角恒等式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c52bc80a-7dec-41b4-b444-082e26115d05",
+                "title": "三角恒等变换的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "59eb2454-52a8-476f-a938-d224f58a41f9",
+                "title": "半角公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e72f374-40d8-4cd5-8b10-271b2e704d3e",
+                "title": "万能公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "ba971726-659d-4ad2-a5c3-5ea68af66581",
+        "title": "5.6 函数y=Asin(ωx +φ)",
+        "content": "",
+        "children": [
+          {
+            "id": "41a14d66-db52-4b10-965a-c2d691638141",
+            "title": "5.6.1 匀速圆周运动的数学模型",
+            "content": "",
+            "children": [
+              {
+                "id": "9db2f5ae-db02-45f5-8eeb-bcf3d011813e",
+                "title": "四种基本图象变换",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e4683a35-b6bc-47a1-ad8f-18c1c279241f",
+                "title": "相位变换及解析式特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b8fe7915-dfdc-4aa6-81ef-4ed7b407876f",
+                "title": "上下平移变换及解析式特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6e15c9a7-5521-46e0-a81b-e1b5a4a40b0d",
+                "title": "周期变换及解析式特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "62029bda-e85b-44dc-bc25-897c8c9b1aa7",
+                "title": "振幅变换及解析式特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "fe7dcf29-32be-4c11-a38e-2df2dccc7156",
+            "title": "5.6.2 函数y=Asin(ωx +φ)的图象",
+            "content": "",
+            "children": [
+              {
+                "id": "185f9ff1-bdcf-4936-8499-4bbdecbfb7e2",
+                "title": "三角函数的图象变换",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eac4d584-1ef6-4657-9b4f-2aa804996366",
+                "title": "描述正（余）弦型函数图象的变换过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "80b66dbe-5df1-4464-b5a9-b2cf8d97df3e",
+                "title": "求图象变化前（后）的解析式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "52093a08-4574-417f-8db9-73f4a30395b2",
+                "title": "结合三角函数的图象变换求三角函数的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "950beeae-629a-4e16-afff-33fff4e746dd",
+                "title": "三角函数综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c829adb5-78e6-4eb6-bb40-9c6bd317aeda",
+        "title": "5.7 三角函数的应用",
+        "content": "",
+        "children": [
+          {
+            "id": "8932d706-6ceb-456d-891c-a949c1bd2e66",
+            "title": "三角函数的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1a161216-7640-4fc5-baab-e089277cfb25",
+            "title": "几何中的三角函数模型",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4cf114bf-253c-4d32-85fe-2bf41e975fbd",
+            "title": "三角函数在生活中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "77ada93e-e95a-4ee3-9eb9-aef443a98529",
+            "title": "三角函数在物理学中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c9ed5dc0-9f95-4eb0-a997-26b66f18cfea",
+            "title": "三角函数新定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "6e78778b-4ad8-4630-ae05-63f9fbd2e437",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

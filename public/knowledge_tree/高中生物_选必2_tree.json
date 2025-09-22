@@ -1,0 +1,477 @@
+[
+  {
+    "id": "c0c00c71-8794-4d49-8ab3-c63eae2685a2",
+    "title": "第1章 种群及其动态",
+    "content": "",
+    "children": [
+      {
+        "id": "a2f930aa-fc33-406f-8838-ae6236dfb3e0",
+        "title": "第1节 种群的数量特征",
+        "content": "",
+        "children": [
+          {
+            "id": "5b2e13ef-ee30-4f76-810b-0d5f6758cc6b",
+            "title": "种群的概念及特征",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0d799b7e-0a40-4728-88d0-67a7072cb752",
+            "title": "种群密度的调查方法及应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8682c358-29b2-45ae-bfe1-3f8d01b0bca0",
+        "title": "第2节 种群数量的变化",
+        "content": "",
+        "children": [
+          {
+            "id": "2e7796b5-c158-4f0d-8d2d-ef9ee88dabf4",
+            "title": "种群数量增长曲线",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "403c20b6-5be7-4672-8962-938d3d2fecdd",
+            "title": "影响种群数量变化的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "37e397ba-85f8-4ab1-8b2f-da2885457221",
+            "title": "探究培养液中酵母菌种群数量的变化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "135824c2-84ae-4ff6-993e-a1e2e9d32044",
+            "title": "种群综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "49f676c8-5021-41a7-bd9b-a40a221e56e1",
+        "title": "第3节 影响种群数量变化的因素",
+        "content": "",
+        "children": [
+          {
+            "id": "cf66160b-f80e-47e4-841b-4a97c8feadd0",
+            "title": "影响种群数量变化的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "c7fa5c2a-0b18-424f-aa4a-8b8bdd8a2ec5",
+    "title": "第2章 群落及其演替",
+    "content": "",
+    "children": [
+      {
+        "id": "0fe55ef0-8055-4318-b903-e505c1cc9558",
+        "title": "第1节 群落的结构",
+        "content": "",
+        "children": [
+          {
+            "id": "a78f58d1-ca98-4fe3-b78a-5d036a74bf37",
+            "title": "群落的物种组成以及丰富度的相关探究实验",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ce16900a-2b69-4dd2-b32c-cbcbd6fd7a2f",
+            "title": "群落中生物的种间关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3a19d53e-1c54-42e7-8157-2af59e571d35",
+            "title": "物种在群落中的生态位",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5cdf7bc7-ec30-47f8-9a98-bede6cdb7789",
+            "title": "植物的生长型和群落结构",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4bd5198d-33ae-41f9-85c1-6a396dd1fe94",
+            "title": "群落的概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8f050a04-4153-4652-abe0-f10ce12a3775",
+        "title": "第2节 群落的主要类型",
+        "content": "",
+        "children": [
+          {
+            "id": "d691077b-4564-436c-9884-c28b6ef2605c",
+            "title": "群落的主要类型",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9c47059c-322d-4011-8a44-16e2158e0e92",
+        "title": "第3节 群落的演替",
+        "content": "",
+        "children": [
+          {
+            "id": "90381e88-219d-492c-8808-fc42cd3bb5c5",
+            "title": "群落的演替及其影响因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dc0303f1-375a-4464-80a0-22fba2201770",
+            "title": "种群和群落综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "9387183e-e69a-4856-a6af-083f770db406",
+    "title": "第3章 生态系统及其稳定性",
+    "content": "",
+    "children": [
+      {
+        "id": "54e3344b-02bf-4d7d-b675-b73cbd689f6d",
+        "title": "第1节 生态系统的结构",
+        "content": "",
+        "children": [
+          {
+            "id": "46d928d0-008f-46a1-bd64-b5804264aff2",
+            "title": "生态系统的概念和类型",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "361f358b-5944-4fd8-b2c6-505c46368127",
+            "title": "生态系统的组成成分",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "55c87af4-06b9-47d5-9f42-cabd9883dceb",
+            "title": "食物链和食物网",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cc1d7646-a093-4303-87cd-892ee8f757d8",
+            "title": "生物圈的概念、范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e6ed73e7-493d-4869-86cd-707180045d15",
+        "title": "第2节 生态系统的能量流动",
+        "content": "",
+        "children": [
+          {
+            "id": "f9588ffa-5c1f-40d3-8c49-5eeb548e7329",
+            "title": "能量流动的概念和过程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f714a29-b7ec-43fc-8260-0e0dc68bdf9e",
+            "title": "能量流动的特点以及研究能量流动的意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "93a20d1b-47ba-4499-9a02-a5393c76eac4",
+            "title": "能量流动的相关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b0dd1a40-c5ad-4f53-9918-58f2697911be",
+            "title": "生态金字塔的种类及特点",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8659e6d3-a365-40f5-9f5c-4470f13c2457",
+        "title": "第3节 生态系统的物质循环",
+        "content": "",
+        "children": [
+          {
+            "id": "2f419406-fa71-4979-bb65-749a9c831231",
+            "title": "碳循环",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "12709d2e-8e9b-4d30-8071-b39cc569c5eb",
+            "title": "物质循环与能量流动的关系",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9a3b6dd1-272b-411e-90d8-0826b505b56d",
+            "title": "物质循环的概念和特点",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "75db57d7-8bbb-4e2f-87f0-481935adfb99",
+            "title": "探究土壤微生物的分解作用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b0378318-b89e-471e-8b88-c8c2ab174f31",
+            "title": "水体富营养化",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "822e85f2-75a1-4e0c-9ae5-d41bc2c5cdd5",
+            "title": "生物富集",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8defd35c-38ae-461a-a2d4-9b817bcd1b0e",
+        "title": "第4节 生态系统的信息传递",
+        "content": "",
+        "children": [
+          {
+            "id": "953d9127-c7e4-4f89-b850-e73d4c3d0e4e",
+            "title": "生态系统中信息的种类、作用及传递过程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "844d12c9-30b5-4d27-b1b0-f14577e4fa7d",
+            "title": "信息传递在农业生产中的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b6a6aa91-17a2-4fcf-8594-d9493a27e54e",
+            "title": "生态系统的结构和功能综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d3ec1f50-b282-40fb-af50-66497e293de5",
+        "title": "第5节 生态系统的稳定性",
+        "content": "",
+        "children": [
+          {
+            "id": "0bd14bd9-67db-44a2-beaf-749f53d07350",
+            "title": "生态平衡与生态系统的稳定性及自我调节能力",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c521d2c9-e019-4df4-837a-4dae65b3c863",
+            "title": "抵抗力稳定性和恢复力稳定性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ff22bcfc-41d6-40f3-bfe9-6f54be0dad87",
+            "title": "提高生态系统稳定性的措施",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "be8a3018-70db-4b83-8453-f8dab4b9b359",
+            "title": "设计并制作生态瓶，观察其稳定性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8b55ad15-82de-4587-8e97-6f45e219c6e6",
+            "title": "生态系统及其稳定性综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "d87ba775-d852-4b3e-967b-181610d6414d",
+    "title": "第4章 人与环境",
+    "content": "",
+    "children": [
+      {
+        "id": "026077c0-3ad3-4886-860a-7961ea25c980",
+        "title": "第1节 人类活动对生态环境的影响",
+        "content": "",
+        "children": [
+          {
+            "id": "4ecf3349-1d0e-42e7-8517-210d30f6db01",
+            "title": "人口增长与生态足迹",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bbb94ad7-7641-491f-a092-164b220a9b60",
+            "title": "关注全球性生态环境问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dec7d91d-d540-44b1-952e-93bb1baaf54b",
+            "title": "全球性的环境问题及环境污染的防治",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e5702fdd-02c6-45f6-9ae9-475c19d49f64",
+        "title": "第2节 生物多样性及其保护",
+        "content": "",
+        "children": [
+          {
+            "id": "3f29a9b5-2376-4f53-a890-6a8933d95d66",
+            "title": "生物多样性及其价值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d4ad64d5-a7c6-4ee5-966d-e4b8ab3989bd",
+            "title": "生物多样性丧失原因及其保护措施",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "54226bd2-a0f3-4f98-94df-7e0b5c9e3e68",
+        "title": "第3节 生态工程",
+        "content": "",
+        "children": [
+          {
+            "id": "bb853b0d-1296-42c4-8cfa-92d975e19815",
+            "title": "一 生态工程的基本原理",
+            "content": "",
+            "children": [
+              {
+                "id": "6e21704b-72a0-4cb6-ae5c-9edfb273c7eb",
+                "title": "生态工程的特点及基本原理",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "642655d8-c0ae-418c-ae71-e3856186690c",
+            "title": "二 生态工程的实例和发展前景",
+            "content": "",
+            "children": [
+              {
+                "id": "2580d07d-bb90-4a02-a7a0-1cf207339578",
+                "title": "生态工程的意义和生态工程发展的前景",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b330bd9f-1dc6-4390-8ff0-10dda6096ffc",
+                "title": "生态工程综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

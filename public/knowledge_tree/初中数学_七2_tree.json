@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "184c6e15-1292-41d6-b4fb-3a627e968fd7",
+    "title": "第五章 相交线与平行线",
+    "content": "",
+    "children": [
+      {
+        "id": "df550193-93a2-484a-8b49-b008bd92ab51",
+        "title": "5.1 相交线",
+        "content": "",
+        "children": [
+          {
+            "id": "94a7650d-39e3-4319-a1d5-6be024fd1b9d",
+            "title": "5.1.1 相交线",
+            "content": "",
+            "children": [
+              {
+                "id": "37e26fd8-744c-40c9-ae00-e7e7160354e8",
+                "title": "相交线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4497cfbc-0678-48e6-a6d7-53aac4ed76c9",
+                "title": "对顶角的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ed4f3708-459d-420a-8163-f522613b59e6",
+                "title": "对顶角相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8efc58a8-6d4c-4df2-9186-081996435a72",
+                "title": "邻补角的定义理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f2a4a5a2-957b-4456-b199-33ce49dad5ae",
+                "title": "找邻补角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "24b0e455-7340-42f7-875c-27a3c7825cb4",
+                "title": "利用邻补角互补求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "e0d8e6e2-d610-44e2-8308-014890507f14",
+            "title": "5.1.2 垂线",
+            "content": "",
+            "children": [
+              {
+                "id": "d2b088b7-9a99-4019-bbf3-3904c9cdab7c",
+                "title": "垂线的定义理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cd758943-e90e-4199-bbf2-767d5230dda7",
+                "title": "画垂线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e348a860-ef90-4ab0-9955-9bd7e526589b",
+                "title": "垂线段最短",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2f7737ee-1d79-44dc-8b4d-7ead3ccccae8",
+                "title": "点到直线的距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "e8f7ca46-81bd-406e-9d19-94c98aec43a1",
+            "title": "5.1.3 同位角、内错角、同旁内角",
+            "content": "",
+            "children": [
+              {
+                "id": "f32af872-a8cc-4eb0-87d0-206f145cd49e",
+                "title": "同位角、内错角、同旁内角",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "76dedea0-4519-449e-82ba-1f4dde26fea4",
+        "title": "5.2 平行线及其判定",
+        "content": "",
+        "children": [
+          {
+            "id": "d404eac6-12b8-4312-9b29-06e3a7f2129c",
+            "title": "5.2.1 平行线",
+            "content": "",
+            "children": [
+              {
+                "id": "bc3b3c50-57ce-431d-9eed-0dfadf9a80d8",
+                "title": "平面内两直线的位置关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "23b884fa-1828-4d19-a76f-09c48a584fea",
+                "title": "立体图形中平行的棱",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1fb2d6fa-fad0-4bc7-ac0d-51182a2eac95",
+                "title": "用直尺、三角板画平行线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "97b2706f-0dc3-4503-ba09-3c9e9bd3a870",
+                "title": "平行公理的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0c25ed49-7d8a-4a54-b581-afda25e13229",
+                "title": "平行公理推论的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "658661c0-796e-475a-9e92-1c7e1e3a1cb4",
+            "title": "5.2.2 平行线的判定",
+            "content": "",
+            "children": [
+              {
+                "id": "b8bfe519-92e5-4703-b702-92d77d10387f",
+                "title": "同位角相等两直线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f86413e6-17df-4bd4-8345-80520e5166a3",
+                "title": "内错角相等两直线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "42fd3cbe-a17c-4680-9678-557935491199",
+                "title": "同旁内角互补两直线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "73a97227-bd7f-485f-810b-3a1880aa71d3",
+                "title": "在同一平面内，垂直于同一直线的两直线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "35552213-3395-41e2-88fa-35f9b0bd03f9",
+        "title": "5.3 平行线的性质",
+        "content": "",
+        "children": [
+          {
+            "id": "37cee211-eee5-490d-a44d-18d5ba0abccb",
+            "title": "5.3.1 平行线的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "a005c3a4-3724-499d-a2f6-a536fd939d8f",
+                "title": "两直线平行同位角相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9113f18e-6758-4b1a-a165-db99c3cabdcf",
+                "title": "两直线平行内错角相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "072045be-fc76-4381-b2ee-9586b93060a6",
+                "title": "两直线平行同旁内角互补",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dad05866-e534-4450-8b53-f138ad41986b",
+                "title": "根据平行线的性质探究角的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c1ccb602-886b-46df-8101-5eeaac592b7f",
+                "title": "根据平行线的性质求角的度数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3fc8d107-faa2-4f3b-acf9-b55bb5137b55",
+                "title": "平行线的性质在生活中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fad23f83-66ed-4d26-bff3-a6f419b8f4e0",
+                "title": "根据平行线判定与性质求角度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a9c17780-9ee8-4f4a-915e-30f385fde1fc",
+                "title": "根据平行线判定与性质证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3aa409cc-aabf-44ee-8d81-3fbeae36e8d9",
+                "title": "求平行线间的距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "39b5cfa9-cefe-4e8d-9836-f79ae7da0268",
+                "title": "利用平行线间距离解决问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "06db5e34-70e6-49c7-b169-0d80dcb39102",
+            "title": "5.3.2 命题、定理、证明",
+            "content": "",
+            "children": [
+              {
+                "id": "1fc7416b-2e76-4da1-8d07-a4a79a5aaf42",
+                "title": "判断是否是命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5e31194b-5a10-4550-ab2d-0b8bceb9bf58",
+                "title": "判断命题真假",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fde5034b-48d7-4954-81b8-815b57e9767d",
+                "title": "举例说明假（真）命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f9cb03bb-785f-49b9-948e-3950c1d00dec",
+                "title": "写出命题的题设与结论",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "84e42d5f-e57d-4529-a4c1-29d14d2f630b",
+                "title": "代数问题证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4446f888-ea31-484a-af87-3add04527df5",
+                "title": "写出一个命题的已知、求证及证明过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "05a4cce4-ba70-4a51-a961-6fd53e6b7169",
+                "title": "已知证明过程填写理论依据",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1db728b9-b911-4a8c-9ac2-cf691f9b4506",
+                "title": "根据给出的论断组命题并证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "78c925b4-e0f3-4cf0-9668-64ac0ef44b30",
+                "title": "写出命题的逆命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "44438d58-1f13-447f-bdb5-620d138c11f5",
+                "title": "判断是否为互逆命题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0d0a43e4-e0cf-45c3-8fae-1402b163f4d0",
+                "title": "定理与证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6a555324-f2ee-46e4-9e19-b6c379d7860d",
+                "title": "互逆定理",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "caac2c8f-96ee-45a8-bcd7-9af830182542",
+                "title": "以几何为背景的推理与论证",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d2440aad-e335-40c7-9fb0-e5c120b4139e",
+                "title": "以代数为背景的推理与论证",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "358a4e1a-aa28-405a-aa37-81a77d1e4313",
+                "title": "逻辑推理与论证",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "fef6f52c-b603-4535-8467-f0c40e4b9437",
+        "title": "5.4 平移",
+        "content": "",
+        "children": [
+          {
+            "id": "189e88d4-c5c2-49a0-800d-81d327fd81c3",
+            "title": "生活中的平移现象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "90306bd7-04de-4fa9-99cc-e8a7a1bfb266",
+            "title": "图形的平移",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "aa6d0c88-9f43-42a2-89e3-18732b42cf9b",
+            "title": "利用平移的性质求解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e14d2389-1717-4ea4-bdb5-d6f60e3b53e3",
+            "title": "利用平移解决实际问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "db141694-5ecc-4f12-a30d-86b0eebde40f",
+            "title": "平移(作图)",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "55562d22-d327-40eb-b1e5-dbea93273217",
+    "title": "第六章 实数",
+    "content": "",
+    "children": [
+      {
+        "id": "f34b16d9-21cd-45a4-b30b-cf61e0a61020",
+        "title": "6.1 平方根",
+        "content": "",
+        "children": [
+          {
+            "id": "9ff30114-c231-446c-8b1e-6370f53b6cee",
+            "title": "求一个数的算术平方根",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8a0f64fb-aeab-4552-be77-bf991b6192f7",
+            "title": "利用算术平方根的非负性解题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ee82da66-8627-4119-b26f-64e0f0a61ab9",
+            "title": "估计算术平方根的取值范围",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8f21c91b-2769-43f6-b1a3-e671267947c7",
+            "title": "求算术平方根的整数部分和小数部分",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7c701790-3048-459a-8c55-04cef5d29c8f",
+            "title": "与算术平方根有关的规律探索题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d97cf1ca-df6a-4e79-952d-30a06903996d",
+            "title": "算术平方根的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "090dca6d-042f-43f9-b735-07128720e5a4",
+            "title": "平方根概念理解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "85663bbc-199f-47bd-af67-3741052b8034",
+            "title": "求一个数的平方根",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b7899793-041f-43e6-b6ee-11aba6101128",
+            "title": "求代数式的平方根",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3f760685-cfe0-4f32-9c29-b3a190a88024",
+            "title": "已知一个数的平方根，求这个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82e2d063-28fc-41a9-928e-560714d9360e",
+            "title": "利用平方根解方程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dc5e3321-6e1f-4e02-bca6-c08a2ae9968d",
+            "title": "平方根的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "58474963-92e0-4fbd-b4aa-730c79f07834",
+        "title": "6.2 立方根",
+        "content": "",
+        "children": [
+          {
+            "id": "18eab18b-4e70-4f0b-b235-c18a9f7e9819",
+            "title": "立方根概念理解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6becef7e-03d2-45ac-acbd-fc6d61a8184d",
+            "title": "求一个数的立方根",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "831684d0-911d-49a6-8077-8da796ef7d16",
+            "title": "已知一个数的立方根，求这个数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "944875a4-978b-4296-a430-29576f8a6c72",
+            "title": "立方根的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "33d7c9c8-4cf5-4816-929f-24970212a5c7",
+            "title": "算术平方根和立方根的综合应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "455b9e41-7017-49c5-81df-9bc6c9caff24",
+            "title": "计算器——平方根和立方根",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f96f86ea-9a0b-4dcd-aaf7-d632d4c31fff",
+        "title": "6.3 实数",
+        "content": "",
+        "children": [
+          {
+            "id": "e2109ac6-4d90-49fc-aa17-cc816d42d422",
+            "title": "无理数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "252f96b0-d019-4393-98a8-e186da3828c7",
+            "title": "实数的分类",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a725518b-75bf-4cbb-b679-1c852f1e8632",
+            "title": "实数概念理解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "47c6155f-4250-4ab9-9e83-9e2daf4b8405",
+            "title": "实数的性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c862dfa8-0412-4ef1-9761-fc54fbc5bf81",
+            "title": "实数与数轴",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c827bfe2-7430-4196-8a27-fa7443f08747",
+            "title": "实数的大小比较",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a397f336-0978-4615-a730-4717d14df4b1",
+            "title": "无理数的大小估算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "72714a78-b282-44a6-ae75-b7b0d3e49a4a",
+            "title": "无理数整数部分的有关计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d69dda4b-098b-4f65-99b1-00abf3cca924",
+            "title": "实数的混合运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "588eae74-0df2-4033-8503-a373ef20da68",
+            "title": "程序设计与实数运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4e65ac55-b3a5-472f-adc3-11c9b1e7da49",
+            "title": "新定义下的实数运算",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dbbe8143-ebd2-43d6-aa8d-2d53e6843810",
+            "title": "实数运算的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5c9a4d49-ae21-425f-894c-0b28004f3a4f",
+            "title": "与实数运算相关的规律题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "557c923a-d5be-43d9-8908-4c34d32564db",
+    "title": "第七章 平面直角坐标系",
+    "content": "",
+    "children": [
+      {
+        "id": "7ee063a7-8e0f-43f1-a38f-e9d79aa3ec05",
+        "title": "7.1 平面直角坐标系",
+        "content": "",
+        "children": [
+          {
+            "id": "b5b138ff-fdaf-4909-a35b-dfe197be0c81",
+            "title": "7.1.1 有序数对",
+            "content": "",
+            "children": [
+              {
+                "id": "b6cb9a69-c820-4cfc-8ddb-946c82fafe13",
+                "title": "用有序数对表示位置",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "de0d9c7d-2f58-4a0e-b1cf-94099a155db5",
+                "title": "用有序数对表示路线",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "18424994-2848-4e13-92e6-a92619089134",
+            "title": "7.1.2 平面直角坐标系",
+            "content": "",
+            "children": [
+              {
+                "id": "4de9f401-f09a-49d3-98f0-7a8238c88550",
+                "title": "写出直角坐标系中点的坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a23147ae-b27b-424d-8414-801b0b6d73d8",
+                "title": "求点到坐标轴的距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "323b5a90-4c1c-45da-b42c-ea84809b71cb",
+                "title": "判断点所在的象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4e93f389-b8c8-47f9-8326-4f77c6c8232f",
+                "title": "已知点所在的象限求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d6bfbd34-0cbb-4dc4-b7b3-d2c21e30d9fc",
+                "title": "坐标系中描点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b47fc906-62eb-453e-8013-b023551eb1d2",
+                "title": "点坐标规律探索",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "64fb0894-1196-4cae-a532-7eeb87066c12",
+                "title": "中点坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e4c2e537-c549-438a-a4b3-525fbc9073e4",
+        "title": "7.2 坐标方法的简单应用",
+        "content": "",
+        "children": [
+          {
+            "id": "842aa3db-95e3-4f49-b89e-53caee6b8dab",
+            "title": "7.2.1 用坐标表示地理位置",
+            "content": "",
+            "children": [
+              {
+                "id": "255cd985-799b-406b-9f09-84de35ef83f2",
+                "title": "实际问题中用坐标表示位置",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1f86e711-ce2f-47f4-b03f-8721f1265a20",
+                "title": "用方向角和距离确定物体的位置",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "47d9bb14-edf5-4745-a558-d25701409ea2",
+                "title": "根据方位描述确定物体的位置",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "792ad98e-fe91-4531-9b40-046454edaafb",
+            "title": "7.2.2 用坐标表示平移",
+            "content": "",
+            "children": [
+              {
+                "id": "70c00015-afdc-4eae-8681-1dbec0815814",
+                "title": "求点沿x轴、y轴平移后的坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0459b076-9884-4123-9979-4cca9b2533f9",
+                "title": "由平移方式确定点的坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "db4dd63b-d114-421c-bce6-c37fe25c4153",
+                "title": "已知点平移前后的坐标，判断平移方式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4a942f28-8ec9-4e92-9ff1-89093e33f31c",
+                "title": "已知图形的平移，求点的坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1bc60b1c-cc84-4433-870e-590da12aba72",
+                "title": "已知平移后的坐标求原坐标",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e93bc58e-758a-4206-a3fd-466d2e03d756",
+                "title": "平移综合题(几何变换)",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "79212c44-e79a-49fe-a241-129453743d34",
+                "title": "坐标系中的平移",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "d0352749-3b49-4bf0-983f-a41d940a3cd3",
+    "title": "第八章 二元一次方程组",
+    "content": "",
+    "children": [
+      {
+        "id": "520c0d4c-9c72-4e23-97ba-05485496a0d3",
+        "title": "8.1 二元一次方程组",
+        "content": "",
+        "children": [
+          {
+            "id": "4dd53d27-c0ea-436c-aac4-b1bde88086fa",
+            "title": "二元一次方程的定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1c1ec121-0589-4dec-b438-ca056b19a338",
+            "title": "二元一次方程的解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8281ebe6-255f-4057-8c52-243030d16a61",
+            "title": "判断是否是二元一次方程组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8eb816bc-7430-48e5-8598-619f6aefaaa5",
+            "title": "判断是否是二元一次方程组的解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "98218bce-fccb-44ee-84ce-95dcf279db9d",
+            "title": "已知二元一次方程组的解求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e16d3214-0200-47b8-89c6-aa9eac13be56",
+        "title": "8.2 消元——解二元一次方程组",
+        "content": "",
+        "children": [
+          {
+            "id": "15c36ce1-451b-445e-99cc-85b8a8f78fa7",
+            "title": "代入消元法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "754e5b3a-2fc3-4de4-89c5-b72b9db15cad",
+            "title": "加减消元法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "005ea9d4-8c3b-4a33-b040-104c049f4d4f",
+            "title": "二元一次方程组的特殊解法",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d58f0f12-7750-44f7-889d-730da0445d34",
+        "title": "8.3 实际问题与二元一次方程组",
+        "content": "",
+        "children": [
+          {
+            "id": "2135d43b-bc99-4aaa-b247-56b01b80d334",
+            "title": "二元一次方程组的错解复原问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e55ab538-1360-4d89-9a2f-030c94a33b95",
+            "title": "构造二元一次方程组求解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "618e903e-6d9d-4733-a08b-3abd16c9e79a",
+            "title": "已知二元一次方程组的解的情况求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fcb90241-e640-47a6-9e78-823bc6ba1772",
+            "title": "方程组相同解问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "af546479-10c6-46d9-8ec8-b8bbfea70612",
+            "title": "根据实际问题列二元一次方程组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "37701fb0-77f8-430b-94ed-2a80dfdc5a66",
+            "title": "根据几何图形列二元一次方程组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fb1ec004-d1eb-4159-91bc-449ff594c23b",
+            "title": "方案问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c7683d88-25e8-412a-a4dd-17d86ca4718f",
+            "title": "行程问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8e8e758c-f90a-4bf1-8b5a-cd21ec01ed4c",
+            "title": "工程问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0b154df1-f99f-4158-9e14-ca7f65968a17",
+            "title": "数字问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b42618ab-f270-4382-9e0d-b3b23b8f76a2",
+            "title": "年龄问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "736d2ff6-ee47-4aeb-9af0-5a961e8930ce",
+            "title": "分配问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "328a2a01-b97e-405a-8ac3-86c66821b497",
+            "title": "销售、利润问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b1a86bdf-4818-4c23-8376-2fb518bc6810",
+            "title": "和差倍分问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ee48589b-c182-489e-9afb-527cb9d70870",
+            "title": "几何问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0a8659ba-2c8c-4320-9533-c94ff755e67c",
+            "title": "图表信息题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1daa50fe-ce85-44ab-b58b-8c84b5ca21e1",
+            "title": "古代问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c3b62c1c-f570-485f-bdb8-cee6717c8a1b",
+            "title": "开放型问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cda626b8-b8ed-4b80-a867-5fc619990f2d",
+            "title": "其他问题(二元一次方程组的应用)",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0ce114a3-2f88-41c7-8ceb-5c49809c203b",
+        "title": "*8.4 三元一次方程组的解法",
+        "content": "",
+        "children": [
+          {
+            "id": "36defefe-c412-4239-b6dc-2600abb3c16b",
+            "title": "三元一次方程组的定义及解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "696b176e-cd5d-480c-b1ea-d25ff79fae64",
+            "title": "三元一次方程组的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "9ee36f83-5162-4eed-a32c-634fcaecc5f6",
+    "title": "第九章 不等式与不等式组",
+    "content": "",
+    "children": [
+      {
+        "id": "ed050f7a-d581-4e8f-bb2a-53ad61e7f7b7",
+        "title": "9.1 不等式",
+        "content": "",
+        "children": [
+          {
+            "id": "b481301b-7065-45d1-9dca-5757ae483837",
+            "title": "9.1.1 不等式及其解集",
+            "content": "",
+            "children": [
+              {
+                "id": "94184559-b0cd-49db-ac4d-d8137ae0d0ff",
+                "title": "不等式的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4c360670-a58c-4a5c-916a-f44c922d86d9",
+                "title": "不等式的解集",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "696411a2-6699-4f84-ab57-7381e9adcfa3",
+            "title": "9.1.2 不等式的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "d5553cce-21bc-433c-94d9-65d7b38a3024",
+                "title": "不等式的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "157dd773-4fdc-4b6f-bb63-fb78d46faa25",
+        "title": "9.2 一元一次不等式",
+        "content": "",
+        "children": [
+          {
+            "id": "dc5547cf-2673-4811-8148-271736a5dcef",
+            "title": "一元一次不等式的定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4364e0b3-e2d6-47b5-957c-ad1e082546aa",
+            "title": "求一元一次不等式的解集",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a89a740f-b8e2-4e90-9a63-aa0804ac43e1",
+            "title": "求一元一次不等式的整数解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1e94188a-125a-418f-8bc7-aa6030ddb009",
+            "title": "在数轴上表示不等式的解集",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "82770d8f-d532-450b-83b1-97d89cc65207",
+            "title": "求一元一次不等式解的最值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d48e1c05-a66e-4eef-878e-363f5e0d1d10",
+            "title": "解|x|≥a型的不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "727fa2c2-fc8a-40b8-a15f-130c3c46c53d",
+            "title": "列一元一次不等式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bc182ca5-f264-4983-872f-a8bee5737a15",
+            "title": "用一元一次不等式解决实际问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c1f9a6a4-e8e6-4635-b7d0-c7e9a5ffef9d",
+            "title": "用一元一次不等式解决几何问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "20c253d7-89af-4984-a9ef-732b80136226",
+        "title": "9.3 一元一次不等式组",
+        "content": "",
+        "children": [
+          {
+            "id": "98510c36-4d50-44d1-909c-63b3c603dcef",
+            "title": "一元一次不等式组的定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c3701356-0cfe-4cdf-8414-004a0ae12795",
+            "title": "求不等式组的解集",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9bdfb96a-e2ff-434e-9b36-cc3ac87b314c",
+            "title": "解特殊不等式组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6e586d66-ae57-491d-9cb6-618a7a6f9a1b",
+            "title": "求一元一次不等式组的整数解",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "be1c10eb-ada9-483e-9124-d72a9eb748bc",
+            "title": "由一元一次不等式组的解集求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c189aa59-3be8-41fc-b962-2bb4d8b6629e",
+            "title": "由不等式组解集的情况求参数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "173aa459-cf49-4c9c-bbad-2d73b2f1746d",
+            "title": "不等式组和方程组结合的问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "608a915c-81be-448d-a49f-f90c43eb26b4",
+            "title": "列一元一次不等式组",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "164d40dd-dd85-449b-a726-da250e9ec70a",
+            "title": "一元一次不等式组的其他应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "5d5eba43-5fe8-4bb4-943d-ce2df83fd5c3",
+    "title": "第十章 数据的收集、整理与描述",
+    "content": "",
+    "children": [
+      {
+        "id": "f6f760aa-8928-498d-80f3-93eb764fdff7",
+        "title": "10.1 统计调查",
+        "content": "",
+        "children": [
+          {
+            "id": "91dfca50-6aa5-48a2-926a-35dff9cf426d",
+            "title": "调查收集数据的过程与方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3b7152be-8867-40d7-a528-174cdfdeb69e",
+            "title": "判断全面调查与抽样调查",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1526ec7b-4072-4ad4-8d23-ab90b87be179",
+            "title": "判断是否是简单随机抽样",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "90800d78-de2f-4804-8721-0ed7bb788128",
+            "title": "总体、个体、样本、样本容量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "0f014829-296b-4930-9a7f-4bebcb6f84b9",
+            "title": "抽样调查的可靠性",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e8cfb7b7-8f61-4499-b020-ac32ab115218",
+            "title": "由样本所占百分比估计总体的数量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e989c43e-ab40-4aa7-ab8e-c5883b8fbdf5",
+            "title": "由样本所在的频率区间估计总体的数量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ca371279-2d92-47cc-b9dc-b4b0abcbc970",
+            "title": "用样本的某种“率”估计总体相应的“率”",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "130a0f60-02fd-4578-a6b2-cb2da17dfb61",
+            "title": "用样本的频数估计总体的频数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6a16a771-2e15-4205-b2ca-b007f058ea77",
+            "title": "用样本平均数（方差）估计总体平均数（方差）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "40ea820c-0921-4c68-b8cf-09e0454b95a8",
+            "title": "统计表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "376007a2-d4a2-4cb1-b2bd-ba6240b655f5",
+            "title": "由条形统计图推断结论",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "53490ace-0132-4f36-b2ff-8a09e3fd3f8d",
+            "title": "求条形统计图的相关数据",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b7e30bba-beef-4944-8810-2806ba8e2b4d",
+            "title": "画条形统计图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "98b42d3b-d933-4237-ad10-ab7e74a317e8",
+            "title": "求扇形统计图的某项数目",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7a45f159-8e99-4843-a0db-8b323ebd7665",
+            "title": "求扇形统计图的圆心角",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a9af00e6-9da3-4ed1-ba82-e9d633527b84",
+            "title": "由扇形统计图求某项的百分比",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "351bc1e3-96eb-4567-b90d-94124df93df4",
+            "title": "由扇形统计图求总量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "702cd071-298c-4833-94f6-45ad330af1f3",
+            "title": "由扇形统计图推断结论",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eb7483c8-f970-46d9-a2af-78663b3e9f9a",
+            "title": "条形统计图和扇形统计图信息关联",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3e3c2b9b-e9df-40cb-971f-2ce681b3b2df",
+            "title": "折线统计图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f4753a74-30b6-4f75-bf83-7a8718bcfd10",
+            "title": "象形统计图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "645a088a-57c0-4a38-b772-f04414b1e755",
+            "title": "选择合适的统计图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3147d808-c12b-4816-a3cd-a235b44d0e80",
+            "title": "设计合适的统计图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ae337761-9278-42fa-a980-64acdcd9a710",
+            "title": "借助调查做决策",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "17398002-b342-4c18-a32e-c40ea9c03ec8",
+            "title": "统计与预测",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "b6bc9cd1-8961-4964-b696-ac696a66ea3e",
+        "title": "10.2 直方图",
+        "content": "",
+        "children": [
+          {
+            "id": "47305d5c-049d-47c6-93eb-24976292548a",
+            "title": "根据数据描述求频数",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4397327c-4b29-48f3-ad3c-95c94e05a015",
+            "title": "根据数据描述求频率",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "df83fc78-0472-4f6a-90c5-2a2b9ac21b08",
+            "title": "根据数据填写频数、频率统计表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "895bc88e-555d-4c95-89df-9f6abe13d2c9",
+            "title": "频数分布表",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d34557e8-4bc3-4616-bcbf-07fde4f801ac",
+            "title": "频数分布直方图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d515630d-df66-42b7-aff2-1c7ec85f10f6",
+            "title": "频数分布折线图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9ea297c2-011c-40dc-a9dc-fb8e00bf28ba",
+            "title": "根据要求选择合适的统计量",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5ee2ad1b-6950-4274-9f8a-6bec9e71701e",
+            "title": "利用合适的统计量做决策",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "b39c699d-a98a-4cba-a987-19b302c3191b",
+        "title": "10.3 课题学习  从数据谈节水",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

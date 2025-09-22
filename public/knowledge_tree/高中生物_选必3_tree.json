@@ -1,0 +1,609 @@
+[
+  {
+    "id": "2c35d683-5afe-48a8-a0a5-b5c524cf26cf",
+    "title": "第1章  发酵工程",
+    "content": "",
+    "children": [
+      {
+        "id": "fedb32ee-170b-4cbe-afd3-187374aa3e6b",
+        "title": "第1节  传统发酵技术的应用",
+        "content": "",
+        "children": [
+          {
+            "id": "a4af0a85-1f40-4d3c-a77a-0bd5a2cf0a32",
+            "title": "果酒和果醋的制作流程及实验分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a8bf345f-341d-45e9-9ef1-0e0e936e9683",
+            "title": "腐乳制作的原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b89426e4-75f1-4e8b-96b5-4e7de4fbba24",
+            "title": "腐乳制作的步骤及注意事项",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "e2b750eb-86f2-4afe-b3c4-e6a10afe7b9e",
+            "title": "影响腐乳品质的因素",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "831daab2-1317-48e4-bf52-915800b6e5ec",
+            "title": "泡菜的腌制",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1d5df401-3297-4a2b-847d-efe2117ccc53",
+            "title": "果酒和果醋的制作原理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "33d86e96-1ca7-45d2-af29-9baadd9ae2dd",
+            "title": "亚硝酸盐含量的测定",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "99413bb1-26f1-46a4-8f56-7fe4d594c391",
+            "title": "传统发酵技术的应用综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "ea5cd97d-42e0-464f-b1fb-e0cfc9ddbe41",
+        "title": "第2节  微生物的培养技术及应用",
+        "content": "",
+        "children": [
+          {
+            "id": "adb67f81-2489-494a-abdd-e687c1ebb250",
+            "title": "一  微生物的基本培养技术",
+            "content": "",
+            "children": [
+              {
+                "id": "bebef8aa-abf0-4a52-ba0d-09036c746330",
+                "title": "培养基的成分及其功能",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f95d4ba8-da05-40d4-a294-94b219866986",
+                "title": "培养基的类型及其应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5634ef43-605c-44ac-97a6-bcdfc733d89b",
+                "title": "无菌技术",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d4ce7558-66e8-40d6-82c9-131f84e8b481",
+                "title": "培养基的制备",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "893dda11-f571-4513-aace-255fbe1f0ef8",
+                "title": "微生物的接种方法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d63cd37c-bd63-4da3-bc5b-1ea7302b4706",
+                "title": "微生物的培养与菌种保藏",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b0bfb75f-7a03-4cec-b063-18479c65549e",
+            "title": "二  微生物的选择培养与计数",
+            "content": "",
+            "children": [
+              {
+                "id": "1322fa44-70dd-4fc9-9fe2-c2448fd37d2d",
+                "title": "土壤中分解尿素的细菌的分离与计数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dc076dc6-4be0-4ef1-889e-21613195c94a",
+                "title": "分解纤维素的微生物的分离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b72a4480-82dd-4938-ac9f-11c4f9e293d9",
+                "title": "其他微生物的分离与计数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "285d5ea5-092e-47eb-9d81-4494d56cc7c0",
+                "title": "微生物的培养与应用综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5f3859f4-a525-4d87-8ee2-0c78c0c54479",
+        "title": "第3节  发酵工程及其应用",
+        "content": "",
+        "children": [
+          {
+            "id": "f97a295b-8ef3-45c6-9dd8-2d65a69ea821",
+            "title": "传统发酵技术的应用综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "673f253c-7533-4128-8709-ef5ef1c4c3de",
+            "title": "微生物的培养与应用综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eae34d84-a3c0-4a3e-84c2-1ead883e4671",
+            "title": "发酵工程的基本环节",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "acef8ea7-d4da-40e7-a32a-09ea392f1c4e",
+            "title": "发酵工程的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "2f234ce2-246e-49a4-a919-3871649517c1",
+    "title": "第2章  细胞工程",
+    "content": "",
+    "children": [
+      {
+        "id": "343389db-cbc9-4830-a06a-2280e7b10729",
+        "title": "第1节  植物细胞工程",
+        "content": "",
+        "children": [
+          {
+            "id": "37e38085-0de2-4abf-a48b-20bfe98ee089",
+            "title": "一  植物细胞工程的基本技术",
+            "content": "",
+            "children": [
+              {
+                "id": "4832bb34-5bc5-4254-a71f-8bbf6812527a",
+                "title": "植物组织培养技术综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8ce92332-f2e7-4d1f-94e7-a8cf436e4ae3",
+                "title": "植物体细胞杂交技术",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d955b100-6fbb-4ed8-8604-0e748036ff84",
+            "title": "二  植物细胞工程的应用",
+            "content": "",
+            "children": [
+              {
+                "id": "eba2afae-0ba6-4454-bf44-5b447372d05b",
+                "title": "植物细胞工程的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "64a64c5e-61e5-4e5f-ad86-2006be8e6424",
+                "title": "单倍体育种",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d11adebb-6511-4737-ab75-5e01ce7b2d50",
+                "title": "诱变育种",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "7bdaf022-0b2d-4a38-94f2-118934c82bea",
+        "title": "第2节  动物细胞工程",
+        "content": "",
+        "children": [
+          {
+            "id": "47a53c58-07ad-4ea4-81f8-db4b2e1be249",
+            "title": "一  动物细胞培养",
+            "content": "",
+            "children": [
+              {
+                "id": "24f70412-8a6a-4075-9fab-d8cf37e96a01",
+                "title": "动物细胞培养技术",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5b226ca2-d510-4778-8037-7add58f48204",
+                "title": "干细胞工程",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "adcf2f06-6f4f-45f7-a3dc-bdfdcb69cdb3",
+            "title": "二  动物细胞融合技术与单克隆抗体",
+            "content": "",
+            "children": [
+              {
+                "id": "1b47fe4c-0c5e-4646-b362-05dcd21c8f49",
+                "title": "动物细胞融合与单克隆抗体的制备",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "0c9d8380-2c12-4dca-b2cb-9d829fea775e",
+            "title": "三  动物体细胞核移植技术和克隆动物",
+            "content": "",
+            "children": [
+              {
+                "id": "b4d35ea2-3086-487c-b933-cd26607e94aa",
+                "title": "动物体细胞核移植技术和克隆",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4f950db5-b4ce-47ec-98a9-c503e32e8a01",
+                "title": "动物细胞工程的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c5a9aee5-d8b9-46db-adca-fc514580ac92",
+                "title": "细胞工程综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "07c7d183-5bfe-4f7b-82b0-9c0e90d5d831",
+        "title": "第3节  胚胎工程",
+        "content": "",
+        "children": [
+          {
+            "id": "235a2ffd-6d17-4817-91f8-509ba4c74370",
+            "title": "一  胚胎工程的理论基础",
+            "content": "",
+            "children": [
+              {
+                "id": "9a2121e5-9e77-4866-aeb2-6bbab3947d51",
+                "title": "体内受精",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "73bcaf3d-303d-426c-b06c-da8275254c01",
+                "title": "胚胎发育",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "03549f33-c6e9-4622-bcb8-cd9edc9ac4a5",
+            "title": "二  胚胎工程技术及其应用",
+            "content": "",
+            "children": [
+              {
+                "id": "dc841849-fced-4605-8fa1-4d878cead257",
+                "title": "动物的体外受精",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "62023e85-2852-42f0-b0c7-1ef43b2e246b",
+                "title": "胚胎的体外培养",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "113e00a9-5feb-4f6e-891e-8c6cc77b3dc4",
+                "title": "胚胎移植技术",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "59913bcd-fe36-4249-b852-a63e3f1ca1f0",
+                "title": "胚胎分割技术",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dd2a37e8-3b6e-44b4-bba4-69be22bf7a6a",
+                "title": "胚胎工程的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bec24ff2-156e-4c3e-aac4-ecded9084ef0",
+                "title": "胚胎工程综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "8c584ef9-cabc-4a49-82da-9bc9539d0e25",
+    "title": "第3章  基因工程",
+    "content": "",
+    "children": [
+      {
+        "id": "07b5f8bd-161b-49f5-a9f9-703df4f1cb26",
+        "title": "第1节  重组DNA技术的基本工具",
+        "content": "",
+        "children": [
+          {
+            "id": "ef0672de-ccb3-4086-9054-e09e2ca0722c",
+            "title": "DNA重组技术的基本工具",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fdeeb0ee-5758-469a-8696-b62c9e0c8088",
+            "title": "DNA的粗提取及鉴定的方法",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a0014b8c-041c-458f-ad33-d3daf2a7829a",
+            "title": "DNA的粗提取与鉴定的实验设计",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "6df3bd97-ed45-4999-a671-8c21767e2fda",
+        "title": "第2节  基因工程的基本操作程序",
+        "content": "",
+        "children": [
+          {
+            "id": "ea7540aa-6591-4971-a57e-34b1e1e58fe8",
+            "title": "目的基因的筛选、获取",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d5a5dcf9-41d0-400e-9842-c7b0723e6e28",
+            "title": "基因表达载体的构建",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f4b18845-c0ce-40cb-9cc6-23f301fa580b",
+            "title": "将目的基因导入受体细胞",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "513645d8-243f-46a0-bb18-1b39f2df88ad",
+            "title": "目的基因的检测与鉴定",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "90ccb952-5e49-4034-861f-833c99ff9afe",
+            "title": "PCR扩增的原理与过程",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "075a0bbd-0470-40ba-9a0f-c07fc47a89dd",
+        "title": "第3节  基因工程的应用",
+        "content": "",
+        "children": [
+          {
+            "id": "58ebb1b1-f460-43e6-8a78-4b99bd8b7696",
+            "title": "基因工程在农牧业、制药及环境等方面的应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f1ad90d7-f155-46bd-87e1-3e3054aeee3c",
+            "title": "基因工程综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "c4210abe-598f-4fd1-97d3-2785e522193c",
+        "title": "第4节  蛋白质工程的原理和应用",
+        "content": "",
+        "children": [
+          {
+            "id": "05f46cee-5402-4a2b-a3c0-12e12ceb3418",
+            "title": "蛋白质工程原理及操作流程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b90c04bd-6a69-4c1b-9866-a7661d53b325",
+            "title": "蛋白质工程的应用及实例分析",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "65738a1b-ee3c-441e-bdb3-52883de55cc6",
+    "title": "第4章  生物技术的安全性与伦理问题",
+    "content": "",
+    "children": [
+      {
+        "id": "84212c2b-43b5-417f-918e-0fa03ea69bc6",
+        "title": "第1节  转基因产品的安全性",
+        "content": "",
+        "children": [
+          {
+            "id": "9a4abee6-158f-4449-9817-e47a2e93465f",
+            "title": "转基因生物安全性",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "de37a4c3-03ea-4e19-a92b-e8fbbc9c17c9",
+        "title": "第2节  关注生殖性克隆人",
+        "content": "",
+        "children": [
+          {
+            "id": "1c06627a-98cf-4de7-b807-4721d6465e84",
+            "title": "生物技术中的伦理问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "e379712c-19c7-43b5-b001-4490be72626a",
+        "title": "第3节  禁止生物武器",
+        "content": "",
+        "children": [
+          {
+            "id": "3a3cac5f-928d-493d-a1ed-951c70292227",
+            "title": "禁止生物武器",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "504b54a9-c487-426d-a221-89b0f513b320",
+            "title": "生物技术的安全性和伦理问题综合",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

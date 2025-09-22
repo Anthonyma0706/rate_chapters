@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "894e5dcc-1f95-40d8-b0d0-d9e347be39df",
+    "title": "物质的化学变化",
+    "content": "",
+    "children": [
+      {
+        "id": "8e737ecb-fd6d-42fc-8c58-b42e482fbc3f",
+        "title": "走进化学",
+        "content": "",
+        "children": [
+          {
+            "id": "cdd77fc7-de6f-4be6-a259-72598bbd7633",
+            "title": "化学研究对象",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "040f0592-b46e-41d2-98f1-62d552a352ff",
+            "title": "化学发展史",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "16dea598-4bcb-4690-b846-ec5fa5e38c74",
+        "title": "物质的变化和性质",
+        "content": "",
+        "children": [
+          {
+            "id": "e0e1beed-ed36-49b5-99bc-9b7bc0690af1",
+            "title": "化学变化和物理变化",
+            "content": "",
+            "children": [
+              {
+                "id": "8e73be01-c495-4c72-9d23-922768ed1cca",
+                "title": "化学变化与物理变化判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "628a0ff2-d7b2-4271-912a-4de93d7b265a",
+                "title": "化学反应现象和结论判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "0b0e7999-1d19-47df-962e-9ca6eb014b9d",
+            "title": "化学性质和物理性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4fe6c23d-6681-418f-811e-e4bd14491f01",
+        "title": "化学反应及质量守恒定律",
+        "content": "",
+        "children": [
+          {
+            "id": "1be32d46-e104-4461-ab14-d712fa7523e2",
+            "title": "四种基本反应类型",
+            "content": "",
+            "children": [
+              {
+                "id": "4bf69224-589c-4644-885a-a9b28980e2f8",
+                "title": "化合反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "03843f0b-75a5-4628-a871-2a82831f7c73",
+                "title": "分解反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b8e183e4-bf75-404f-92c9-4e704689f6b8",
+                "title": "复分解反应",
+                "content": "",
+                "children": [
+                  {
+                    "id": "18174c8a-b840-4493-aade-6bf7b5c695e2",
+                    "title": "复分解反应的定义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d06afd43-baee-4a2b-ab79-7c0c8b65602d",
+                    "title": "复分解反应发生的条件",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ec64e576-1dba-49eb-8143-c61b3ea7ef0a",
+                    "title": "复分解反应的实质与应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "a09cc3b5-92af-44c7-9aa7-756b855a1de9",
+                "title": "置换反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "4375f5ba-34a9-45b6-b669-91c5ce08e449",
+            "title": "氧化反应",
+            "content": "",
+            "children": [
+              {
+                "id": "6e1aa2f9-99cf-4b7d-9f5d-0aa899bc6746",
+                "title": "氧化反应概念及判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "75f67409-4ecc-4845-889d-2736c84fa17e",
+                "title": "还原剂、氧化剂",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "6b5b3431-279d-49bc-95eb-36c7f9111f68",
+            "title": "催化剂",
+            "content": "",
+            "children": [
+              {
+                "id": "9c261322-05e2-48f5-8eaf-17d6dd62813f",
+                "title": "催化剂的概念、性质与用途",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cf528cc4-16ab-49c7-8c09-8d65a359bd80",
+                "title": "催化作用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "0499c585-356e-4a88-bbf9-8b1b68abcfe1",
+            "title": "燃烧和灭火",
+            "content": "",
+            "children": [
+              {
+                "id": "6648a853-a3f7-47c5-8d24-aa2345b90fff",
+                "title": "燃烧",
+                "content": "",
+                "children": [
+                  {
+                    "id": "2af07fa8-3d4b-447a-b0fe-fce81fdcb1cf",
+                    "title": "燃烧的定义及条件",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fb4060b0-f868-46c7-814a-fa980ae51efe",
+                    "title": "实验探究燃烧条件",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "bafac807-4527-4176-9ed8-b618de5ee57f",
+                    "title": "控制变量法在实验设计中的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "668fc88b-0cf3-45ef-90dc-ff4a7d74ba76",
+                    "title": "燃料充分燃烧的方法及其重要性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c9786f57-916c-4082-be3b-f4a0359e9d04",
+                    "title": "着火点",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "909dcc3e-b410-405f-a4fe-5f9061c258b7",
+                "title": "灭火",
+                "content": "",
+                "children": [
+                  {
+                    "id": "617128d5-5f66-4520-865a-564977b1dc0a",
+                    "title": "灭火原理与方法",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7f8ea1d5-7125-4938-a457-f0fb524567a8",
+                    "title": "火灾的预防及自救措施",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "061447bf-1661-4bbf-bcbc-efc728b28c04",
+                    "title": "常用的灭火器相关知识",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "f9f3b375-fc29-4295-b729-bda2e1324331",
+                "title": "爆炸",
+                "content": "",
+                "children": [
+                  {
+                    "id": "42a42cf3-a715-46d5-9ce7-35d1f09ad568",
+                    "title": "爆炸、燃烧、缓慢氧化与自燃",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7dd7e2e2-0869-4fbd-93e0-8195e2522ab5",
+                    "title": "爆炸原理的实验探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9bc0438b-c231-4016-a2fa-0b150720ddae",
+                    "title": "与爆炸和燃烧有关图标的辨认",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "75c6d6f7-dec5-4697-b3d6-20247f5bb2e3",
+            "title": "质量守恒定律",
+            "content": "",
+            "children": [
+              {
+                "id": "457f1484-a3ae-4407-9a5c-ee6c56e83b84",
+                "title": "质量守恒定律分析",
+                "content": "",
+                "children": [
+                  {
+                    "id": "0b6e12ef-6c6f-4ad3-ae05-e76983779510",
+                    "title": "质量守恒定律内容及适用范围",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f2f0d25f-005a-491c-ae5b-6db0a3a8c178",
+                    "title": "实验探究质量守恒定律",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "96b671b9-1bfa-482e-a3a5-a22de2825328",
+                    "title": "质量守恒定律的微观解释",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "4ebb4f78-2ed7-42f3-851c-fabec34250d3",
+                "title": "质量守恒定律的应用",
+                "content": "",
+                "children": [
+                  {
+                    "id": "8679580e-03ea-4b66-9161-bc7ea5b543b6",
+                    "title": "有关质量守恒定律的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b9246b2b-0d02-4943-b134-c5617d4789fe",
+                    "title": "用质量守恒定律确定物质组成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4ad9faee-4670-4c65-9a5e-76a065fb8c1d",
+                    "title": "用质量守恒定律解释现象",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d5ab74dd-647f-4bf3-ba07-59eae23a4d2a",
+            "title": "化学方程式",
+            "content": "",
+            "children": [
+              {
+                "id": "bfedb187-ec77-4045-b0a8-c3c4fd7ea1bf",
+                "title": "化学方程式含义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0626d6ed-5d2f-4ac1-b1c1-79f7b4a4f686",
+                "title": "化学方程式的书写",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "83770c0b-611c-4c2b-8996-2c22504463b0",
+                "title": "根据方程式推测化学式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "25ce453b-1476-4487-8247-f2fd80130796",
+                "title": "化学方程式配平",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "51734776-2de2-4404-b151-2edca0f8ab1c",
+                "title": "化学方程式有关计算",
+                "content": "",
+                "children": [
+                  {
+                    "id": "7223204f-f937-4c14-848a-53c9c2a6ff9e",
+                    "title": "根据化学方程式计算质量比",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2ed21c08-41f8-49fe-817c-5d1659ce7d2a",
+                    "title": "不含杂质的化学方程式计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cbe85bf8-2e72-4b5f-8969-60d8628ea2bc",
+                    "title": "含杂质的化学方程式计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6ab424c3-9dfd-4abf-93b4-b2416f4b1285",
+                    "title": "化学方程式与实验的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "eed8e27c-750f-4cab-aec1-539e952dfbe1",
+    "title": "物质的组成与结构",
+    "content": "",
+    "children": [
+      {
+        "id": "e480cc32-a36c-4573-809f-4bfb402e0ca5",
+        "title": "构成物质的微粒",
+        "content": "",
+        "children": [
+          {
+            "id": "d7fdcfb2-c734-4e67-84b4-65b5caba9cb0",
+            "title": "分子",
+            "content": "",
+            "children": [
+              {
+                "id": "b8f4d954-9760-4058-977a-10c6792aef54",
+                "title": "物质的微粒性",
+                "content": "",
+                "children": [
+                  {
+                    "id": "547f3811-fa39-4037-bd83-97a7c5694fd5",
+                    "title": "微粒的共性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "68a06c54-21f4-49c0-a888-40fd9d93e9bd",
+                    "title": "微粒的观点解释现象",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "926da468-dd6d-400f-ab82-771b2ec6e810",
+                "title": "分子、原子的关系",
+                "content": "",
+                "children": [
+                  {
+                    "id": "12ba5964-dfdf-4221-ae9e-8d0b500848da",
+                    "title": "分子、原子的区别与联系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "372daa4c-c570-45e9-85df-0e1af380c096",
+                    "title": "分子是保持物质化学性质的最小微粒",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2f0a3d55-45c7-483c-98de-ab651abdb33b",
+                    "title": "原子是化学变化中最小的粒子",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cd23af93-d66e-4bf9-99c6-186b78e468c7",
+                    "title": "微粒图像的分析及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "699c2908-96de-4694-9759-51515cb3f96e",
+            "title": "原子",
+            "content": "",
+            "children": [
+              {
+                "id": "240dd15f-09d9-471c-a77b-2e08bccb1980",
+                "title": "原子的构成",
+                "content": "",
+                "children": [
+                  {
+                    "id": "28c45417-c7f3-43ee-86c3-b301f9dcc54b",
+                    "title": "原子结构",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "00381703-e911-466d-86b3-6b3149511835",
+                    "title": "原子论观点发展",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a973827d-757a-4915-b841-9c0e2fa32bcc",
+                    "title": "原子中各类微粒的数值关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "aed8cc8b-bf31-4122-81fe-23eb7a7b6f15",
+                    "title": "原子结构相关信息分析及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fc88a1c2-0374-4fd5-b29b-c86914335e1c",
+                    "title": "基于构成原子的各微粒数值关系的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ff2dd83d-c432-434d-8995-74ff61ea2353",
+                    "title": "相对原子质量的概念及有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "7aa3d497-6dc1-4ce7-a8eb-f482020c9f34",
+                "title": "原子核外电子排布",
+                "content": "",
+                "children": [
+                  {
+                    "id": "db3c059b-a9c0-4436-9aec-ec035e544bf7",
+                    "title": "原子核外电子的分层排布认识",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e9c946c3-38f4-4929-b715-a1d2ac29e80f",
+                    "title": "原子结构示意图含义及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4f4d09c6-b41a-45e0-b0fc-73f09ba7704a",
+                    "title": "原子结构示意图的相关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "268721db-f98d-4645-bde5-b0476b2b959c",
+                    "title": "微粒结构示意图书写",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9a85fef5-aaf1-484d-8660-469909309dea",
+                    "title": "核外电子排布规律的理解及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "116dc03e-642b-4f79-a24c-090d7f38ddc2",
+                    "title": "最外层电子在化学变化中的作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "65a817c2-17ae-48d1-9fb0-b7d803a2470b",
+            "title": "离子",
+            "content": "",
+            "children": [
+              {
+                "id": "d23d3aae-34b8-4320-a2be-e2fceb297b33",
+                "title": "离子的概念及形成",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "637b3db1-90ab-4e1c-a7b5-d1d91e5ceb16",
+                "title": "离子中各类微粒间数值关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "08486b3f-dc66-465f-b7a9-3dabd58985cf",
+                "title": "同一元素的离子与原子相互转化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "096a8671-6684-4d50-a9b7-c87438992115",
+                "title": "物质化学性质的决定因素",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "27e088a9-7977-47a3-87a5-ad2eb2b7a72a",
+                "title": "离子符号的含义及书写",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "3d7c3883-07c3-4da1-9aa4-1ee907369eab",
+        "title": "化学元素",
+        "content": "",
+        "children": [
+          {
+            "id": "0a980fad-a556-4820-be1f-7c8f28358355",
+            "title": "元素",
+            "content": "",
+            "children": [
+              {
+                "id": "fb375fd8-ec91-4b05-9d12-29288a509474",
+                "title": "元素的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7ab3f155-5175-4a04-96b3-412b4e2ee505",
+                "title": "地壳中元素的含量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "06a696f1-b3b2-4b30-8591-0934769d3b63",
+                "title": "多种多样的物质及其组成",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "eb1d6d9e-ef6a-42f9-b914-d3f95df0f9b4",
+            "title": "常见元素名称及符号",
+            "content": "",
+            "children": [
+              {
+                "id": "755e8b27-595d-4f52-b7d0-a1b71b7d7ea2",
+                "title": "元素符号书写及含义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "902c3611-130a-445b-8146-5ce135759b0c",
+                "title": "元素与原子、物质的区别与联系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3b85f1bb-3e0e-46b1-9ac4-b002a1fa07e5",
+                "title": "前20号元素的原子序数、名称及符号",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "38aacd68-33d4-4790-ab79-cc5a20b3e550",
+            "title": "元素周期表简介",
+            "content": "",
+            "children": [
+              {
+                "id": "d5f0df99-c87e-48b0-b7be-7596cc5bf3cd",
+                "title": "元素周期表结构及简单规律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "97adf81d-8579-404d-b849-5ee9ef0d4469",
+                "title": "元素周期表及元素分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6a7f6d19-8332-427b-ba26-4c2979e193b9",
+                "title": "元素周期表信息示意图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "933a5a6c-58c3-4455-a937-2c6fafa91253",
+                "title": "原子结构示意图与元素在周期表中的位置相互推断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1ea21bc9-1bfd-4cfe-805c-65b49f4ed4c2",
+                "title": "周期表信息示意图及结构示意图的综合考查",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4c3d1d58-9681-4329-9bbe-0e281e9678b3",
+        "title": "物质组成的表示",
+        "content": "",
+        "children": [
+          {
+            "id": "e3046628-21b1-457a-a16f-d4c508d6e283",
+            "title": "化学式与化合价",
+            "content": "",
+            "children": [
+              {
+                "id": "9e8eacf7-efdd-4cb5-bf74-17fb5fea8f46",
+                "title": "化学式",
+                "content": "",
+                "children": [
+                  {
+                    "id": "f6ea0f76-a22f-4070-88c6-5360f2ac346b",
+                    "title": "化学式、分子式及涵义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "562cf5ed-fe2a-40e7-b262-0c30ffdf6269",
+                    "title": "化学式书写及读法",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3fd2e3b6-66ea-4406-8286-227fd2c00bdf",
+                    "title": "化学符号周围数字的含义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "124c9ba9-32a6-4ecf-8fee-65d0d9ad8c12",
+                    "title": "化学式图示的分析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4926993e-7c71-47da-8665-e04bfa3cd662",
+                    "title": "化学式量及相对分子质量的定义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "e0ec3cfd-d174-4877-8805-ade38666c9b1",
+                "title": "化学式的简单计算",
+                "content": "",
+                "children": [
+                  {
+                    "id": "5e3dc201-7e79-4f31-8dbc-950541fe550b",
+                    "title": "根据化学式计算相对分子质量",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a43a857e-8c5f-492d-8053-3fb40b9c9112",
+                    "title": "根据化学式计算元素质量比",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "286f6725-af19-43c5-9547-66301d7469bb",
+                    "title": "根据化学式计算元素质量分数",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9807b3bd-93ee-4962-a5dd-6cf634360b56",
+                    "title": "计算混合物中物质或元素的质量分数",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "bc103577-0895-4b1f-9de2-b9df62093d75",
+                "title": "化合价",
+                "content": "",
+                "children": [
+                  {
+                    "id": "5b35bf10-3435-454c-bc87-fb24a329fc09",
+                    "title": "常用化合价规律",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1c8cfdf6-581a-488b-843a-00ab05f79b16",
+                    "title": "化合价代数和的计算与应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6906c7b5-a930-420f-8714-83f83b70f240",
+                    "title": "常见元素、原子团的化合价",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "3885ae5e-131e-4283-bb4e-f220031024f4",
+            "title": "物质的量",
+            "content": "",
+            "children": [
+              {
+                "id": "de795c2a-425a-4099-b703-ce649c43460d",
+                "title": "物质的量及其单位",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "36989bff-f29c-4b9b-a4ee-2f392856392c",
+                "title": "物质的量与微粒数目间的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5a553551-dfe0-4006-99b7-9629b8d751bb",
+                "title": "摩尔质量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b2fbe232-e9f4-45ff-9fdf-1148d2f12212",
+                "title": "摩尔质量的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "b160c26d-55e1-4fda-937c-e2092b1b6862",
+    "title": "物质的性质与应用",
+    "content": "",
+    "children": [
+      {
+        "id": "db5c90af-798d-43ad-81b9-6e82ccdc4c0b",
+        "title": "化学物质的多样性",
+        "content": "",
+        "children": [
+          {
+            "id": "547e5d37-c8cd-4310-8923-ab023ee7f586",
+            "title": "纯净物和混合物的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ebdb9615-f258-4edf-8a7f-365c37612e86",
+            "title": "单质和化合物的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d9b57722-d13e-4768-a029-a096ac16f14c",
+            "title": "有机物定义和常见的有机物",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dc2d4410-0f9f-4479-9ac0-531c173a480d",
+            "title": "无机物的分类",
+            "content": "",
+            "children": [
+              {
+                "id": "bb9db393-e8a1-4051-995a-f62668115c1d",
+                "title": "酸的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "13ca28d4-6375-494d-a29c-b9cbf513f73b",
+                "title": "碱的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da742320-38fe-4b4e-8865-91459fe97de4",
+                "title": "盐的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5eb52d70-4b90-43cf-93af-f6677388447c",
+                "title": "氧化物的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f7806d94-fee8-462d-bd6c-4a1de48c9ae3",
+        "title": "空气",
+        "content": "",
+        "children": [
+          {
+            "id": "6875fc71-f5b5-45dc-8d17-fdb9fb035a70",
+            "title": "空气的组成",
+            "content": "",
+            "children": [
+              {
+                "id": "e6c148fb-ee90-49a1-ab4b-7f73ee44cb97",
+                "title": "拉瓦锡测定空气组成的实验",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "94f09f8b-0f8e-4fb0-9010-4775c73f7079",
+                "title": "空气各成分及其体积分数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3315a641-25b3-46c7-a362-7b1de45b7c6b",
+                "title": "测定空气中氧气的含量实验的过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "adbcc779-05f9-4563-9f54-928dc5e37fea",
+                "title": "测定空气中氧气含量的实验误差分析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e28266e-f45d-4d78-a9c2-6870fdb4f41d",
+                "title": "测定空气中氧气含量实验的改进",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2a9c90fe-2223-4ba1-8c28-03a185488de2",
+                "title": "证明空气及各成分的存在及性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c99a5a0f-1268-4928-9ee4-9cac0ede23ea",
+            "title": "空气的应用",
+            "content": "",
+            "children": [
+              {
+                "id": "b6d38a1b-6c52-4562-9f17-2ab6ea9cda42",
+                "title": "空气中各成分的用途",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "18553a0c-7c6e-4b7a-8bd4-dea280d1212d",
+                "title": "空气的污染与防治",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7eb271fc-f2e9-465a-b549-ca66fc5e5a9b",
+                "title": "空气的分离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b44b7d0b-0c3a-4b6a-a84a-e81c2d5ad7ae",
+                "title": "空气质量报告",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "aa5d500d-5e71-4763-99c0-64c24a386cbd",
+        "title": "氧气",
+        "content": "",
+        "children": [
+          {
+            "id": "f0d09510-4b10-4931-b066-123c09db299d",
+            "title": "氧气的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "f8f71ef7-f3cc-49a7-88af-f8c9ab19030f",
+                "title": "氧气的物理性质及贮存",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4748d10a-1b8d-4074-b9fb-798e58a55459",
+                "title": "氧气的化学性质",
+                "content": "",
+                "children": [
+                  {
+                    "id": "be8d4e9e-9d64-407c-af2a-a1c82ca82f23",
+                    "title": "物质与氧气反应的共性分析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "bc2e4f9a-12da-4f6f-b47a-79d937bd19f1",
+                    "title": "自然界的氧循环",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3b36938d-93d6-45a7-841a-cd478157728c",
+                    "title": "氧气助燃性及实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9802804d-dd23-462d-aebb-f1164f804a4f",
+                    "title": "铁在氧气中燃烧及其实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6b593e8a-65c7-4807-9f97-7dee436f6415",
+                    "title": "硫在氧气中燃烧及其实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "53902545-21c8-4024-81a9-0730fa77cae0",
+                    "title": "木炭在氧气中燃烧及其实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7681618c-47c9-4510-a8a7-8e350fbdd9a6",
+                    "title": "铝与氧气反应原理及探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ecf04eeb-781c-429f-9b4c-90909ac447d9",
+                    "title": "氧气与石蜡的反应",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fdb1eb23-033f-4fce-a64d-4876262e8e72",
+                    "title": "氧气中燃烧实验装置的异同",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "48ebf32d-dbcc-4c63-88fe-ce1ea5f40c5c",
+                    "title": "空气和氧气中的燃烧现象差异",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "84df0eb7-d540-474c-bfde-52db64154e98",
+                    "title": "缓慢氧化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c7b808c9-af99-4d14-8266-60a1a77c5554",
+                    "title": "镁在氧气中燃烧及其实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b24ea1d7-f9a6-445b-ab5e-19f2f843b1cd",
+            "title": "氧气的制取",
+            "content": "",
+            "children": [
+              {
+                "id": "fb59894a-0fcd-4060-98eb-85303ea56112",
+                "title": "工业制取氧气",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d3c9be9-10b8-4ce6-9b9a-872d9e3250f9",
+                "title": "实验室制取氧气",
+                "content": "",
+                "children": [
+                  {
+                    "id": "bfb2c392-04b9-4830-8d52-2e944888200e",
+                    "title": "过氧化氢制取氧气实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "aa37a55a-5af2-4fe5-b992-3b588f5a1705",
+                    "title": "高锰酸钾制取氧气实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "629271a5-435e-4bf6-b935-2a6f1fb10303",
+                    "title": "氯酸钾制取氧气",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "99ef1cb9-5d94-4761-9347-f2a044ad3267",
+                    "title": "其他制取氧气方法的相关考查",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "71588583-944c-4efa-8ca8-fb50b9a4f931",
+                    "title": "制取氧气实验的图像问题",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ff2fa6cc-868b-4da9-9748-fd3274be3993",
+                    "title": "氧气的检验及验满",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "17ac17f1-6140-41b6-92bf-232408f0cf90",
+                    "title": "氧气的制取中装置的选择",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f5afe290-c5d3-48b2-ad80-706281c76d0b",
+                    "title": "固液加热型装置气密性的检验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "de75bebb-381b-4b80-a89c-c26f564f02e1",
+        "title": "碳和碳的氧化物",
+        "content": "",
+        "children": [
+          {
+            "id": "4e327fc5-2cb9-42a8-ada5-faaf8dca9ac8",
+            "title": "碳的单质",
+            "content": "",
+            "children": [
+              {
+                "id": "bbad1104-2fc0-43b1-983d-f7529a1542e9",
+                "title": "同种元素组成的物质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7ad8b6c1-3013-4602-8de0-16af2f942aaa",
+                "title": "金刚石的相关知识",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "242432f6-4287-4a09-8f13-d8bd880d60bf",
+                "title": "石墨的相关知识",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "455abb97-af27-4418-a5aa-d0770b4c2f5d",
+                "title": "C60的相关知识",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c416d628-19bd-47ee-a92f-3d2dfa257d03",
+                "title": "活性炭的吸附性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d9bb89fb-8eef-4cfd-ba75-1dc4115f66f0",
+                "title": "根据新信息判断碳单质的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "377ae0f1-6bc0-4cd6-ab91-d1c1b674e7ad",
+                "title": "结构、性质与用途的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ca33c27e-43f9-4257-8859-6489cc626dee",
+            "title": "碳单质的化学性质",
+            "content": "",
+            "children": [
+              {
+                "id": "a2bdea2c-13f5-4e8d-8733-d51ce80e4188",
+                "title": "碳单质的稳定性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e9d2e6d-ba2b-4205-b5f8-6a98186cf91b",
+                "title": "碳单质的可燃性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "81b26131-ccdc-4351-b5d8-9632b2b7f8d7",
+                "title": "碳单质与某些氧化物的反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e271878-8342-47bc-aced-d9daf43df7e0",
+                "title": "木炭还原氧化铜的实验",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7ca80fef-e7cb-490d-8441-c3ede16ea851",
+                "title": "木炭还原其他金属氧化物的实验",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "13937133-9314-43c4-bfe4-ce540c7a6fab",
+                "title": "碳单质与二氧化碳的反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d9d4ab26-20cd-4ac8-8a60-6c5fafb49e9b",
+            "title": "二氧化碳和一氧化碳",
+            "content": "",
+            "children": [
+              {
+                "id": "96f0fce1-aa0b-4990-8c24-8d3571605ab3",
+                "title": "二氧化碳的制取",
+                "content": "",
+                "children": [
+                  {
+                    "id": "f648e7cd-0d56-4b63-8c5b-42a545c86422",
+                    "title": "制取二氧化碳的原理",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2203da5b-beec-4cf8-b49e-11c59a951542",
+                    "title": "制取二氧化碳的装置",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a3f9b08e-3ae0-4ddb-aac0-864cfaafa4e4",
+                    "title": "启普发生器原理及使用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3fee5ee3-28c7-4d86-bd75-79437d63530a",
+                    "title": "制取二氧化碳实验的改进",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "969cee38-1428-4644-9986-e7ef1a8edcbf",
+                    "title": "制取二氧化碳步骤及操作",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8c5b8df0-f1fc-4777-809d-8e96c3d06b20",
+                    "title": "二氧化碳制取的综合考查",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "12f4374a-d501-47e6-95c5-5bb4d0716531",
+                    "title": "制取二氧化碳原理的拓展",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "0349d43d-9689-428f-8b67-87ee066e456e",
+                    "title": "二氧化碳的检验、验满及净化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "d5214785-2be5-4b9a-b3b3-b8c3095ed8e0",
+                "title": "二氧化碳",
+                "content": "",
+                "children": [
+                  {
+                    "id": "f3d7d7a3-7b97-4ac9-9194-d068546949ae",
+                    "title": "二氧化碳物理性质及实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "79077c84-8625-49e8-8f0d-78584091b0d6",
+                    "title": "二氧化碳不可燃、不支持燃烧性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "62d4b3d1-5043-4c54-a27e-750048a2fa29",
+                    "title": "二氧化碳与水的反应及实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a8121541-c0a1-4da4-9de4-a2affdc799d4",
+                    "title": "二氧化碳与碱的反应及实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "71ae756e-ad1c-465b-80d8-2b9abe9caa26",
+                    "title": "二氧化碳的用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "91353147-0975-456f-9b7f-e136a13e3fea",
+                    "title": "二氧化碳对生活环境的影响",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3260a083-5e7c-4edb-ade8-1a1f36f6a7f5",
+                    "title": "自然界碳循环",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "e2784dc3-b63c-4e58-894f-5f3052993a44",
+                "title": "一氧化碳",
+                "content": "",
+                "children": [
+                  {
+                    "id": "a9e5a343-2148-4f5e-bbdc-bc2915827a13",
+                    "title": "一氧化碳的物理性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a07c2895-22df-47c6-95a2-cddeee20e48f",
+                    "title": "一氧化碳的毒性及安全使用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "15042890-b953-4401-a46a-d2770421023d",
+                    "title": "一氧化碳的还原性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8977b403-29d1-4bab-a220-134447268c39",
+                    "title": "一氧化碳的可燃性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c948e748-baea-4a26-97d2-1719e1e6a00d",
+                    "title": "一氧化碳的用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8ea4406c-82e5-4348-bc06-34ecb759e3b6",
+                    "title": "碳的氧化物组合气体的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "58860ec9-ae7c-4413-bf29-64ea02911fba",
+                    "title": "碳及其化合物间相互转化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1b082249-c549-41d5-95e2-729044e4f1e4",
+                    "title": "碳的氧化物的全面比较",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7507875e-67a8-4e4c-8b00-0e3f55d7831a",
+                    "title": "一氧化碳燃烧实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cd9bcf5b-6d5a-4fee-8a47-e8354e9d5e9e",
+                    "title": "一氧化碳还原氧化铜实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f27c6611-92b0-4ddf-8b27-36c80af278ed",
+        "title": "金属和金属矿物",
+        "content": "",
+        "children": [
+          {
+            "id": "164cc2ef-1b07-499c-a2f5-26818c166b2a",
+            "title": "金属材料",
+            "content": "",
+            "children": [
+              {
+                "id": "0603b00d-d655-4ba6-b8b7-c9ee7cb44987",
+                "title": "几种重要的金属",
+                "content": "",
+                "children": [
+                  {
+                    "id": "785cb179-361a-4650-a06c-051c4a6c3a2c",
+                    "title": "金属材料和非金属材料",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2b682c6e-fd2c-4ea0-b539-eab6c15116ad",
+                    "title": "金属的物理通性与用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "692e5a46-4491-4920-8d7c-ae14e129f422",
+                    "title": "金属之最和分类",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "89b02d80-a26c-4ee9-88fd-103082c16d00",
+                    "title": "金属材料选择依据",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "789b264b-fb5d-4bff-b0e3-d64ea1ab15ed",
+                "title": "合金",
+                "content": "",
+                "children": [
+                  {
+                    "id": "1f241d22-9944-42b1-a8cc-184d45907625",
+                    "title": "合金的认识",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "28548a2b-b27d-4235-8e6b-1b285a389c36",
+                    "title": "常见合金",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b880f30e-c7a6-464e-97d6-e4a9ea99ed66",
+            "title": "金属的化学性质",
+            "content": "",
+            "children": [
+              {
+                "id": "185e7d0f-09c3-4d07-bdea-31218bc7583e",
+                "title": "金属与氧气反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6a1c43c6-b009-4f18-85bc-b20c7411eb2a",
+                "title": "金属与酸反应",
+                "content": "",
+                "children": [
+                  {
+                    "id": "dee50783-0ffa-4248-adb3-4af2c5d3a587",
+                    "title": "金属与酸反应原理",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a74f4dc6-61d9-4316-b8b7-42f38b2b32db",
+                    "title": "金属与酸反应的图像",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "683de0da-f004-4fb1-810f-aef3a299eefe",
+                "title": "金属与盐溶液反应",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a8226f06-46bf-4a05-9cf5-d926bce27359",
+                "title": "金属活动顺序表及应用",
+                "content": "",
+                "children": [
+                  {
+                    "id": "15da2e43-8ae8-45f3-ad7d-b107c6c76645",
+                    "title": "金属活动顺序理解和判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "aad41da2-d94e-446d-8493-5300dbbda713",
+                    "title": "应用金属活动性解释相关现象",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d4ffba96-1f77-4b96-972a-97e5b4ac5aa8",
+                    "title": "金属活动顺序图像分析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3fe11dad-1f94-4e39-a6e7-612c79db10c1",
+                    "title": "金属活动性强弱的探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "d2602fa1-c5e4-4e4d-8ec5-f96ab8319325",
+                "title": "有关金属性质的计算",
+                "content": "",
+                "children": [
+                  {
+                    "id": "fcff7d1d-54ab-4bce-9d9f-b6d668b8e3c9",
+                    "title": "有关天平问题的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ae1e02ad-a4ed-48f3-900f-5af1cbe7fe6e",
+                    "title": "酸过量--金属性质的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "08bd70bd-6e8a-4ab3-a55d-60dc66e63c04",
+                    "title": "酸不足--金属性质的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cae676de-1ed1-48f8-b7db-5696eb2ceb3e",
+                    "title": "置换反应中的质量变化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "63f71ed8-d8a6-4afe-8c7e-fe0875e81b9c",
+                    "title": "根据计算结果推断金属混合物的组成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "05b564a6-b748-4791-9ed6-e1bda8cb5379",
+                    "title": "分析不同反应后体系质量变化问题",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "03716e90-b5a7-4673-8881-e3872362e613",
+            "title": "金属资源的利用和保护",
+            "content": "",
+            "children": [
+              {
+                "id": "10910a41-8c41-4371-bbb4-535a147bcf8b",
+                "title": "金属矿物",
+                "content": "",
+                "children": [
+                  {
+                    "id": "7c5aed3b-6114-4bbe-b2a2-c250c1b7567f",
+                    "title": "金属元素的存在",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "95375afe-9ed9-47ca-8719-297c34b15175",
+                    "title": "常见金属矿石",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "341c548b-2ac2-4035-af02-c9b20da2775d",
+                    "title": "保护和利用金属资源的有效途径",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "3fcd9e88-8b4d-44e0-832d-79ef1808acac",
+                "title": "金属的冶炼",
+                "content": "",
+                "children": [
+                  {
+                    "id": "fc967ad1-847c-46ce-8be8-91b3ee07adf2",
+                    "title": "工业炼铁的原理及装置",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "65134d06-a24e-4286-9fd3-5c696455fcc8",
+                    "title": "一氧化碳还原氧化铁实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f21272e2-14dc-4ab4-b70e-46d9b0ad5483",
+                    "title": "金属冶炼的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "6cc052f7-0030-4601-9965-aa06cb48963c",
+                "title": "金属资源的保护",
+                "content": "",
+                "children": [
+                  {
+                    "id": "68da2fd2-f1df-4fc8-9805-a8bcc1cfdc13",
+                    "title": "废弃金属对环境的影响及回收",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d96f8ea2-f8e8-437c-8eaa-5e8cfc716579",
+                    "title": "金属资源现状及保护措施",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1fda2bdd-60b3-40f3-ae6d-e7982a64bc5a",
+                    "title": "钢铁的锈蚀",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "43ba5412-4270-4841-b9e2-79002748cf6b",
+                    "title": "金属的防锈措施",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6e52c793-63f2-461f-bff6-ec5ae3e20f39",
+                    "title": "探究铁生锈的条件",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "697d0948-6c95-4eb2-ad06-e5d938f9df08",
+        "title": "水",
+        "content": "",
+        "children": [
+          {
+            "id": "f6c1dfc3-e535-45ac-b339-51341c337aa2",
+            "title": "水的净化",
+            "content": "",
+            "children": [
+              {
+                "id": "d540b779-bfe3-40f8-8780-918c2331f482",
+                "title": "水的净化方法",
+                "content": "",
+                "children": [
+                  {
+                    "id": "5fac48e2-1510-4bee-9b50-02f5b051168d",
+                    "title": "自来水厂净化过程",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "00b86d6e-8fcf-4eff-8686-44f4da891770",
+                    "title": "简易净水器的构造和各部分的作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a35735d7-effe-499c-936d-30dc5e092545",
+                    "title": "常见几种净化水操作的比较",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ba1d60bc-4e06-40cc-b057-367848d4b3dc",
+                    "title": "过滤操作要点",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d27d443e-b765-4b56-9e32-6a5043efb1f4",
+                    "title": "过滤操作问题分析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "e32312c6-fa75-4c23-8335-cb6cd3ef467f",
+                "title": "纯水与某些天然水",
+                "content": "",
+                "children": [
+                  {
+                    "id": "dfd735c7-68fd-4ba8-96c1-b001cb87d070",
+                    "title": "硬水和软水定义及鉴别",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "de04d7c7-4c69-4f5a-8ab9-599cdde007ab",
+                    "title": "硬水的危害及软化方法",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "13e25d9c-f3a4-4224-a6a9-d266d981501c",
+                    "title": "纯水、天然水与自来水",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "e8a1f654-96bc-4fb3-a09f-d39f77379d43",
+            "title": "水的组成",
+            "content": "",
+            "children": [
+              {
+                "id": "622e9e3d-b477-4159-ab33-496abeb2dc84",
+                "title": "水的电解实验",
+                "content": "",
+                "children": [
+                  {
+                    "id": "c1722b14-c08d-4c3c-b258-f1463c51cf4c",
+                    "title": "水的组成实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "68ad3386-95e8-40bb-83f5-7cab95571b5d",
+                    "title": "电解水原理",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "89815a4e-8df6-4a04-a57c-c219a8cfd85a",
+                    "title": "电解水实验的现象和结论",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "93e6cb12-4291-4c84-9682-2ab82837f8d9",
+                    "title": "电解水生成物的验证",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "5c212b43-b5b3-4af7-80ea-ff5594034cb5",
+                    "title": "基于电解水实验结论的相关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "222289e3-9ae9-4619-b221-5810fd750415",
+                "title": "氢气",
+                "content": "",
+                "children": [
+                  {
+                    "id": "bf89e2d4-6cbc-402f-9e57-534cfc344d0b",
+                    "title": "氢气的可燃性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a2c746c1-bab7-46cf-b43c-238f62e31cd1",
+                    "title": "氢气还原金属氧化物",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "0600131a-4bd4-420d-8342-83b01e501681",
+                    "title": "氢气的检验和验纯",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "be841d80-6382-4916-a2a3-89d67143c306",
+                    "title": "氢气的物理性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fc571a28-ebff-462b-afbc-d4d89735a3d8",
+                    "title": "氢气的用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "a709cce9-aaa0-4af6-a24f-5161620b40ae",
+                "title": "水的性质",
+                "content": "",
+                "children": [
+                  {
+                    "id": "24217302-9131-4393-a1dd-10f02816c226",
+                    "title": "水的构成及物理性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1155ceb1-de6b-40e1-b180-c5a819afe49e",
+                    "title": "水的用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "623654b7-066b-46bb-8e8c-27044f03d7d3",
+                    "title": "水的化学性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "63b0dc6b-cdf6-42d9-b674-ab5880dbd506",
+                    "title": "水的性质实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "f0e8bba1-fa2e-4682-82a1-d305c8481e65",
+            "title": "水资源",
+            "content": "",
+            "children": [
+              {
+                "id": "039c37ab-bd92-4141-9c47-b98a4ef7cc8c",
+                "title": "水资源的现状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3edace1c-b11e-4d2d-8372-6deb07b52340",
+                "title": "爱护水资源",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "45bd58ca-e317-4e08-9d70-12f21d2d04e3",
+        "title": "溶液",
+        "content": "",
+        "children": [
+          {
+            "id": "3dc2062c-6798-4d0b-bb58-b416a5c32bdb",
+            "title": "溶液的形成",
+            "content": "",
+            "children": [
+              {
+                "id": "37eda344-567a-4425-943a-fb8c9af6813a",
+                "title": "溶解现象及溶液",
+                "content": "",
+                "children": [
+                  {
+                    "id": "ecee4d5a-332c-4830-b5c1-b24637e3b490",
+                    "title": "溶液、溶质和溶剂概念",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e438c0fd-e5e9-4a45-82d6-5c01d8d6eca4",
+                    "title": "溶液的基本特征",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e3e67172-9ca1-4576-90c6-0770dd7cac9d",
+                    "title": "m溶质+m溶剂=m溶液的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cec1cc02-f31e-416e-b8c1-b5cb100cd472",
+                    "title": "判断物质是否能形成溶液",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c87856a0-5ffd-46d7-a057-31f4e2746102",
+                    "title": "悬浊液、乳浊液",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3029e52e-99ff-4363-b47d-e15735b2dd72",
+                    "title": "溶液的用途及意义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4ff03167-ad7c-4745-abf2-287812b9a3c7",
+                    "title": "溶液的微观构成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a6ecd0ed-5286-4329-9c8a-9104ce73f3c9",
+                    "title": "形成溶液的熔沸点变化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "5e151e0e-efcc-42b7-8674-11773ea671d2",
+                "title": "溶解性",
+                "content": "",
+                "children": [
+                  {
+                    "id": "0ef26095-0fe2-4530-a654-e5b1b5dd4b77",
+                    "title": "影响溶解速率的因素",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "43450f88-abeb-4b78-b640-0dda14d5605e",
+                    "title": "溶解性概念及影响因素",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "72dfafca-2e4a-4dd8-b95b-d9faad052e2f",
+                    "title": "溶解性相关的实验探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "87100b78-4ca5-4dfb-b024-41fdb9f7c640",
+                "title": "溶解时能量的变化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "085f45ea-7c5b-45b0-97b7-9e3ba1285ac3",
+                "title": "乳化现象与结晶现象",
+                "content": "",
+                "children": [
+                  {
+                    "id": "f9723944-4502-4e50-b048-1ae7a247156d",
+                    "title": "乳化现象及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "0b186a7f-e0eb-4161-a337-ee175fa9a64e",
+                    "title": "晶体与非晶体",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2457ae22-85d3-4c07-acea-74cc1b717e50",
+                    "title": "结晶分离混合物",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "244ed95e-1d05-4d8f-be69-4e21a5129477",
+            "title": "溶解度",
+            "content": "",
+            "children": [
+              {
+                "id": "547e10db-5a0c-4e77-bc30-73e2c1a08fb2",
+                "title": "饱和溶液",
+                "content": "",
+                "children": [
+                  {
+                    "id": "d5461795-80f3-4320-a566-28e6df906fc2",
+                    "title": "饱和溶液和不饱和溶液判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2cb11b8e-bfe8-4eb1-92fe-8d5b5bb9b3b6",
+                    "title": "溶液浓稀与溶液饱和的关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a3a90ff1-30c3-4b99-9133-4347874a3c21",
+                    "title": "饱和溶液和不饱和溶液的转换",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "da5dc543-39bb-4402-ba0a-2bb675591f85",
+                "title": "物质的溶解度",
+                "content": "",
+                "children": [
+                  {
+                    "id": "7ecd3bcb-5b75-40a8-88f1-e21c816fd0e8",
+                    "title": "固体溶解度概念",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a1cd6b81-134f-44b1-ad9b-62979f170967",
+                    "title": "固体溶解度曲线的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "24736627-8ec6-45ab-a8b8-01b647729670",
+                    "title": "固体溶解度的影响因素",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2a248382-64e2-43fd-92d2-69230a8add3c",
+                    "title": "气体溶解度的影响因素",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a7c95aeb-e391-40b6-a7c7-02832e05076e",
+                    "title": "溶解度的相关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ea47c8e6-5e79-40c7-8aa2-488934a435e1",
+            "title": "溶液的浓度",
+            "content": "",
+            "children": [
+              {
+                "id": "9a114f9c-9226-424e-b9c4-130d046284cd",
+                "title": "溶质的质量分数",
+                "content": "",
+                "children": [
+                  {
+                    "id": "14e1d905-dbfc-4085-901a-538cfe993553",
+                    "title": "溶质质量分数概念",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "849c1be9-6108-484b-8c44-e4bcabb030dc",
+                    "title": "溶质质量分数的涵义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8ff8e09d-704a-465d-b7a8-34e2e424c05a",
+                    "title": "图像分析溶质质量分数的变化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "0ef54c98-e783-4fb7-b437-72d97090b6a0",
+                "title": "配制一定溶质质量分数的溶液",
+                "content": "",
+                "children": [
+                  {
+                    "id": "56dfe5ea-4eae-48e8-a5d9-cd19a9e26f77",
+                    "title": "配制一定质量分数溶液的仪器",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b11c155b-9ef5-4453-a609-c9b6bb1fbe7b",
+                    "title": "固体配制一定质量分数溶液",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2bdb56f7-4915-458f-967f-9735d90dcff5",
+                    "title": "浓溶液稀释配制一定质量分数溶液",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "df89a313-9781-4479-9372-0d1acec910e2",
+            "title": "有关溶液的计算",
+            "content": "",
+            "children": [
+              {
+                "id": "8a3c07df-504a-4ed8-aa1a-b4a86292d5c4",
+                "title": "配制一定溶质质量分数的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e6d577c5-3951-4df9-a938-1113c36b581b",
+                "title": "溶质质量分数公式运用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "623de35c-1346-4626-a508-17e3e108218d",
+                "title": "有关溶液浓缩、稀释的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6eaa657b-5df4-4b64-a35e-3afa81d4f11b",
+                "title": "溶质质量分数结合化学方程式的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "135723b6-3ebd-49ec-be2e-d47053856365",
+                "title": "溶液和化学方程式的综合计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a397cabe-48e3-452c-b098-9a8f3bb73149",
+        "title": "生活中常见化合物",
+        "content": "",
+        "children": [
+          {
+            "id": "a6d22ac2-5446-4167-a311-79b902ab976e",
+            "title": "酸和碱",
+            "content": "",
+            "children": [
+              {
+                "id": "7b3bcd3c-fe16-476e-a371-76e64ffb8c86",
+                "title": "常见酸主要性质及用途",
+                "content": "",
+                "children": [
+                  {
+                    "id": "3d2fefb4-701e-443e-aede-b4e152bad05c",
+                    "title": "浓硫酸的物理、化学性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "93eaad59-278c-4957-83c0-6c98bc2f1938",
+                    "title": "浓硫酸的稀释",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c05a46bd-b4ce-4b7b-bee1-29465a3151ff",
+                    "title": "浓硫酸做干燥剂",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "cc8e1b47-c190-4e0b-85d7-e84a664b0fce",
+                    "title": "浓酸敞口放置的变化和现象",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4f8f9cf6-4657-4dbd-9abd-85fa75d86d18",
+                    "title": "酸的概念、组成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1b3cfd0f-263b-448e-bfd5-c40d784ce841",
+                    "title": "盐酸的物理性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "0f351ee6-eded-4054-9a77-2bdfb2507049",
+                    "title": "其他常见的酸",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "af34c809-4589-408b-b0e2-5c6fd0ab948f",
+                    "title": "酸碱溶液导电的原理",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "dccab61f-3bd4-4b0e-923a-d9daf391467d",
+                    "title": "常见几种酸的用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "320e5e7c-7e19-463c-bf03-8ef54b997904",
+                "title": "酸的化学性质",
+                "content": "",
+                "children": [
+                  {
+                    "id": "5a825a16-3134-4e3d-b533-7399501b214f",
+                    "title": "酸的通性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e5720c84-861d-4a7c-ad56-73016fb48b75",
+                    "title": "酸的通性的微观实质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c0e97f91-3001-4c6c-8c60-f8118d4178fc",
+                    "title": "根据酸的通性推断物质的性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a0dba003-1221-4d03-a141-448d524619ae",
+                    "title": "水对酸的化学反应的影响",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "8ccbaa78-8b13-483d-a485-782b348b5138",
+                "title": "常见碱主要性质及用途",
+                "content": "",
+                "children": [
+                  {
+                    "id": "4484ff84-8fbe-4265-b5f0-cf1de10b051a",
+                    "title": "常见酸、碱的俗称及化学式",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a1653db7-82f9-441e-9d59-fe8cdf5ae68f",
+                    "title": "碱的概念、组成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f0c7fc50-f2bc-444e-a038-7e6757e05dfc",
+                    "title": "几种常见碱的物理性质及用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3e3263a4-c681-43c3-9831-d583d254b051",
+                    "title": "强碱露置在空气中的变质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "496d7ad0-803b-4a78-83b5-f9a026ffef29",
+                    "title": "酸碱的腐蚀性及安全使用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b0cbea9f-a7b4-4d43-85c5-d98a76a94cf6",
+                    "title": "生石灰的性质及用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "89d3e10a-ce6f-4407-ada7-48e35055ea2c",
+                    "title": "生石灰变质的探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8a6b7acd-5106-443e-88f1-38e24715a70e",
+                    "title": "氢氧化钠与氢氧化钙的制取",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "31511665-ec14-412e-a731-1c251408772c",
+                "title": "碱的化学性质",
+                "content": "",
+                "children": [
+                  {
+                    "id": "9b9b071e-b3ec-445a-9882-30f63889ab0d",
+                    "title": "碱的通性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d251add2-84ea-4324-b045-24da9e272cfd",
+                    "title": "根据碱的性质推断其他物质的性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1cb56e57-6867-41b9-b408-be5ea7cfe84f",
+                    "title": "碱的通性的微观实质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "7937dfe9-fc04-4580-b3ce-8087d0afc580",
+                "title": "酸碱指示剂",
+                "content": "",
+                "children": [
+                  {
+                    "id": "442788b2-8906-498c-b3e7-3c31f72a6b3e",
+                    "title": "酸碱指示剂的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "08352f93-934e-470e-9fa1-105fedaa5253",
+                    "title": "常见的酸碱指示剂及其变色情况",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fe647053-72e9-41c1-a2e8-89a05a51ebd4",
+                    "title": "酸碱指示剂的选择及自制",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "15410ab0-4dd6-483f-9d9b-0f6ba47c019e",
+            "title": "中和反应",
+            "content": "",
+            "children": [
+              {
+                "id": "de7a8b56-8c92-4208-8070-af0f05947f60",
+                "title": "中和反应原理",
+                "content": "",
+                "children": [
+                  {
+                    "id": "efc3368b-969c-42e0-8444-436577ae1213",
+                    "title": "中和反应的概念及微观本质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7df107bb-c3e9-4865-8f38-b42ab0dd2d45",
+                    "title": "中和反应相关实验与计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1b758f5b-318e-45dd-af09-599bb021a75f",
+                    "title": "中和反应与复分解反应的关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "96ff8c7a-6142-4f90-99bb-6331919741c0",
+                    "title": "无明显现象的中和反应的判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "3bb0fdd4-b3eb-437c-83a0-82e8703045eb",
+                "title": "中和反应的应用",
+                "content": "",
+                "children": [
+                  {
+                    "id": "ca531d17-80c3-4f0f-9ec2-6d90d3e7dd7f",
+                    "title": "中和反应过程中能量的变化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d1769cf3-f147-4f30-aed6-aee0f3d35879",
+                    "title": "中和反应的实际应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "60667f89-c677-47c5-9590-c0c37674a5c7",
+                "title": "溶液的酸碱性和pH",
+                "content": "",
+                "children": [
+                  {
+                    "id": "06af88fa-f604-4038-a614-4e7311467ab6",
+                    "title": "溶液的酸碱性的判断与pH的测定",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "41261786-7b25-4f6d-83ff-d6f37031a6d7",
+                    "title": "溶液酸碱性及pH相关关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "99be11d0-37a7-4675-ba16-8f74492c6c5a",
+                    "title": "酸碱性对生命活动和农作物生长的影响",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "1c491de3-980c-4204-b91f-ca8cca3f14ec",
+            "title": "盐和化肥",
+            "content": "",
+            "children": [
+              {
+                "id": "8471fae7-8553-4baa-a5e8-c245a3a9812b",
+                "title": "常见盐",
+                "content": "",
+                "children": [
+                  {
+                    "id": "5979ffaf-291b-4cca-aa2d-be89ba775179",
+                    "title": "常见盐的俗名、用途",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e897449f-6786-47e4-af09-673d96a254bc",
+                    "title": "正盐、酸式盐及结晶水合物",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "fd42cccc-8bc6-4ef2-98ca-f5a728cd6647",
+                    "title": "盐的组成及分类",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "acc513d6-f9f2-40cf-a010-f03b058a9675",
+                    "title": "氯化钠",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2a44dd49-a299-44bf-ac85-4c2ea890c3c9",
+                    "title": "碳酸氢钠、碳酸钠、碳酸钙",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9a33cc4f-6c33-4448-af1b-8c8ad5042ae0",
+                    "title": "石笋、钟乳石的形成",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4177b284-5796-44c2-9368-14dd4b38e69a",
+                    "title": "其他常见的盐",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "4f692495-5d21-4d4f-b0f8-56b98dd147ca",
+                "title": "盐的性质",
+                "content": "",
+                "children": [
+                  {
+                    "id": "ec3319d3-66c5-41ae-9123-4a937f742073",
+                    "title": "盐类参与的反应",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "3676a0f2-4ade-48ed-93f5-06b0e33bbf02",
+                    "title": "常见酸碱盐的溶解性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b291a5c1-278e-44c8-ae81-92202a9e03fa",
+                    "title": "碳酸根离子的验证",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "4208bbae-61db-4584-862a-7dd75d978f1e",
+                "title": "化学肥料",
+                "content": "",
+                "children": [
+                  {
+                    "id": "b1e562d3-5bff-4b34-9d51-2c5be6c8cdf1",
+                    "title": "化肥的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "762db0cb-73eb-4c54-b81a-62b7cd5c0ad0",
+                    "title": "常见化肥的种类及性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "16d8a426-e904-46e8-ac17-44d565d73012",
+                    "title": "合理使用化肥和农药",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "5d6aaae8-046d-4339-97e4-543a60e834ee",
+                    "title": "鉴别常见化肥",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "11760a38-8717-4d56-ad77-3bb254e11af7",
+                    "title": "铵根离子的验证",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "3051bc3d-bea2-4e81-b153-a1c57cc67c71",
+        "title": "几种简单的有机物",
+        "content": "",
+        "children": [
+          {
+            "id": "aae1573b-b704-42d7-ab55-f753763ff009",
+            "title": "甲烷",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "afbda993-ebb9-43ae-8f46-442754e61ebf",
+            "title": "乙醇",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c0bac017-6ddc-4098-ac8a-84d08513225d",
+            "title": "乙酸",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "3d420008-4444-4e8e-8a22-8473d5c488ed",
+    "title": "化学与社会",
+    "content": "",
+    "children": [
+      {
+        "id": "c922c2f3-c70b-413d-abde-d76ca30a8fb4",
+        "title": "化学物质与健康",
+        "content": "",
+        "children": [
+          {
+            "id": "0575afaf-6e57-412b-aefa-4161381490eb",
+            "title": "基本营养物质",
+            "content": "",
+            "children": [
+              {
+                "id": "8ec668b3-cd2b-4535-9c65-34cf00149e2c",
+                "title": "蛋白质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a1763a3-dd27-4f15-bfe7-9f82aac1a57b",
+                "title": "维生素",
+                "content": "",
+                "children": [
+                  {
+                    "id": "0490fceb-ad9c-4615-be9f-cbd6bdc6198d",
+                    "title": "维生素的组成与作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1fc42ed5-40e0-4831-b86a-8a72febc309d",
+                    "title": "维生素的来源",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9a2ca821-2c97-4fc5-b585-fb751756666f",
+                    "title": "常见维生素的缺乏症",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "3014d7e6-c505-444d-ade2-d7518ba52361",
+                "title": "油脂",
+                "content": "",
+                "children": [
+                  {
+                    "id": "2336dc89-f761-4393-be0c-d077c0be06da",
+                    "title": "油脂的组成及性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f806a89c-ac40-485b-b96f-49279211d20a",
+                    "title": "油脂作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "93b994c9-b7b7-45d0-9b42-245155781339",
+                    "title": "油脂的来源",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "5f6db4d0-964b-4166-b97f-5ca5f4621101",
+                "title": "糖类",
+                "content": "",
+                "children": [
+                  {
+                    "id": "a43d014d-0de7-4ef5-bd86-89c173b20de6",
+                    "title": "糖类的组成与作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "d5052526-8392-4df9-a4f0-00f8f9ca515c",
+                    "title": "糖类的来源",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "96bf7e37-3b9b-43c8-b494-b522c61fa6db",
+                    "title": "糖类在人体中的分解过程",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ba00f6a6-962e-495f-8175-bad78ecb0dfc",
+                    "title": "葡萄糖、淀粉的检验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "a4ca0f74-1e3b-4a5c-9d1a-6494f4e0eec6",
+                "title": "高分子化合物",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "14b301f6-06bb-4db7-9abf-64697e85f4cb",
+            "title": "元素与人体健康",
+            "content": "",
+            "children": [
+              {
+                "id": "b701a333-5348-4856-83b5-08a7c257b595",
+                "title": "人体内的常量元素",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "276ea06f-4b7a-461f-9a29-c048d685a3e1",
+                "title": "人体内的微量元素",
+                "content": "",
+                "children": [
+                  {
+                    "id": "67dc8562-910a-48c4-babe-8f1fee3f661e",
+                    "title": "人体内的微量元素——碘、铁元素",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "03af83a1-240b-4bd0-9695-2cfb8b7f96d0",
+                    "title": "其他人体必需微量元素对人体的作用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9c1dad2e-b85f-4bba-aab6-6fd913d271a3",
+                    "title": "某些元素的缺乏症",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "bc90bb97-b5f5-4c43-9b7e-5fe4e5f2ff16",
+                    "title": "某些元素的食物来源",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "6a22c328-cf81-4912-b23f-947491ab25fd",
+                "title": "合理饮食",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b729c09a-69f0-4a5f-8e21-5f8302ae885e",
+            "title": "对人体健康危害的物质",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5403cc0e-f90e-4b95-8d43-94c22b8cc7cb",
+        "title": "化学合成材料",
+        "content": "",
+        "children": [
+          {
+            "id": "1d9f0246-2701-4e43-be8d-d0be0f9fca63",
+            "title": "有机化合物",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ea600595-d9f8-4c11-a142-2044afb1bad3",
+            "title": "合成材料",
+            "content": "",
+            "children": [
+              {
+                "id": "1fec4574-521e-4d80-b36c-7f64502e7fa2",
+                "title": "常见物品质材的辨别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6c64db49-0edb-4412-b3ce-34605bc62010",
+                "title": "塑料、合成橡胶、合成纤维",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a7d6baf-64b1-4a8d-9cfd-5c37d9e8c25b",
+                "title": "有机材料对环境的影响及应对措施",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3b37bc99-94df-4a33-9067-8b6a84d78a5b",
+                "title": "羊毛、合成纤维、棉的鉴别",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "90441047-fb29-4b82-a869-d3d54a4afc43",
+            "title": "新型材料",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dcc9934e-1d3f-40c5-a3cc-049bb0c9160d",
+            "title": "无机非金属材料",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f12fc7db-a8f9-45b8-b68f-f6cec45ff770",
+        "title": "化学与能源的开发利用",
+        "content": "",
+        "children": [
+          {
+            "id": "24dfe3fb-cd59-4dcf-8d75-69acb80b9bdf",
+            "title": "燃料的合理利用与开发",
+            "content": "",
+            "children": [
+              {
+                "id": "e6a2ac49-9363-491a-a67d-81ae32f75f2f",
+                "title": "化学反应中的能量变化",
+                "content": "",
+                "children": [
+                  {
+                    "id": "826d0ecf-39ef-4ca8-9b7d-76443f26aee4",
+                    "title": "能量转化与化学变化的关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "05973522-3d17-4600-81d8-19f8022dd512",
+                    "title": "化学反应中能量变化的实际应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1db26c8b-4ff0-408d-b678-c0e87dfb53bd",
+                    "title": "常见吸热反应及放热反应",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "46ba3cd9-d966-445b-aafe-e3c6340f175c",
+                "title": "绿色能源",
+                "content": "",
+                "children": [
+                  {
+                    "id": "099cb3d1-7dc1-4a61-ba6b-37882cc14fcc",
+                    "title": "氢能源的优点",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a051fcef-aa94-4b82-807d-1335f3e8882d",
+                    "title": "氢气的制备及应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7a4672f9-b892-45eb-84d6-322473eeef70",
+                    "title": "制备氢气实验的探究",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "df445d7f-dee0-4763-bd70-424f975ca328",
+                "title": "资源综合利用和新能源开发",
+                "content": "",
+                "children": [
+                  {
+                    "id": "94fc53a1-b324-49a8-85bd-f2b2230ca769",
+                    "title": "绿色能源的开发及利用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7b6c8fb9-edff-4da7-b243-e9ff65ced624",
+                    "title": "几种可燃气体的鉴别",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "40a66689-482a-4d6d-b465-bc203e7faac0",
+                    "title": "资源综合利用和新能源开发的重要意义",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "e3a6cb2e-f7af-468f-9175-176994a18b6c",
+                "title": "化石燃料",
+                "content": "",
+                "children": [
+                  {
+                    "id": "694a74a6-1fec-4336-a556-3008dc8ab167",
+                    "title": "化石燃料的形成及现状",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "2c7925a7-4084-4bcd-bc2e-85ef8423ddf7",
+                    "title": "常见几种燃料使用对环境的影响",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b951ee82-a89b-4a54-9dc8-b0cc655585f1",
+                    "title": "甲烷的燃烧",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "8a2b4c9d-135f-41e1-9ab4-8c9a8c094f0e",
+            "title": "海洋资源",
+            "content": "",
+            "children": [
+              {
+                "id": "84877c5d-cf5c-45d3-bd4a-0322499b3277",
+                "title": "海洋化学资源",
+                "content": "",
+                "children": [
+                  {
+                    "id": "3e9170ce-d600-4362-b461-a7a1844006d9",
+                    "title": "海水中的物质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "dcc1451d-99ac-4876-8c0f-1a2c5faee19c",
+                    "title": "海底矿物",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6af85f0d-b1ed-4701-84e4-905194c2bbd1",
+                    "title": "海水淡化",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "15b2a22d-bf7d-48bf-b97a-15f342fa344c",
+                    "title": "海水提取镁",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "d3aa662b-6924-4597-98af-fe03533f4f46",
+                "title": "海水晒盐",
+                "content": "",
+                "children": [
+                  {
+                    "id": "52830097-9de8-4285-916c-a94ceb71b8a2",
+                    "title": "海水晒盐原理及流程",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6e5fecfb-3f9d-49da-905a-f2c54d5e9770",
+                    "title": "粗盐提纯",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "8fc60401-358b-4d75-8759-03d5bc01615a",
+                    "title": "粗盐的精制",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "f95e9c16-8f89-4e8b-9ad0-11005700a7f7",
+                "title": "海水制碱",
+                "content": "",
+                "children": [
+                  {
+                    "id": "e530663a-0f9a-44da-b607-a88732fab19e",
+                    "title": "氨碱法制纯碱",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "17ced66d-583c-4b5f-af46-a704e8894ea7",
+                    "title": "侯氏制碱法",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "d580bcae-da37-4e1b-8ddd-3e88c6b26aad",
+        "title": "化学与环境",
+        "content": "",
+        "children": [
+          {
+            "id": "9c4bd7c5-0e76-47df-a840-c3e7acbc8c98",
+            "title": "绿色化学",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "43742c34-d702-44e1-aebb-c21c5acad267",
+            "title": "空气污染及其保护",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "73cbce58-f6e7-48a3-a98a-185ff0c8f9f8",
+            "title": "土壤污染",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a56ef138-0396-4d77-b600-b55d77d8646c",
+            "title": "水体的污染及保护",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41516e98-8065-4bae-b262-1120f7abfefb",
+            "title": "“三废”处理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "59792589-8b10-46f7-ae0e-1bc0960f239e",
+            "title": "合理使用化肥与农药",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ebfe08a1-c0b0-4d8a-b8d9-7d9afcf12652",
+            "title": "垃圾分类（上海）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "db445afe-f039-46a5-9def-bd5e2e67c16d",
+            "title": "垃圾分类（北京）",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "2b058b3c-5840-4d56-91a7-7515919edb60",
+    "title": "科学探究与化学实验",
+    "content": "",
+    "children": [
+      {
+        "id": "3515cd45-c1c1-4ecf-adf4-2a3faf16ff6c",
+        "title": "实验基础",
+        "content": "",
+        "children": [
+          {
+            "id": "442c0833-f7c7-4b05-9c27-b82785728734",
+            "title": "怎样进行化学实验",
+            "content": "",
+            "children": [
+              {
+                "id": "2d0ec6bc-ebe1-4001-98ae-05b7114bd2d3",
+                "title": "实验安全问题及处理",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "85fc8355-9e77-4a38-89d3-bd6cd7a6e248",
+                "title": "化学实验室安全规则",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1dc6703d-0e9f-4e16-bede-709f22887a29",
+                "title": "常用危险化学品标志",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "189009c4-1779-4ba3-899a-121f0bea8a32",
+                "title": "科学探究的基本环节的辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cd955c69-2050-49ff-a155-6e201eaa614f",
+                "title": "探究蜡烛及其燃烧",
+                "content": "",
+                "children": [
+                  {
+                    "id": "48e77cfd-2623-451a-87f1-668036125b94",
+                    "title": "蜡烛点燃前的性质",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "279978cd-ee6f-458e-9e0a-7d584e920430",
+                    "title": "蜡烛燃烧的实验探究及产物分析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "3028815b-e8d1-4d41-ae3a-88e4e6d4e4bd",
+                "title": "探究人体吸入空气和呼出气体",
+                "content": "",
+                "children": [
+                  {
+                    "id": "b7c9cc4d-aaf8-4756-b689-00305de582b5",
+                    "title": "人体吸入空气和呼出气体实验结论",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f0a014ab-e0b3-4c3c-b6f5-82a5cc970560",
+                    "title": "探究人体吸入和呼出气体成分",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "6378bc4f-fbe1-4f8b-9f58-3a888ff12ea5",
+                "title": "金属铜化学性质的探究",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6910d1cc-5a84-47c1-ab1b-679d0a0089a9",
+                "title": "化学变化现象的观察及描述",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "704078c9-6f89-4c90-86f2-01aa285976b3",
+            "title": "常用化学实验仪器",
+            "content": "",
+            "children": [
+              {
+                "id": "69b26417-ab21-44a2-8cf0-48229ce46e1d",
+                "title": "量筒的正确使用方法和注意事项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "692a66cc-724e-4b39-a12d-bf3072611b59",
+                "title": "托盘天平的正确使用方法和注意事项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0227cfee-c58a-405a-afa2-f4f2a3b1f3bf",
+                "title": "酒精灯的正确使用方法和注意事项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2b28b193-7407-4931-8ac3-42670734c6c5",
+                "title": "胶头滴管的正确使用方法和注意事项",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5d1882c4-daf1-4ad0-a9e2-f39f95a8b825",
+                "title": "容器",
+                "content": "",
+                "children": [
+                  {
+                    "id": "4b53f1ab-82b6-4ad5-8128-f541a01a3448",
+                    "title": "可直接加热的仪器",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "99643284-3553-441d-82f2-9bffc274e04d",
+                    "title": "可间接加热的仪器以及陶土网的使用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "16ab4924-9d89-4671-a9b8-64195c9279ac",
+                    "title": "不可加热的仪器",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "5fae51a8-bd0e-4297-8588-b686d8e8c5b9",
+                "title": "玻璃棒的作用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "66db9ee1-9979-45a6-ae12-513c01fc613a",
+                "title": "常见仪器及制材的辨认",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f8a59af6-1e3d-40fe-b128-9aab2e393828",
+                "title": "分离物质及加热的仪器",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b379461f-e99f-43a6-8158-bb32df86a70b",
+                "title": "根据量程和精确度进行数据合理性的判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d252726d-358c-4d8b-beb3-ce114245459e",
+            "title": "基本实验操作",
+            "content": "",
+            "children": [
+              {
+                "id": "81d21c6f-4910-48e4-95f3-a9acbc29da3d",
+                "title": "试剂的取用",
+                "content": "",
+                "children": [
+                  {
+                    "id": "7a4d6fa4-4915-4066-adc8-fd18b5911083",
+                    "title": "固体试剂的取用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "73180250-34e2-4ec0-a645-6f4f03a71007",
+                    "title": "液体试剂的取用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "b66298cb-81e5-4e4a-9bf3-85cda6313f3f",
+                    "title": "试剂的保存",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "3bc87b2c-794b-44ad-a2cb-1eec6f57be7d",
+                "title": "仪器连接",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a9aed772-d2e5-46e7-8c3d-0eb844ba45a8",
+                "title": "气密性检测",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6c30134f-a4d4-4d7a-8407-f68efa4353d1",
+                "title": "仪器的洗涤",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "89095139-6ec9-4e07-85ad-375127294686",
+                "title": "物质的加热",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "808a8bd9-e5d5-4804-9dbd-14a225d69fa8",
+                "title": "振荡和搅拌",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1cd8c2ea-dbcf-45ef-acc3-4e92ada87120",
+        "title": "物质的鉴别、推断与分离、提纯",
+        "content": "",
+        "children": [
+          {
+            "id": "0d07cd86-99da-4cfc-b547-58c1d3d7dd7e",
+            "title": "物质的分离、提纯",
+            "content": "",
+            "children": [
+              {
+                "id": "bd7b7a02-f677-4180-a212-4d6dad77b0b7",
+                "title": "蒸发",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "18384b7f-bd00-4043-80c1-f91806438de0",
+                "title": "过滤",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4f2efba8-b5a8-4604-90bc-7282fc037fc0",
+                "title": "吸附",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c37ac52a-2842-4404-bcd5-a0f1ea23fc0e",
+                "title": "蒸馏",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "936f57d4-82cb-4153-9a48-39cb5acf2ae1",
+                "title": "除杂",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "3b235785-66ff-4c12-be91-e295d2cd26da",
+            "title": "物质的鉴别与推断",
+            "content": "",
+            "children": [
+              {
+                "id": "fc2e35da-e076-4050-8afa-5c24b22f8189",
+                "title": "物质的鉴别",
+                "content": "",
+                "children": [
+                  {
+                    "id": "67b74493-02e9-497c-aab0-67f0d64b271c",
+                    "title": "溶液中物质是否共存相关判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "829a3de0-d6e6-4f5f-8c4f-618c66186fed",
+                    "title": "物质鉴别——选用试剂鉴别",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "703322c5-40a3-4c90-b0bb-5116242f2ce6",
+                    "title": "几种常见阴、阳离子的鉴别",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "78560e8d-06d0-41e6-9af9-894683c4bf26",
+                "title": "物质的推断",
+                "content": "",
+                "children": [
+                  {
+                    "id": "66cadf8b-6c91-4ff5-9410-1a2e24e5bd6c",
+                    "title": "常见物质的颜色",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "1d62bb98-2a5e-4530-849a-4c4d73b320a5",
+                    "title": "常见物质的溶解性",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "c6149df6-b22d-4113-834f-9bec5d8edad0",
+                    "title": "设计实验探究物质的成分",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6c6467c6-b884-4465-b67d-0de7c0420c40",
+                    "title": "各类物质间反应的总结",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "46089b7f-2837-4efe-a432-dfa4232cc7d8",
+                    "title": "物质推断的综合应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "79bc1c21-c84e-4f41-ba73-0e207f00e56d",
+        "title": "气体制取和净化",
+        "content": "",
+        "children": [
+          {
+            "id": "6e4129e6-3c43-4feb-a7f3-983a21139c0d",
+            "title": "气体制取",
+            "content": "",
+            "children": [
+              {
+                "id": "cc3931f5-0bf2-46c9-9b54-d08567fe171a",
+                "title": "实验室制取气体的一般思路",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "372a37ca-0828-4e85-adb4-30126af1cd68",
+                "title": "气体制备实验的反应条件的控制",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2c3620a2-c17a-4c92-be64-c10052223be9",
+                "title": "气体发生、收集装置",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "fec9a458-3eff-4ae1-921f-ba99596ff90e",
+            "title": "气体收集、净化及处理",
+            "content": "",
+            "children": [
+              {
+                "id": "01f13863-bc83-4d36-9d49-3c4c3df81104",
+                "title": "气体的收集方式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a89ff4b8-2d31-43bb-ba3a-5e940f1243f4",
+                "title": "气体净化、干燥",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9b4e1cf1-6e73-4b49-b8f1-152ad8959b61",
+                "title": "污染性、可燃性尾气的处理",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f5b5034a-e58d-4682-bfc6-0252b4413a6f",
+                "title": "万能瓶的使用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "dd5ff93d-3b50-4d16-93e2-c545eab363da",
+        "title": "气体制备综合考查",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "8f7eba32-f00c-4d0b-9888-0dd0677566cc",
+        "title": "实验探究与设计",
+        "content": "",
+        "children": [
+          {
+            "id": "43ac745e-67d3-45f3-97a1-c39228a0bab8",
+            "title": "实验和探究常考模块",
+            "content": "",
+            "children": [
+              {
+                "id": "1a10b512-6f07-4163-8117-d8ad8cdef5d5",
+                "title": "实验的猜想与假设",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "64d70654-9211-40a7-8fbd-cde36a98328e",
+                "title": "实验的设计与操作",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9851a720-842c-4ade-9c6a-79da63af6075",
+                "title": "实验的解释与结论",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f25f75e-47f9-4b2e-a1e5-5e66fa9746fd",
+                "title": "实验的结果与测量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c217d07e-498b-491f-96aa-eddc66cd598c",
+                "title": "实验的设计与评价",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "236a5d88-20fa-428e-a522-8f8a43050266",
+            "title": "实验探究的方法",
+            "content": "",
+            "children": [
+              {
+                "id": "7de4f184-9619-459b-83c4-ee9bc5e11c10",
+                "title": "定量实验",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3119e70c-f102-4bee-a5c5-08d4f778b7be",
+                "title": "定性实验",
+                "content": "",
+                "children": [
+                  {
+                    "id": "4a45f4a4-8efc-4a94-90f7-98bcc129a054",
+                    "title": "控制变量",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "92cd98db-2680-4192-bf46-444d185943bb",
+                    "title": "空白实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "55177e2b-a70d-4488-862e-7d15a6dcaa8a",
+                    "title": "对比实验",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "1c2ab673-ae8a-4a7b-9acc-0a08affb7642",
+    "title": "化学的综合计算（暂存）",
+    "content": "",
+    "children": [],
+    "level": 0
+  },
+  {
+    "id": "14594517-1123-470a-9c6d-7383709481e2",
+    "title": "物化综合试题",
+    "content": "",
+    "children": [
+      {
+        "id": "29186c5b-c23a-437f-860b-b6af24a8954d",
+        "title": "节约能源与绿色化学（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "66ad7d17-fd4f-48df-ba86-5e4f61c86ac5",
+        "title": "生活常识与科学应用（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "0f7d4ea6-3a3f-42ef-9321-d0038245b6d8",
+        "title": "物理变化与化学变化（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "084018ae-41b2-4e1f-a74a-5e7b95950494",
+        "title": "实验操作与注意事项（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "d084f85b-fc93-426a-b5a5-cf20ffe4799a",
+        "title": "分子动理论（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "5deae735-ce62-4af6-b560-aadb92ce5570",
+        "title": "物质的分类（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "f2b073c5-c76f-4e60-bc4e-4b7c9c829517",
+        "title": "观索现象与总结规律（理综）",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

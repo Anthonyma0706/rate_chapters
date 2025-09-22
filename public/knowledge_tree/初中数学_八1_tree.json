@@ -1,0 +1,1867 @@
+[
+  {
+    "id": "37562df3-2a08-4f68-844f-e0d8e0374235",
+    "title": "第十一章 三角形",
+    "content": "",
+    "children": [
+      {
+        "id": "792d887c-303a-4434-bab3-3569efaf62ca",
+        "title": "11.1 与三角形有关的线段",
+        "content": "",
+        "children": [
+          {
+            "id": "105dafa6-97b6-40b1-9e02-d0ce82713d21",
+            "title": "11.1.1 三角形的边",
+            "content": "",
+            "children": [
+              {
+                "id": "b6a7a7bd-dcce-4e39-9b80-c380f5fe11df",
+                "title": "三角形的个数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "282745ad-b2dd-4559-8f3e-bfb63e35b550",
+                "title": "三角形的分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1f157265-b500-4130-8355-3957c29d7c96",
+                "title": "构成三角形的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "32a1f0ac-56e3-4874-b3a2-716425c174b4",
+                "title": "确定第三边的取值范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "33aa0ced-6d44-4e9e-b1bf-dacb3de2d37b",
+                "title": "三角形三边关系的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dd8aaad0-4d75-4686-af0f-1470e7340703",
+                "title": "三角形的识别与有关概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "11d7380b-cf0c-4823-957a-e7542a8344eb",
+            "title": "11.1.2 三角形的高、中线与角平分线",
+            "content": "",
+            "children": [
+              {
+                "id": "e7f1ba01-a0be-4d70-9cc7-7c3b251cf2be",
+                "title": "画三角形的高",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec70e428-2aff-455a-8a23-a2149f7e727d",
+                "title": "与三角形的高有关的计算问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4ad77506-b0d3-421a-9cda-53b503b3bda3",
+                "title": "垂心",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2dd1fdcf-c5dd-4165-b5de-f5b6dacbce35",
+                "title": "根据三角形中线求长度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3d7dc40b-ea4f-49fe-8f36-ab8b662c4adf",
+                "title": "根据三角形中线求面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e404376e-0cef-4351-a47b-ec312538cbe2",
+                "title": "重心的概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e365dfc9-ee3c-4ffe-b7a2-ff00b49dd0b9",
+                "title": "三角形角平分线的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fa56e57c-7e16-4bfa-8757-bd1f4acfcffd",
+                "title": "利用网格求三角形面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "852e6738-88d5-4eed-ad36-5356302e5853",
+            "title": "11.1.3 三角形的稳定性",
+            "content": "",
+            "children": [
+              {
+                "id": "6dcaac25-4e80-4b4c-98a0-68292202788c",
+                "title": "三角形的稳定性及应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6fed4617-6274-46dc-b73b-9e52dd4257b4",
+                "title": "四边形的不稳定性",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "193ade3e-6cf2-4103-a411-9c8267406894",
+        "title": "11.2 与三角形有关的角",
+        "content": "",
+        "children": [
+          {
+            "id": "ba613231-546e-45d6-945c-9f26e6aed726",
+            "title": "11.2.1 三角形的内角",
+            "content": "",
+            "children": [
+              {
+                "id": "417c6761-73d5-4f01-9ff1-8b64555bb749",
+                "title": "三角形内角和定理的证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3b906560-bbeb-4380-8d9a-3b77cbd084c1",
+                "title": "与平行线有关的三角形内角和问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "039d5075-de20-4182-b95a-06a80add6ba3",
+                "title": "与角平分线有关的三角形内角和问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c99f0c07-c7aa-4a1e-a465-7cc326449be0",
+                "title": "三角形折叠中的角度问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f84abc64-99e5-4c33-a027-1c89db05a0de",
+                "title": "三角形内角和定理的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "de04ba9d-2bb3-4b8c-9ffd-e6ab9b4480e6",
+                "title": "直角三角形的两个锐角互余",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d7476f40-ec33-42c3-83bb-56ed5e3e627e",
+                "title": "锐角互余的三角形是直角三角形",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "3447af91-4c84-4f10-80f4-a03586cec0a7",
+            "title": "11.2.2 三角形的外角",
+            "content": "",
+            "children": [
+              {
+                "id": "935a1b51-6137-4970-a167-e919923247c9",
+                "title": "三角形的外角的定义及性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4a4a1145-55ed-4e10-93c0-0b5fae28f5a0",
+        "title": "11.3 多边形及其内角和",
+        "content": "",
+        "children": [
+          {
+            "id": "b1bf72ac-877b-497c-af41-7ea8b60f1691",
+            "title": "11.3.1 多边形",
+            "content": "",
+            "children": [
+              {
+                "id": "99731aec-a1e3-440c-b79f-3b29177246a2",
+                "title": "多边形的概念与分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d471b32-5677-4593-8d82-aa97fced1747",
+                "title": "多边形截角后的边数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a86733e8-8e21-4271-ba3b-c4879d750523",
+                "title": "多边形的周长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8d44d478-e44a-4cac-bb97-ee102f47970f",
+                "title": "网格中多边形面积比较",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bf865b3f-64a4-4bb7-a971-a2dab411cb73",
+                "title": "多边形对角线的条数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "693339fa-3ad2-4fc5-aa89-f727db6101fc",
+                "title": "对角线分成的三角形个数问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "bf67aebe-f5cd-4242-873e-7e6833f8d9fd",
+            "title": "11.3.2 多边形的内角和",
+            "content": "",
+            "children": [
+              {
+                "id": "37d211fc-21e7-4e9e-a72c-9281b5b0c3bc",
+                "title": "多边形内角和问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "701a8239-a423-4a9b-b9b1-8ed9b2260c4f",
+                "title": "正多边形的内角问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "af734a26-fd35-437a-a4c0-bc595ad8145e",
+                "title": "多（少）算一个角问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d2eb0525-ed97-4cd6-82d1-508814e5f89d",
+                "title": "多边形截角后的内角和问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7e6add6b-6a48-44fc-9123-494e57fea8d6",
+                "title": "复杂图形的内角和",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cc407f16-84b6-4854-841f-14392f0bc7dd",
+                "title": "正多边形的外角问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8e91c947-4ff4-411c-9821-f9df75be7cde",
+                "title": "多边形外角和的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "23573e88-1fd9-460e-a7a6-856c0b8c6e75",
+                "title": "多边形内角和与外角和综合",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ce6f88c0-154f-4d71-b00a-9e4b848bc96a",
+                "title": "平面镶嵌",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "dfb63972-ecde-43a3-9b22-4ccdddf6c239",
+    "title": "第十二章 全等三角形",
+    "content": "",
+    "children": [
+      {
+        "id": "66bd3503-ca83-483a-a41b-7d18669c5e68",
+        "title": "12.1 全等三角形",
+        "content": "",
+        "children": [
+          {
+            "id": "4cbe1e19-0e73-4cc2-8d21-feba37084c13",
+            "title": "图形的全等",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d3708f49-4f9f-47bb-b8eb-6cf0bff5fa95",
+            "title": "将已知图形分割成几个全等图形(全等图形）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "bea8fb04-5518-44e1-97ea-d0fad4a3c5c0",
+            "title": "全等三角形的概念",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "41e59de0-518a-404c-94db-66a266912b6a",
+            "title": "全等三角形的性质",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "9e678802-beda-44fd-817d-27e03d0afd75",
+        "title": "12.2 三角形全等的判定",
+        "content": "",
+        "children": [
+          {
+            "id": "33632c6b-80db-4358-918c-7ff6b37ce346",
+            "title": "用SSS证明三角形全等（SSS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "a4a2ffbc-ef94-4fa3-9241-be18971804c5",
+            "title": "用SSS间接证明三角形全等（SSS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "65315ef7-77a0-4b33-825b-072017b8a3d5",
+            "title": "全等的性质和SSS综合（SSS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "dd31d484-8d9c-4c59-810e-4a1fe76f53c3",
+            "title": "用SAS证明三角形全等（SAS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5687fe31-6db6-43d3-bd8b-1e8997d1c44f",
+            "title": "用SAS间接证明三角形全等（SAS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b18e4467-a136-408a-a320-cfd91a22a6bd",
+            "title": "全等的性质和SAS综合（SAS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eb55862c-30bd-4405-96be-0f27d15a13cd",
+            "title": "尺规作一个角等于已知角",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c3b6aeb4-5b2a-4a08-9570-59b0dd7752f2",
+            "title": "尺规作角的和、差",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "01266133-e496-493f-831f-758e2b66f75e",
+            "title": "过直线外一点作已知直线的平行线",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cf457cca-4023-43c1-829f-6cc61e933f95",
+            "title": "尺规作图——作三角形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "91ec8add-fa93-454e-b610-0683fe489324",
+            "title": "用ASA（AAS）证明三角形全等（ASA或者AAS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fdfcfe14-56d6-4ef1-829a-2629587a4559",
+            "title": "全等的性质和ASA（AAS）综合（ASA或者AAS）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "33b942a5-24c5-4cee-bcc3-d444fa901e52",
+            "title": "用HL证全等（HL）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f773d931-3573-4138-a715-54670d631249",
+            "title": "全等的性质和HL综合（HL）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ed1a07c9-adc0-4f18-b08d-30577031b4f6",
+            "title": "连接两点构造全等三角形（全等三角形的辅助线问题）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "56a97fb1-7426-47df-84f1-1f48bef61cea",
+            "title": "倍长中线模型(全等三角形的辅助线问题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "671e8179-143b-4c89-a4cd-b77377275b9e",
+            "title": "旋转模型(全等三角形的辅助线问题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9734d662-9e13-43af-9676-8a50192ac588",
+            "title": "垂线模型(全等三角形的辅助线问题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "9ff902e8-58f9-401e-977b-722aff6edec9",
+            "title": "其他模型(全等三角形的辅助线问题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8eed78f1-2744-4707-96af-d35545d7043b",
+            "title": "证一条线段等于两条线段和差（全等三角形的辅助线问题）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "31540519-58c0-4c0b-a354-2794bfbdea0c",
+            "title": "全等三角形综合问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ebf6b638-7e4e-4a50-8d92-bbbe27c6cf74",
+            "title": "添加条件使三角形全等（全等三角形的判定综合）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4b13db2a-acd2-4920-8603-00214ec54588",
+            "title": "灵活选用判定方法证全等（全等三角形的判定综合）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6e2cae14-7b00-4138-a168-11cd041db33d",
+            "title": "结合尺规作图的全等问题（全等三角形的判定综合）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7692bede-f66f-439a-9bb9-fa5b959f279c",
+            "title": "利用全等图形求正方形网格中角度之和(全等图形）",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "976738a6-7591-48e9-9172-ab76b70f14a0",
+        "title": "12.3 角的平分线的性质",
+        "content": "",
+        "children": [
+          {
+            "id": "d67ac0b0-31d4-48ee-9f0a-829764269ba5",
+            "title": "角平分线的性质定理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f2ff3b57-7a7f-4613-b7d2-df2be9bf08fd",
+            "title": "角平分线的判定定理",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "db4cd992-f154-4e47-9428-fe2250a6f879",
+            "title": "角平分线性质的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5648ea04-29da-4a87-a2ba-29bfb81f4448",
+            "title": "作角平分线(尺规作图)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f926f6da-c35f-4c30-80af-33131aa64db7",
+            "title": "角平分线性质定理及证明",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "cf59fd6b-b0ac-4159-a832-6f03c82efa0f",
+    "title": "第十三章 轴对称",
+    "content": "",
+    "children": [
+      {
+        "id": "652daace-9eb8-4f50-b49d-373b910fc7d5",
+        "title": "13.1 轴对称",
+        "content": "",
+        "children": [
+          {
+            "id": "42c3c98e-11ce-4d09-84e1-c03d8df329bc",
+            "title": "13.1.1 轴对称",
+            "content": "",
+            "children": [
+              {
+                "id": "4f564b75-8941-47ec-a989-b88dc0d181e6",
+                "title": "轴对称图形的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2911ffa9-8a57-4b5d-968c-b2387a157466",
+                "title": "成轴对称的两个图形的识别",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7df2de25-d338-4b51-80a9-b4f7f5a5391d",
+                "title": "根据成轴对称图形的特征进行判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c3522c98-8531-4251-bf0d-48a6ec665c60",
+                "title": "根据成轴对称图形的特征进行求解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d6b329cc-537c-413a-a4f2-557d80534ae5",
+                "title": "台球桌面上的轴对称问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7a291d18-fa2d-435a-a393-d94f557090bd",
+                "title": "轴对称中的光线反射问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bb64be67-e035-430c-b23e-266a61f6f659",
+                "title": "折叠问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3c51d963-bf0e-4bd4-bd67-fb36085aff82",
+                "title": "求对称轴条数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f1ba88a5-93b3-45c6-81ed-af810b79f29d",
+                "title": "画对称轴",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "dee59102-253e-4818-a251-c067c3bdf040",
+            "title": "13.1.2 线段的垂直平分线的性质",
+            "content": "",
+            "children": [
+              {
+                "id": "4ea997d0-c45e-45f3-8477-bb0b56419e0b",
+                "title": "线段垂直平分线的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4e9d6502-eacb-4cfc-b780-73ded239bcc9",
+                "title": "线段垂直平分线的判定",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7f047e3c-927f-465f-9987-8777b51a50ed",
+                "title": "作已知线段的垂直平分线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f9c82350-1c97-48c1-86e4-38e005fca34f",
+                "title": "作垂线(尺规作图)",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "a8586345-2904-4e97-b1a0-877ec39e4953",
+        "title": "13.2 画轴对称图形",
+        "content": "",
+        "children": [
+          {
+            "id": "1aaa4b2e-4619-46b2-98a0-57c924e63a86",
+            "title": "画轴对称图形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d17b80cd-e7ed-4646-b2ef-517a0f78ef27",
+            "title": "设计轴对称图案",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8bbed291-5fb6-4a0c-af8b-906bcaa7cb47",
+            "title": "坐标系中的对称",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3d46d255-c453-47f0-9ec0-b33172e0a245",
+            "title": "坐标与图形变化——轴对称",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4e87d553-11e0-4c07-bdeb-9d749666cc3e",
+            "title": "车牌号码的镜面对称",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "5576608f-aad7-4b73-817d-1c90fa71f9bc",
+            "title": "钟表的镜面对称",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "79cba71a-19b3-499b-8e23-29ccb15ab87d",
+            "title": "电子钟示数的镜面对称",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "6c95657f-997b-472a-a5f0-01916f249c6d",
+            "title": "线段问题(轴对称综合题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "fa1e3171-7cf9-4573-a01d-c3d1beb4844b",
+            "title": "面积问题(轴对称综合题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ade3dd19-050f-4725-83aa-6c1f0fb23788",
+            "title": "角度问题(轴对称综合题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "eb708e26-8295-4cc8-bc78-bd8aeb03fcc5",
+            "title": "其他问题(轴对称综合题)",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "f0e1cf8b-6e8e-4776-8204-f73a2b542d88",
+            "title": "画对称轴",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1319d630-e83c-432e-b35f-259439a282fc",
+            "title": "求对称轴条数",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "aaee6421-c428-4589-834a-5b710b9424d9",
+        "title": "13.3 等腰三角形",
+        "content": "",
+        "children": [
+          {
+            "id": "7024d880-85f4-4ce9-9d27-ef8f8706b7e8",
+            "title": "13.3.1 等腰三角形",
+            "content": "",
+            "children": [
+              {
+                "id": "0d8acf14-9e6d-4746-b4f1-1497b37131de",
+                "title": "等边对等角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "db431e6e-c0c0-477e-b462-80f960af27e2",
+                "title": "根据等边对等角证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c2cdf2ab-c468-41ae-bbad-441837ea6c74",
+                "title": "三线合一",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7d1dec6c-eb34-4089-8f79-c622e2c3da8a",
+                "title": "根据三线合一证明",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "86b02a46-4e26-4553-abda-9d1dd4f9e048",
+                "title": "作等腰三角形(尺规作图)",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "841220ef-3734-4db3-8a0b-a2b1d5e8b65f",
+                "title": "等腰三角形的性质和判定",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "738ee624-caa7-4488-8f4a-83328be2109d",
+                "title": "大（小）边对大（小）角定理",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d0472ab9-508c-49a5-accf-c9a3e54a3932",
+                "title": "等腰三角形的定义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ef9603dd-cb38-45ea-96a8-b0fdfea4244d",
+                "title": "格点图中画等腰三角形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "591d4379-c21a-4484-82d4-9afde21b50f1",
+                "title": "找出图中的等腰三角形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f395160b-b519-4d69-bfb5-544616cc24c0",
+                "title": "根据等角对等边证明等腰三角形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4ba59631-1403-466e-8120-dac1ad070b53",
+                "title": "根据等角对等边证明边相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7351bba8-1e1a-4d58-8802-484b4856eb77",
+                "title": "根据等角对等边求边长",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "14a14028-32a9-4e3f-a8e5-e926cdb2700d",
+                "title": "直线上与已知两点组成等腰三角形的点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d6097a87-9f9a-4ee5-8143-c68172adea61",
+                "title": "求与图形中任意两点构成等腰三角形的点",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "6e3b64ed-0006-48f7-8068-35b59d2ee3e5",
+            "title": "13.3.2 等边三角形",
+            "content": "",
+            "children": [
+              {
+                "id": "035b9355-e778-400d-adbe-2891302e654e",
+                "title": "等边三角形的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0354866a-32a7-4900-8207-c359a4f22175",
+                "title": "等边三角形的判定",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "89dbfd42-7691-40b1-a855-ead1c9a323cc",
+                "title": "等边三角形的判定和性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e504522a-4d59-4e31-a439-a1a7f561467c",
+                "title": "含30度角的直角三角形",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "ebf484ab-e44b-4ec8-9e99-421c724c7fb5",
+        "title": "13.4 课题学习  最短路径问题",
+        "content": "",
+        "children": [
+          {
+            "id": "41480a3a-5243-4cb1-8c4c-b6df8af3edd9",
+            "title": "最短路径问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "4ba8c74b-5759-4577-9885-0f4b1ea9e0dd",
+    "title": "第十四章 整式的乘法与因式分解",
+    "content": "",
+    "children": [
+      {
+        "id": "2a442dd0-25be-4deb-a433-96c591017c01",
+        "title": "14.1 整式的乘法",
+        "content": "",
+        "children": [
+          {
+            "id": "df2f7197-e968-4297-a3f1-419118269763",
+            "title": "14.1.1 同底数幂的乘法",
+            "content": "",
+            "children": [
+              {
+                "id": "b2273e82-b99e-43a6-8d3b-4570e886cc63",
+                "title": "同底数幂相乘",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9f8fb73d-d042-4fd8-a315-bb67e9da7079",
+                "title": "同底数幂乘法的逆用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8e1c94ff-2cb0-4fa7-be56-191af52adca5",
+                "title": "用科学记数法表示数的乘法",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "dd1cc8b3-a05a-4283-a6c0-59353cde2c36",
+            "title": "14.1.2 幂的乘方",
+            "content": "",
+            "children": [
+              {
+                "id": "a23b7dc4-bbef-4e3f-aacb-f745d2198a77",
+                "title": "幂的乘方运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e9d45328-17c4-4361-b813-a5eaa1c9c9e7",
+                "title": "幂的乘方的逆用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3d13ca70-c1cd-4276-bbff-ac42ed80e9d7",
+                "title": "幂的混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "db4108ca-5000-4f44-8430-285593110ac0",
+            "title": "14.1.3 积的乘方",
+            "content": "",
+            "children": [
+              {
+                "id": "2e399ab4-5c0f-41dd-8ba2-89b248b26e00",
+                "title": "积的乘方运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "febb19a6-9a5d-4ac5-8634-d1796ffd6ede",
+                "title": "积的乘方的逆用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "e98596a5-698a-4581-a9c5-1baf68f2f629",
+            "title": "14.1.4 整式的乘法",
+            "content": "",
+            "children": [
+              {
+                "id": "d54645b8-88ce-4fa3-a0ae-9d1d48ef0625",
+                "title": "计算单项式乘单项式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "45fb7e6c-ec3f-41fc-8507-cb6e8c33e0a3",
+                "title": "利用单项式乘法求字母或代数式的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "45816f20-1577-471f-9371-f7822e66740f",
+                "title": "计算单项式乘多项式及求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3315c9b3-a99e-4987-bc1d-c24bf6e3099c",
+                "title": "单项式乘多项式的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0c8c2805-5b9c-420a-9b60-ddae43bf0b88",
+                "title": "利用单项式乘多项式求字母的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "59d1dfca-7e96-40ad-aa24-4cff41ac94be",
+                "title": "计算多项式乘多项式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6333be30-55b1-4207-9d3f-456c0ebea85d",
+                "title": "（x+p）（x+q）型多项式乘法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bcfbaa58-385f-4bcc-b4e5-34ac9ff03d71",
+                "title": "已知多项式乘积不含某项求字母的值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f7f9b8c2-67ae-4344-b43a-a020fbd6ec11",
+                "title": "多项式乘多项式——化简求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ae38d5b6-d5e3-45a2-afa3-064ee79d0233",
+                "title": "多项式乘多项式与图形面积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "462cc173-c38d-4ebc-9d4b-344306e2c571",
+                "title": "多项式乘法中的规律性问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c7f77698-3676-4891-977f-c1a5fc1e129f",
+                "title": "整式乘法混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fc2bf376-8309-4c38-814d-6eff1d146135",
+                "title": "多项式除以单项式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c5aaf481-364a-4201-b52a-fcfaf3fbbbc7",
+                "title": "整式四则混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "32ed7ae3-7812-467b-b9b5-5ac75289137d",
+                "title": "程序流程图与代数式求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "453f4e31-2db7-4450-9e1f-2733f9530de1",
+                "title": "同底数幂的除法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "11cccbf5-acd7-4712-b8c3-26c58a925167",
+                "title": "同底数幂除法的逆用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4e3dc28c-0ab0-4810-9d83-5ae4e58a30fc",
+                "title": "零指数幂",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "94af83dd-ffeb-4ab6-b3ef-1cb7361160a2",
+        "title": "14.2 乘法公式",
+        "content": "",
+        "children": [
+          {
+            "id": "edefa532-2f85-4583-bc5c-a413c22cce34",
+            "title": "14.2.1 平方差公式",
+            "content": "",
+            "children": [
+              {
+                "id": "3360754d-64e8-42a9-b955-ee45e99fd99d",
+                "title": "运用平方差公式进行运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "09160d99-9321-49e0-9e66-1af3b869c5ee",
+                "title": "平方差公式与几何图形",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "760d5054-1787-48e0-bc00-bc07f8b50791",
+            "title": "14.2.2 完全平方公式",
+            "content": "",
+            "children": [
+              {
+                "id": "60c2f70b-caf8-4a87-9ab8-d63fb4e42a25",
+                "title": "运用完全平方公式进行运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0b8db279-0d4c-48cb-aff0-5a1b5fb9cb1f",
+                "title": "通过对完全平方公式变形求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f3d06023-6dc6-4580-85b2-0eab2d960ce3",
+                "title": "完全平方公式在几何图形中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "53016fcc-e3d2-434b-9e57-4fb7608e3c96",
+                "title": "求完全平方式中的字母系数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6493ae85-e86d-4b37-a59f-bd6138f56b49",
+                "title": "完全平方式在几何图形中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "296e8477-d969-493b-a396-acaeabd507cf",
+                "title": "整式的混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "80bab9a7-670c-492c-a649-89e0537fe8cb",
+        "title": "14.3 因式分解",
+        "content": "",
+        "children": [
+          {
+            "id": "c9109d35-fd11-4a8b-9b2f-fe94d53ebe25",
+            "title": "14.3.1 提公因式法",
+            "content": "",
+            "children": [
+              {
+                "id": "2acc6c75-5714-49fa-aff3-288e39ec64ae",
+                "title": "提公因式法分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "43984752-9db6-472b-8176-5de9954b891e",
+                "title": "判断是否是因式分解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f75d419f-9cba-4711-b1e8-be3f12e36ae5",
+                "title": "已知因式分解的结果求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d869f7c5-f1e4-4e0a-bf77-c457afe95a83",
+                "title": "公因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "07711c63-2e90-4c2d-9f45-ce05a953b0c7",
+            "title": "14.3.2 公式法",
+            "content": "",
+            "children": [
+              {
+                "id": "6a7aa6a9-71ba-4bba-98c0-fe5319600952",
+                "title": "判断能否用公式法分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7524a574-bc28-4cbc-9639-c69f04371a93",
+                "title": "平方差公式分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eac6b203-b068-470e-95f9-37a3b5673771",
+                "title": "完全平方公式分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e8432de-4969-402e-b9d9-f775f745cf51",
+                "title": "综合运用公式法分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d05facc9-f3b2-41c7-b69d-461f4ca21a1e",
+                "title": "综合提公因式和公式法分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a832c1a0-5361-4f08-96e1-a0d6131bf766",
+                "title": "因式分解在有理数简算中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2fa91b84-219b-46d8-b84f-559d4ac059e8",
+                "title": "十字相乘法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "00f35859-0137-4166-b8fb-6290a2673d2e",
+                "title": "分组分解法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f84b4099-19eb-413a-b5d2-ea91416fc607",
+                "title": "因式分解的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6bdf3da7-c564-4cb3-84fb-1f3161086d0c",
+                "title": "实数范围内分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "0aef07c2-5e30-457d-a128-b2bb2404f23e",
+    "title": "第十五章 分式",
+    "content": "",
+    "children": [
+      {
+        "id": "3200fb29-6047-4d9c-945e-ba74b68433a2",
+        "title": "15.1 分式",
+        "content": "",
+        "children": [
+          {
+            "id": "113d84f6-ed00-4ee4-828c-84e8eba0c761",
+            "title": "15.1.1 从分数到分式",
+            "content": "",
+            "children": [
+              {
+                "id": "dbc3cffc-88bd-4159-984f-89b855fdf3e7",
+                "title": "分式的判断",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a3532595-04cf-46ef-ac9f-01b7768fc645",
+                "title": "分式的规律性问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cc0fa6bd-1934-402c-a057-46c0c41c16d7",
+                "title": "按要求构造分式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca34d2f9-cc96-4704-8f85-625be8dde894",
+                "title": "分式有意义的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c567fb32-eaaf-493f-a73d-dae55bd3e97a",
+                "title": "分式无意义的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6bb4242b-4209-44b3-9718-73b5eb35e775",
+                "title": "分式值为零的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "98ad5ca9-3693-47a5-add7-61ba0b78d89f",
+                "title": "分式的求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "14374dfe-ef28-48db-9faa-097f933183cf",
+                "title": "求分式值为正（负）数时未知数的取值范围",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "54a07aa2-c3f8-4a82-892e-70fe6c5424d6",
+                "title": "求使分式值为整数时未知数的整数值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "60fec551-439a-444e-b7fc-67cadc9adf59",
+            "title": "15.1.2 分式的基本性质",
+            "content": "",
+            "children": [
+              {
+                "id": "266a9a85-3071-4398-b969-bcf5036a1035",
+                "title": "判断分式变形是否正确",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f1b6e5cd-710f-4b17-a61f-1415260692b9",
+                "title": "求使分式变形成立的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bceaebf4-dfab-450d-9c1d-129ddf8e7681",
+                "title": "利用分式的基本性质判断分式值的变化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7c0eb695-4d06-42b4-89fa-b5a372a4aa8b",
+                "title": "将分式的分子分母的最高次项化为正数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7514420c-16b1-4078-b748-88a9f80db603",
+                "title": "将分式的分子分母各项系数化为整数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a4c06306-3cff-432c-a698-1cbc6242387a",
+                "title": "最简分式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dff319c0-e898-45b4-8f69-127ab9c5ccb9",
+                "title": "约分",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "40bb35e6-de26-4eff-9c00-bce7c80bcb24",
+                "title": "最简公分母",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "63848809-37b4-40a5-83c6-08157819b4d5",
+                "title": "通分",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4cac4ce3-a3eb-4ab4-b2fc-df1c96586f44",
+        "title": "15.2 分式的运算",
+        "content": "",
+        "children": [
+          {
+            "id": "8cf9d2a1-0d2d-4bdb-83f6-d8e9ca955206",
+            "title": "15.2.1 分式的乘除",
+            "content": "",
+            "children": [
+              {
+                "id": "37a532f9-91ab-41b8-8f07-850d2ee3d037",
+                "title": "分式乘法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6944705c-a481-4b65-8dac-bd5b961859cf",
+                "title": "分式除法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "359067dd-6e71-4ced-8e33-019f88e7077a",
+                "title": "分式乘除混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7c3d6e0b-c5a7-4335-8863-c1398cc03ea8",
+                "title": "分式乘方",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e1d087ba-4939-4fdd-8a04-a884e721e751",
+                "title": "含乘方的分式乘除混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "249fbc20-93f9-417c-973c-40ba40fc32bb",
+            "title": "15.2.2 分式的加减",
+            "content": "",
+            "children": [
+              {
+                "id": "8ce7c735-c4dc-48f7-a8fa-162460f870c8",
+                "title": "同分母分式加减法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9330dff2-fcab-48f1-8d12-85c3141bbd43",
+                "title": "异分母分式加减法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c79b5a35-544c-4c3e-b8c4-2252177189af",
+                "title": "整式与分式相加减",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "43ca5c3a-c869-4b86-8600-af88fce49b48",
+                "title": "已知分式恒等式，确定分子或分母",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5a21c61d-00ea-47c7-a6c3-6092be6ae89c",
+                "title": "分式加减混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a74bd5c9-cb66-4b9d-b031-f46b03ac0c4c",
+                "title": "分式加减的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a055c95c-5c4c-4856-b820-b1c9dc2523b1",
+                "title": "分式加减乘除混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b7286dbe-add5-4b8c-97a7-51d4ead27f5d",
+                "title": "分式化简求值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "97f572b6-8233-414c-8633-a6915710921c",
+                "title": "分式最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "855dac97-90b4-4f25-9570-65a9a1469cbe",
+            "title": "15.2.3 整数指数幂",
+            "content": "",
+            "children": [
+              {
+                "id": "5a6f3082-e84f-425c-b607-d241e3472f89",
+                "title": "负整数指数幂",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "36ce2a9c-d788-44f2-a4fb-3dd8b1df97bf",
+                "title": "整数指数幂的运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d24ef404-852a-40e2-9bb7-5cdb4c6ff19f",
+                "title": "用科学记数法表示绝对值小于1的数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1505c5bf-8dfb-4898-9f49-c1d6beaaab09",
+                "title": "还原用科学记数法表示的小数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cdb08a92-e2ea-4b95-9675-97401cfb5c80",
+                "title": "计算单项式除以单项式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fff3d7bf-0ae9-49db-9302-1407abffd1db",
+                "title": "用科学记数法表示数的除法",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "582a36ce-1466-4e08-b7b9-056d87cd4ecd",
+        "title": "15.3 分式方程",
+        "content": "",
+        "children": [
+          {
+            "id": "21b7a212-a09e-48b6-9b84-07c1710237fb",
+            "title": "分式方程的定义",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "35125502-36fa-4cc0-8d58-7c62e52ad26c",
+            "title": "解分式方程（化为一元一次）",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "b9f81c82-2bfd-427a-b311-c5ef79305004",
+            "title": "根据分式方程解的情况求值",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c423c2d8-c2b0-4850-bbc5-0793cd3b00e0",
+            "title": "分式方程无解问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "1fe83f07-b3da-40dc-82c8-04ff2e2038d4",
+            "title": "列分式方程",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "7989c69b-b73e-432c-979a-0abc504222a4",
+            "title": "分式方程的行程问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "653b5602-0930-4ed3-840c-32c279f7d79a",
+            "title": "分式方程的工程问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "691a8316-44a6-4b6a-b0ea-c7f70390caba",
+            "title": "分式方程的经济问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "596152b7-80d4-40d2-ab34-c60394f4a9c2",
+            "title": "分式方程和差倍分问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "cba7fbba-b213-4f76-a25c-f0c45992a90c",
+            "title": "分式方程的其它实际问题",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]

@@ -1,0 +1,2857 @@
+[
+  {
+    "id": "f97e6913-72ab-4c3a-9a7c-ca72c160be71",
+    "title": "第六章 平面向量及其应用",
+    "content": "",
+    "children": [
+      {
+        "id": "903ad8ef-2cb0-45ff-baa0-89bb9d5c4aa5",
+        "title": "6.1 平面向量的概念",
+        "content": "",
+        "children": [
+          {
+            "id": "f3b07a6c-4a76-4e88-ac00-2a28a8724177",
+            "title": "6.1.1 向量的实际背景与概念",
+            "content": "",
+            "children": [
+              {
+                "id": "80e25fd0-6faa-47fa-b3b8-4c3a55309329",
+                "title": "平面向量的概念与表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b589177b-4f1c-4fb5-b99c-0330d52ce3d1",
+            "title": "6.1.2 向量的几何表示",
+            "content": "",
+            "children": [
+              {
+                "id": "abc26936-cdd5-47c1-94f8-7bcfd33a6c22",
+                "title": "向量的模",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1db96715-96ec-449a-8ec5-8a92d990ae11",
+                "title": "零向量与单位向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "326a344c-5294-4c18-a7a6-e7b361e79fb0",
+            "title": "6.1.3 相等向量与共线向量",
+            "content": "",
+            "children": [
+              {
+                "id": "723822fd-d3f9-4ff3-8b59-5c34ea4ebb29",
+                "title": "相等向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "577442de-eb38-4191-b8aa-d889b400dd12",
+                "title": "平行向量（共线向量）",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5cb0cd79-42ff-47d0-a40d-ab7aba53ada6",
+        "title": "6.2 平面向量的运算",
+        "content": "",
+        "children": [
+          {
+            "id": "d207b508-cbac-4820-b5cc-d1f69de0c4a1",
+            "title": "6.2.1 向量的加法运算",
+            "content": "",
+            "children": [
+              {
+                "id": "89aeaefa-1785-4775-a84b-6a66bfa62545",
+                "title": "向量加法的法则",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7dd0db12-feb1-4f42-b855-78acd81926ba",
+                "title": "向量加法的运算律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "78420c52-56c0-44c1-a3fb-72f0cc7ca18c",
+                "title": "向量加法法则的几何应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "01b984db-2a28-4734-9329-4c1bd5742ddf",
+                "title": "相反向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b5eb5fcb-bc49-4180-9826-90f61d3891fa",
+            "title": "6.2.2 向量的减法运算",
+            "content": "",
+            "children": [
+              {
+                "id": "8d48032a-4062-4e93-ae8f-e7041c5ea2b4",
+                "title": "向量减法的法则",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "292d44e5-9fe3-46fd-af5f-bd11854105ac",
+                "title": "向量减法的运算律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0f1ad65b-b3b1-4e16-8a9c-54c382ca1eba",
+                "title": "向量减法法则的几何应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a154ffe8-e2c7-4133-8e40-1a198e7ea236",
+            "title": "6.2.3 向量的数乘运算",
+            "content": "",
+            "children": [
+              {
+                "id": "47a5c476-8bcb-49df-bde7-dc60d9cc9200",
+                "title": "向量数乘的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d6d19405-1ba8-4592-9800-bf82ab07b962",
+                "title": "平面向量的混合运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3fad0a72-6785-48ba-9812-40202fa732cb",
+                "title": "向量的线性运算的几何应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4879e335-0280-4aeb-a773-fee7b4f3aafe",
+                "title": "三角形的心的向量表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "790a01e6-d27b-4203-9acf-508f9610a076",
+                "title": "根据向量关系判断三角形的心",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b64fd7ef-0398-4313-9a6f-1b7680d5a598",
+            "title": "6.2.4 向量的数量积",
+            "content": "",
+            "children": [
+              {
+                "id": "80c9e39d-93ae-4f47-9d26-16861c9b01d7",
+                "title": "平面向量数量积的定义及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "999d3733-0ffc-4307-98f4-72dba34ca173",
+                "title": "平面向量数量积的几何意义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2284bc87-8f9a-45a5-bebf-ee66d5977bd4",
+                "title": "用定义求向量的数量积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "546d922b-ad6d-4582-8ecb-90c30af653b0",
+                "title": "数量积的运算律",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "af7a2d0e-2194-43b0-a909-1833a39f525d",
+                "title": "已知数量积求模",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2cad0a14-d6c8-41e3-903e-3fbd289848a7",
+                "title": "向量夹角的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e59abe2e-8973-4b60-a176-e390adc812c7",
+                "title": "垂直关系的向量表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9a8facf5-73d7-4c54-bcfc-8ff6dc097565",
+                "title": "已知模求数量积",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "37a82086-1951-4ccd-a040-abf7b3d07c66",
+                "title": "已知模求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "423c99ea-4ec4-4cc3-b77f-28ee0bb05cf1",
+                "title": "求投影向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "53b90fae-cf31-47e6-864e-aa18356cb70c",
+        "title": "6.3 平面向量基本定理及坐标表示",
+        "content": "",
+        "children": [
+          {
+            "id": "0972276c-ad7a-44c5-a3aa-f5acc73acdbd",
+            "title": "6.3.1 平面向量基本定理",
+            "content": "",
+            "children": [
+              {
+                "id": "3488318f-eeac-47ec-9565-bdef146bbbb7",
+                "title": "基底的概念及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "89e532bb-a4e6-43aa-94ad-7ec1caf8d4fb",
+                "title": "用基底表示向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eff903ab-c96d-4959-9e28-222b1ceec847",
+                "title": "平面向量基本定理的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "360e2a4a-4e50-4e30-8852-d7d6c307326c",
+                "title": "利用平面向量基本定理求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "71793fc6-5249-428d-b7f5-61d2573348a1",
+            "title": "6.3.2 平面向量的正交分解及坐标表示",
+            "content": "",
+            "children": [
+              {
+                "id": "559a11c7-6e68-4e9c-8601-4d27eac1cb02",
+                "title": "正交分解的理解",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3ca5e892-17b4-4a7d-adf4-824a67b06bfa",
+                "title": "用坐标表示平面向量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "53467510-81fa-4c2e-9665-79d8a71ec645",
+                "title": "平面向量有关概念的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "7d3ad3f1-659e-4fa1-8854-286e9ca4e494",
+            "title": "6.3.3 平面向量加、减运算的坐标表示",
+            "content": "",
+            "children": [
+              {
+                "id": "52d57f55-684f-48d0-8da0-5365d8530f45",
+                "title": "平面向量线性运算的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e8e027ee-8f73-4a4f-aaca-019445184973",
+                "title": "由向量线性运算结果求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d1e4ecb0-0009-4125-9aaf-724539b3b9fc",
+                "title": "向量坐标的线性运算解决几何问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "27bfd9bd-c1e6-4bb5-8979-0115f6988150",
+                "title": "线段的定比分点",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ddafd806-45ff-450a-8abe-a6875fb69fdc",
+                "title": "由向量线性运算解决最值和范围问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2be523dc-89ad-410a-aa61-0b3e68cce8e5",
+                "title": "利用坐标求向量的模",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a77faad7-945f-4094-b329-19b5441011b5",
+            "title": "6.3.4 平面向量数乘运算的坐标表示",
+            "content": "",
+            "children": [
+              {
+                "id": "14edd60e-d246-435e-883a-c4299fd54128",
+                "title": "由坐标判断向量是否共线",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "04fc22ac-396f-4ec0-93db-8caf59ad2a73",
+                "title": "由向量共线（平行）求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2874ee31-96f7-47fc-a59b-3bf0d2918dfb",
+                "title": "由坐标解决三点共线问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9e3b165b-7d35-4b59-80a8-ffb8b756a027",
+                "title": "由坐标解决线段平行和长度问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b53884cf-d8e8-42c4-a005-d75d35096f8b",
+            "title": "6.3.5 平面向量数量积的坐标表示",
+            "content": "",
+            "children": [
+              {
+                "id": "6b90f6c3-c6b0-487e-aed7-7a0f8df37910",
+                "title": "数量积的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2cb670bf-5803-4a2e-aa77-98c2e37c5411",
+                "title": "向量模的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0db653d6-0738-4c24-8cb0-56c1cc739418",
+                "title": "坐标计算向量的模",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e9b545d7-c140-4643-adfb-15aba2ea9897",
+                "title": "向量垂直的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "494870a8-d350-45b8-a17a-ea1b5bc7ac77",
+                "title": "利用数量积求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d475acc-5b6c-4b3c-b6fd-6703fa2722d8",
+                "title": "利用向量垂直求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4930816b-5119-4fc1-ae0f-6d6b1bfe7527",
+                "title": "向量夹角的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6412f977-9017-40d3-8a2d-1fc54a820e00",
+                "title": "已知向量垂直求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "63cd55ea-e031-44f9-a661-ff4a0cf9d3fd",
+        "title": "6.4 平面向量的应用",
+        "content": "",
+        "children": [
+          {
+            "id": "46e1796b-535d-47db-9e59-d641f1737062",
+            "title": "6.4.1 平面几何中的向量方法",
+            "content": "",
+            "children": [
+              {
+                "id": "4b78e943-bfd0-435d-964e-f1fdda9264f8",
+                "title": "用向量证明线段垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f4b957ea-7165-4e6f-870f-aba852a7a70c",
+                "title": "用向量解决夹角问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5a65596-0d86-4cae-8563-4b24274b9a5a",
+                "title": "用向量解决线段的长度问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "da1f5d2d-348e-44fb-8e87-4d691d0c9fda",
+                "title": "向量与几何最值",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1dbd7949-4a9b-4754-9310-d01bbd9cf0e0",
+                "title": "向量在几何中的其他应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7dde69de-ec8f-4195-9827-dab586ace931",
+                "title": "解析法在向量中的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d28466e9-2bd6-4fdc-8a7d-4878c89da0a5",
+            "title": "6.4.2 向量在物理中的应用举例",
+            "content": "",
+            "children": [
+              {
+                "id": "920b4b41-4581-45e4-bb54-377b33a3929e",
+                "title": "力的合成",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9c818d49-e68d-415f-b503-0f0b4440c418",
+                "title": "速度、位移的合成",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5acc00be-2184-41d2-9d95-fd54677f412b",
+                "title": "功、动量的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "beb5827a-3c21-42fb-860a-16ab2d4cd182",
+            "title": "6.4.3 余弦定理、 正弦定理",
+            "content": "",
+            "children": [
+              {
+                "id": "aebd5f59-b1bf-4452-bf5e-3e8929b74b57",
+                "title": "1.余弦定理",
+                "content": "",
+                "children": [
+                  {
+                    "id": "423f7197-0260-4e76-a96d-4ce3e7c37464",
+                    "title": "余弦定理及辨析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "65509219-c166-4e4b-971d-cd52b369ac32",
+                    "title": "余弦定理解三角形",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "7a588cc1-c2dc-4be1-b4e6-4f12de3678d6",
+                    "title": "余弦定理边角互化的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "615f4f95-6a6a-491d-9e8a-036962e3540a",
+                "title": "2.正弦定理",
+                "content": "",
+                "children": [
+                  {
+                    "id": "3734d9b5-70a7-4818-b7c5-788e3d760639",
+                    "title": "正弦定理及辨析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f99dc001-1e6b-4b00-a752-0d6e6b30ea90",
+                    "title": "正弦定理解三角形",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "dcd50d03-ab93-4795-b45e-70df5f01b60c",
+                    "title": "正弦定理判定三角形解的个数",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "21828639-b833-4e7c-b0f4-861611f7c82b",
+                    "title": "正弦定理求外接圆半径",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "dcc35859-34d0-4e5d-8766-ceadf65e2bb0",
+                    "title": "正弦定理边角互化的应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f128fee1-1d1a-4647-aef4-b8e849909ac3",
+                    "title": "三角形面积公式及其应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "9f319e7e-24ad-4cd9-a0ec-5d35ed57b2ed",
+                    "title": "射影公式",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "8e9a5325-72ac-4518-ae96-d19cfdc62026",
+                "title": "3. 余弦定理、正弦定理应用举例",
+                "content": "",
+                "children": [
+                  {
+                    "id": "7696aeb5-2cef-49f6-8f90-59ad3a947154",
+                    "title": "正、余弦定理判定三角形形状",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "38b13af5-7e93-4bd5-a082-636d83690379",
+                    "title": "证明三角形中的恒等式或不等式",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "15db1027-bddf-4287-923d-d4739f4599eb",
+                    "title": "求三角形中的边长或周长的最值或范围",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ffe18b38-6c38-4e43-bf65-8f57dd2ce235",
+                    "title": "几何图形中的计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a395976c-15d4-4004-9071-33422b40d787",
+                    "title": "求三角形面积的最值或范围",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "0340764c-016f-4daa-baa2-9c48afc77f38",
+                    "title": "正余弦定理与三角函数性质的结合应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "a5f9b574-965f-4afb-a63a-a03e17ac716f",
+                    "title": "距离测量问题",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "af6434d3-d45c-47c2-b2de-f63dbadaae2f",
+                    "title": "高度测量问题",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "e5f7c531-fd56-4467-9f46-cdecebdc0a7d",
+                    "title": "角度测量问题",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "52587629-32e5-4cac-9b2f-e888b2d1baae",
+                    "title": "正、余弦定理的其他应用",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "45c2b281-ed5c-452f-aafd-db73a3e7fa6b",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "6883b6dc-b45f-44b7-a426-3b6f52bf95df",
+    "title": "第七章 复数",
+    "content": "",
+    "children": [
+      {
+        "id": "829eb9a3-9141-4a0d-9667-be9c9f5c658f",
+        "title": "7.1 复数的概念",
+        "content": "",
+        "children": [
+          {
+            "id": "f7e2bfb1-0495-4b73-be3c-652a7a574ec8",
+            "title": "7.1.1 数系的扩充和复数的概念",
+            "content": "",
+            "children": [
+              {
+                "id": "9cc11318-b602-49f2-8f94-fc59d283478c",
+                "title": "虚数单位i及其性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c558d3f7-498e-446a-be10-f4fa65838336",
+                "title": "复数的基本概念",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5d2ada18-1ab2-44be-b7ed-1deb7192da86",
+                "title": "求复数的实部与虚部",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a58a90af-d22e-41a0-a51c-668e514cdb7d",
+                "title": "根据相等条件求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f60f9a05-b293-464d-9cf0-d1884030be4f",
+                "title": "复数的相等",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec2ca91f-2576-4f5f-80a7-6d5f2c6f4574",
+                "title": "复数的分类及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e1589cdc-48b4-440d-8ba9-7e77d8d3b645",
+                "title": "已知复数的类型求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "247b4c0d-2b75-4f2f-9d7e-683321c49234",
+            "title": "7.1. 2 复数的几何意义",
+            "content": "",
+            "children": [
+              {
+                "id": "634db65d-a75c-4186-817f-5678d0dbc631",
+                "title": "复数的坐标表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b149c090-d826-4e7f-9da4-65f068220d3e",
+                "title": "在各象限内点对应复数的特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b30cb32b-41a0-44db-826a-0655fa8aa418",
+                "title": "实轴、虚轴上点对应的复数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dd2aa75c-5f23-472e-818f-b99eb15850ad",
+                "title": "判断复数对应的点所在的象限",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "111a9983-855c-4a70-b836-f64b7adcbb8f",
+                "title": "根据复数的坐标写出对应的复数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cc8d3d1c-c78c-420f-aed5-c2694aa35d99",
+                "title": "根据复数对应坐标的特点求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d1a6bd4d-7a67-47aa-82ea-2fe6e17b6423",
+                "title": "求复数的模",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4d6a5037-252c-4466-88fe-961d20124b9c",
+                "title": "由复数模求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07bfe0d2-e293-4bcd-abd7-8bd31e85d184",
+                "title": "与复数模相关的轨迹（图形）问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "4e9e6732-efc6-4b2f-8467-d00475635962",
+        "title": "7.2 复数的四则运算",
+        "content": "",
+        "children": [
+          {
+            "id": "684b4c63-e49f-4155-90d8-0a81737a34de",
+            "title": "7.2.1 复数的加、 减运算及其几何意义",
+            "content": "",
+            "children": [
+              {
+                "id": "02f0651c-9666-4f47-98e1-2e3a86b8002e",
+                "title": "复数加减法的代数运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d190270f-913f-4d33-95a8-7f9f214347a9",
+                "title": "复数加减法几何意义的运用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8cb0a4ba-8b95-473b-8e78-04531d8590fa",
+                "title": "根据复数的加减运算结果求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "805d2f92-5a09-4cf9-8470-948e4493bcf2",
+                "title": "根据复数加减运算结果求复数特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b18e5729-7783-4030-9680-83f5dac9cecf",
+            "title": "7.2.2 复数的乘、除运算",
+            "content": "",
+            "children": [
+              {
+                "id": "17802a3a-331f-4c57-b998-abcb96981e32",
+                "title": "复数代数形式的乘法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a884b788-6a40-4a3b-8eb1-eb43e7b24cdf",
+                "title": "复数的乘方",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c6911810-419c-44a1-b7f3-758dd2d46343",
+                "title": "复数范围内分解因式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7db1e680-c376-4bab-a473-e6cc8bb91771",
+                "title": "复数范围内方程的根",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "56d9c0c1-52bb-437f-b922-5923631322cf",
+                "title": "复数的除法运算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fbc451cf-9f35-4421-b7d0-5603b1715231",
+                "title": "根据复数乘法运算结果求复数的特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8f3110b7-0250-4ab9-85ca-a287eb07b813",
+                "title": "根据复数乘法运算结果求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4db6a166-2388-4550-9b93-bdabfacbab6a",
+                "title": "根据除法运算结果求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a06a502f-53cb-460c-884a-a4df90b7a496",
+                "title": "根据除法运算结果求复数特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fbcfb7f2-b01f-4e7b-b7f3-3c28a9fc8996",
+                "title": "共轭复数的概念及计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "68186ac8-76bc-4d83-bf48-1846e2c08129",
+                "title": "求共轭复数的复数特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6369928b-9a17-4c1b-9b8a-4c449500b1e2",
+                "title": "复数的平方根与立方根",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "5e858275-8456-4024-be12-6b20b4df3851",
+        "title": "7.3 * 复数的三角表示",
+        "content": "",
+        "children": [
+          {
+            "id": "56715cb0-213f-4be2-977c-ceb0b3622499",
+            "title": "7.3.1 复数的三角表示式",
+            "content": "",
+            "children": [
+              {
+                "id": "b88d1efb-7c4e-44ba-84ff-b71487369d6b",
+                "title": "复数的三角表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "bd821735-83b1-4fed-8990-869b16d3edeb",
+            "title": "7.3.2 复数乘、除运算的三角表示及其几何意义",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "abb075e0-7f1c-43f8-a6bd-878ea91189c2",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "43947676-94bf-4300-b4b8-6852a8b650fe",
+    "title": "第八章 立体几何初步",
+    "content": "",
+    "children": [
+      {
+        "id": "0246460c-3cf6-4798-8ed3-00a0c2e3e3f3",
+        "title": "8.1 基本立体图形",
+        "content": "",
+        "children": [
+          {
+            "id": "31c9c843-fcc7-48da-911f-6e245a8de381",
+            "title": "1. 棱柱",
+            "content": "",
+            "children": [
+              {
+                "id": "7fe5fb40-b0da-4a67-b2ad-5ca627f23ad7",
+                "title": "棱柱的结构特征和分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c25a05bf-2e11-4636-888b-b7190186728d",
+                "title": "判断几何体是否为棱柱",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6fc9f6bd-324c-409d-897c-9dbe401ae6ca",
+                "title": "正棱柱及其有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "94474284-9de6-41a1-b0a2-f16be8e8dce0",
+                "title": "棱柱的展开图及最短距离问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5df53c98-eb82-4475-b879-bc0abc85142d",
+                "title": "判断正方体的截面形状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ac4763c0-d91c-4d8a-b04e-34029ad6c908",
+                "title": "棱柱及其有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "306f02c9-8af9-4f0b-b52d-13b63001dbe9",
+            "title": "2. 棱锥",
+            "content": "",
+            "children": [
+              {
+                "id": "0bdca2c4-5063-4157-bb5e-b7ba41302f9b",
+                "title": "棱锥的结构特征和分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "aa4a5ff8-c6ff-4304-98c4-f852987ddcfe",
+                "title": "判断几何体是否为棱锥",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2078ff79-984b-44d5-9ca7-27803a3a5a12",
+                "title": "正棱锥及其有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bc4f09a8-caee-4a5d-aac6-8426210c812c",
+                "title": "棱锥的展开图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0280fb69-2be5-4ed5-8fb0-62cb58ea52c0",
+                "title": "棱锥中截面的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "5b4234e5-4116-4693-bed0-ca6e1900ee72",
+            "title": "3. 棱台",
+            "content": "",
+            "children": [
+              {
+                "id": "0a5ad06c-f4df-453b-b5b5-a5a63869be85",
+                "title": "棱台的结构特征和分类",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "777de07e-ea12-47cb-8478-fcc060e8f57e",
+                "title": "判断几何体是否为棱台",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1e295cac-ced3-4a4c-b9f2-ba0da8628a70",
+                "title": "棱台中截面的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4a0f16fb-604c-4faa-a5dd-8977439a956a",
+                "title": "正棱台及其有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61a3dcf6-53e1-4e39-9538-717c80ae7190",
+                "title": "棱台的展开图",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c948fcb6-6921-4d37-b4cb-38838d0dac73",
+            "title": "4. 圆柱",
+            "content": "",
+            "children": [
+              {
+                "id": "ac46e0cb-01a6-46fd-a4ab-025226ca5daf",
+                "title": "圆柱的结构特征辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "99bd6096-b4f0-43dc-937f-e535432a8e53",
+                "title": "圆柱轴截面的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ac009229-e8ea-476c-b50d-e3d9edfe13c8",
+                "title": "圆柱的展开图及最短距离问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "657e8356-4bf6-4479-b92e-80aa32f0948e",
+            "title": "5. 圆锥",
+            "content": "",
+            "children": [
+              {
+                "id": "ff454a18-9060-4fd5-91ea-f4d41ce509e9",
+                "title": "圆锥的结构特征辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d856fbb3-26f3-48e1-b5bf-a94a57e57a8b",
+                "title": "判断几何体是否为圆锥",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b735c3ce-ab10-40f0-a482-1fcc476fb2e4",
+                "title": "圆锥中截面的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "58d113c2-7abe-4349-8163-5f6db46612ca",
+                "title": "圆锥的展开图及最短距离问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "6daedd9b-3ba6-4cb5-bc83-95b07fbe47b1",
+            "title": "6. 圆台",
+            "content": "",
+            "children": [
+              {
+                "id": "f75cf82e-1129-4243-bb67-94cc138c846d",
+                "title": "圆台的结构特征辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a344c5a2-8979-4040-ab4a-e05e6b351c08",
+                "title": "判断几何体是否为圆台",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4a5660af-6829-4970-a029-f80e9155cc0a",
+                "title": "圆台的展开图",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d81d0413-e388-4a7e-aaa2-8a437faf9dad",
+            "title": "7. 球",
+            "content": "",
+            "children": [
+              {
+                "id": "a011c076-2da9-4914-ae2d-55c2185cde70",
+                "title": "球的结构特征辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7197bc35-d2e8-4a41-9f6e-c28546edb2bb",
+                "title": "球的截面的性质及计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ae7a6697-7cf6-4082-a79d-804f3dbcfded",
+                "title": "求球面距离",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7d623044-6d87-45d1-ac2f-3ed4b1c38ec2",
+                "title": "直线与球、平面与球的位置关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a284b85e-1fec-4ca9-b77c-6b87d4f7009d",
+            "title": "8. 简单组合体",
+            "content": "",
+            "children": [
+              {
+                "id": "b928293d-e45b-4e35-9a33-64489343469c",
+                "title": "组合体的构成",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0ec2dda1-2451-4a9f-accc-c1ab54a52c26",
+                "title": "组合体表面两点间的最短路径",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "febe0a79-272d-49b4-9ed8-30a930b1b366",
+                "title": "组合体截面的形状",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ec189cf3-2625-4914-b68e-00d3df1c9d27",
+                "title": "组合体的切接问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "2bf13077-473b-4eee-9a63-baae76e151e0",
+        "title": "8.2 立体图形的直观图",
+        "content": "",
+        "children": [
+          {
+            "id": "f5ef22f0-e692-4806-ad40-b6060cd337a7",
+            "title": "斜二测画法辨析",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "c308648c-c846-429e-9d54-2747841e05cf",
+            "title": "斜二测法画平面图形的直观图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "37eb4d2b-8ae7-45f9-865b-ba5191f2be7a",
+            "title": "斜二测法画立体图形的直观图",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "3c527af4-6605-4b4d-87f8-7b47508ed7e0",
+            "title": "由直观图还原几何图形",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "ec31c0c7-a3cf-431e-83d1-e2f96bb848f7",
+            "title": "斜二测画法中有关量的计算",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "dcec4023-dd14-454f-bbee-de5ad46d0868",
+        "title": "8.3 简单几何体的表面积与体积",
+        "content": "",
+        "children": [
+          {
+            "id": "cfb979f0-8076-472a-a423-1a4425b51a95",
+            "title": "8.3.1 棱柱、棱锥、棱台的表面积和体积",
+            "content": "",
+            "children": [
+              {
+                "id": "45f76b8a-15b0-485b-9d38-4c7be124544a",
+                "title": "1. 棱柱、棱锥、棱台的表面积",
+                "content": "",
+                "children": [
+                  {
+                    "id": "869a1644-edd3-4201-ae72-f308ae21d1fb",
+                    "title": "棱柱表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "6ec39440-18a8-488e-ae43-a14bd43e3bc2",
+                    "title": "棱锥表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "45e956d7-d996-466f-8050-818df81c660f",
+                    "title": "棱台表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "1dccd268-d5dd-4da1-9e54-10881ce73e49",
+                "title": "2. 棱柱、棱锥、棱台的体积",
+                "content": "",
+                "children": [
+                  {
+                    "id": "29773e3e-685d-4787-bd38-d672c332170f",
+                    "title": "柱体体积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f7b9d8d9-7ac3-473e-be7e-dd529b82047b",
+                    "title": "锥体体积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "21868d85-ad86-470f-8804-342b1533db70",
+                    "title": "台体体积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "10f9e46f-3924-414a-a30f-705b4031dc70",
+            "title": "8.3.2 圆柱、 圆锥、圆台、球的表面积和体积",
+            "content": "",
+            "children": [
+              {
+                "id": "c7086260-6f70-42f9-b799-b2e491fd8fa1",
+                "title": "1. 圆柱、圆锥、圆台的表面积和体积",
+                "content": "",
+                "children": [
+                  {
+                    "id": "4901b35b-2422-43f0-913f-45ed9e3a123d",
+                    "title": "圆柱表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "77dbdad9-b429-46e6-a119-78f069299c41",
+                    "title": "圆锥表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "dc9a6903-8e09-45cb-bbb6-b008ab490df2",
+                    "title": "圆台表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "d4c5fa7e-2c06-4eab-90ad-1eb35716585d",
+                "title": "2. 球的表面积和体积",
+                "content": "",
+                "children": [
+                  {
+                    "id": "24d0bc38-4117-4124-9f57-a6dff4e7575d",
+                    "title": "球的体积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "78463857-3aed-4744-9bba-5698d013211a",
+                    "title": "球的表面积的有关计算",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "0b0f1cc5-e9db-4879-9846-ba3cf6b21084",
+        "title": "8.4 空间点、直线、平面之间的位置关系",
+        "content": "",
+        "children": [
+          {
+            "id": "47d63fa2-75ea-4e78-ac99-b04539271547",
+            "title": "8.4.1 平面",
+            "content": "",
+            "children": [
+              {
+                "id": "e1214959-54bf-4afa-9144-a408912c41eb",
+                "title": "平面的概念及其表示",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dadde603-a965-480a-8fc7-f5378903ae6d",
+                "title": "空间位置关系的画法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "76a88024-2467-49cd-acb2-5b91da13d571",
+                "title": "平面分空间的区域数量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61112102-5577-47bc-a7bf-770c74051c1f",
+                "title": "平面的基本性质及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f9531d2a-db62-414c-a819-63c25624d184",
+                "title": "点（线）确定的平面数量问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b4282108-7f99-4503-b292-84b6fd17eb48",
+                "title": "空间中的点（线）共面问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6d62d092-41cf-417b-87a5-70da4c528bac",
+                "title": "空间中的点共线问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f27c1126-eec6-422f-b561-0a6e27f46ee3",
+                "title": "空间中的线共点问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2e637228-cd0a-41ea-a515-c03ec410d865",
+                "title": "由平面的基本性质作截面图形",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a960380f-fb9c-4fbf-b0d9-9830ccfc3e15",
+                "title": "平面的基本性质的有关计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "139484d9-5a74-40ee-a500-2c194b5310f0",
+            "title": "8.4.2 空间点、直线、平面之间的位置关系",
+            "content": "",
+            "children": [
+              {
+                "id": "9b298baa-458f-4cb5-b31d-de3568bdc71a",
+                "title": "1. 空间中直线与直线的位置关系",
+                "content": "",
+                "children": [
+                  {
+                    "id": "ac104a6e-44e2-484d-b763-432a3fb81a35",
+                    "title": "异面直线的概念及辨析",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4b4ef25e-b766-433c-b101-1faa6e6716ed",
+                    "title": "异面直线的判定",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "ce03d6ec-7735-489d-843e-c299a3f23c0b",
+                    "title": "证明异面直线垂直",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "9627eddf-3c89-4392-bb55-7b2393e13c4b",
+                "title": "2. 空间中直线与平面的位置关系",
+                "content": "",
+                "children": [
+                  {
+                    "id": "1c08677c-ff3c-479d-9482-58bb9b8dfdca",
+                    "title": "判断图形中的线面关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "69641550-f656-44ef-87a9-401a6c8bdb27",
+                    "title": "用定义证明线面关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "f493baf3-987e-4090-af2d-f8b210f37a77",
+                    "title": "线面关系有关命题的判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              },
+              {
+                "id": "d6e001cc-ae85-41ee-a6ec-956448b0514e",
+                "title": "3. 空间中平面与平面的位置关系",
+                "content": "",
+                "children": [
+                  {
+                    "id": "66226078-6cb1-4c43-8f8d-e8d1720acbbe",
+                    "title": "判断图形中的面面关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "06493374-cc95-44c2-abc7-f18037485635",
+                    "title": "用定义证明面面关系",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  },
+                  {
+                    "id": "4d65af83-f74d-4302-a70b-76b856072d11",
+                    "title": "面面关系有关命题的判断",
+                    "content": "",
+                    "children": [],
+                    "level": 4
+                  }
+                ],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8af01a1b-8102-4b1f-9351-12fef52ccd98",
+        "title": "8.5 空间直线、平面的平行",
+        "content": "",
+        "children": [
+          {
+            "id": "5df35376-3795-467f-94d5-66c11b0cb367",
+            "title": "8.5.1 直线与直线平行",
+            "content": "",
+            "children": [
+              {
+                "id": "e9092d3e-efa6-4f5f-95c7-5f9c7861f24b",
+                "title": "等角定理及其辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "99e5a347-620c-42ce-b038-09d7e096bc1f",
+                "title": "等角定理的应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "26fbc62e-2fd8-476b-a59d-1ccaf210cf68",
+            "title": "8.5.2 直线与平面平行",
+            "content": "",
+            "children": [
+              {
+                "id": "1178bc74-e6d1-4840-abd6-25e4352cfc60",
+                "title": "判断线面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b2dd8b90-36e4-46e0-b26b-0b226cd31a1e",
+                "title": "证明线面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "251b41a5-6ea3-47f0-beda-3265ea68f83b",
+                "title": "补全线面平行的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "448323e4-7334-4598-a39e-251abb2a315c",
+                "title": "线面平行的性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "33430b46-5f46-40a8-946b-fea45f2ccf28",
+                "title": "由线面平行的性质判断线段比例或点所在的位置",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "917b2ec6-bc9d-4f35-b838-1eb66a8c2ed1",
+                "title": "由线面平行求线段长度",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "68f142f1-dcad-442e-ad06-5868bad44581",
+            "title": "8.5.3 平面与平面平行",
+            "content": "",
+            "children": [
+              {
+                "id": "312e4c3f-df38-4683-ad4b-77d5c017a3d2",
+                "title": "判断面面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2934d622-2e59-4def-b96e-8dca917f42e4",
+                "title": "证明面面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f033e286-4b79-4db4-869b-3709216530b4",
+                "title": "补全面面平行的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9a55303b-4d2e-4101-83b5-96001721f3b7",
+                "title": "面面平行证明线线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "64999a93-8434-4e4d-b2b5-00729e3fdc91",
+                "title": "面面平行证明线面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5cd15fee-bd42-44bc-99f5-1575e89ab189",
+                "title": "空间平行的转化",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "47a2fd9e-be28-4beb-a4b2-04d46ddfb313",
+                "title": "面面平行证明面面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "8fccce04-c57e-4f7c-9895-400aebad3cf3",
+        "title": "8.6 空间直线、平面的垂直",
+        "content": "",
+        "children": [
+          {
+            "id": "63fbe21e-f128-49e4-8dff-1d1ea4654a77",
+            "title": "8.6.1 直线与直线垂直",
+            "content": "",
+            "children": [
+              {
+                "id": "386665ae-7af2-4641-8160-a4341d345e16",
+                "title": "异面直线所成的角的概念及辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca7a20fa-eaeb-4053-a856-e39c255bd679",
+                "title": "证明异面直线垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "010845d8-88c4-428d-bc84-f2b427932686",
+                "title": "求异面直线所成的角",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "68f9a15a-ef6a-461d-aed5-5d485e9e27c9",
+                "title": "由异面直线所成的角求其他量",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ffb878b2-dd31-481e-b553-53aeb2b463f6",
+            "title": "8.6.2 直线与平面垂直",
+            "content": "",
+            "children": [
+              {
+                "id": "c4cf0025-3c72-46f7-9736-410717f3f487",
+                "title": "判断线面是否垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "79f2d2e1-01e7-47d6-9881-5595392c18d3",
+                "title": "证明线面垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "24a88aad-f476-4ce9-a92a-d282eeb20a0c",
+                "title": "补全线面垂直的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "920dd82a-b216-4fa4-9ce5-f983b10e8c2c",
+                "title": "线面垂直证明线线平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6330f346-6ff8-4b17-b60f-9b854ab267f8",
+                "title": "线面垂直证明线线垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5097df5a-852e-4955-acca-7ea71a96e94d",
+                "title": "线面垂直证明面面平行",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "d55d9f6e-91ed-435d-ab1f-07ee5dec8833",
+            "title": "8.6.3 平面与平面垂直",
+            "content": "",
+            "children": [
+              {
+                "id": "37a3629d-832c-4474-b9f1-51ef46335eca",
+                "title": "判断面面是否垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a5c032a6-1f92-4391-9cc9-d03f48f6776e",
+                "title": "证明面面垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "32976ee1-468d-4cc3-9a59-bad071ce5859",
+                "title": "补全面面垂直的条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "8bb918b9-43d6-4eb3-ba1c-32bcacf0204e",
+                "title": "面面垂直证线面垂直",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "061da9c7-73ed-4fa8-82fa-9591b39c8b46",
+                "title": "空间垂直的转化",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "12a1b862-8e4d-4de7-81ef-2f11ae43af65",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "4b67d237-5aa8-42c4-9d79-de23ea92b313",
+    "title": "第 九 章 统计",
+    "content": "",
+    "children": [
+      {
+        "id": "16c0a590-3fea-4c19-8b94-c824e247af4f",
+        "title": "9.1 随机抽样",
+        "content": "",
+        "children": [
+          {
+            "id": "2c8738a7-bda4-4f84-9ce9-e4e7d7e87402",
+            "title": "9.1.1 简单随机抽样",
+            "content": "",
+            "children": [
+              {
+                "id": "5d75523f-6027-481b-af94-50dd29deb0be",
+                "title": "简单随机抽样的特征及适用条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca7905e3-d4ea-4738-98ac-834c27148537",
+                "title": "抽签法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5ba42534-d376-41f3-9675-255b2591fd72",
+                "title": "随机数表法",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b362683e-5000-485d-9d6a-38ecc9b6af96",
+                "title": "简单随机抽样的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e6971e2-a60d-4e4a-b64a-9361445dcb17",
+                "title": "简单随机抽样估计总体",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "b8309922-9c81-4a4b-a5ce-614b02ddb291",
+            "title": "9.1.2 分层随机抽样",
+            "content": "",
+            "children": [
+              {
+                "id": "84c9b626-79eb-4c68-9e9d-4b645a911d8b",
+                "title": "分层抽样的特征及适用条件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "952620a2-e345-411d-b89a-d188767c45c5",
+                "title": "抽样比、样本总量、各层总数、总体容量的计算",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ccca77dd-15ce-47c6-a766-e9a6fd147a24",
+                "title": "分层抽样的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0a0d0802-d1d7-4883-9a28-827a4b4c0c43",
+                "title": "设计分层抽样过程",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a3540c65-74fc-40c0-9f0f-11af8e2c0b42",
+            "title": "9.1.3  获取数据的途径",
+            "content": "",
+            "children": [
+              {
+                "id": "6e4c3dec-bd9d-449f-ab00-535e236b2566",
+                "title": "普查与抽样的定义辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "9434bc71-a72e-43d2-bc9d-0d8cace20f24",
+                "title": "普查与抽样的合理选择",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c34d3a65-c7d0-4f5d-aed3-e71df77948fd",
+                "title": "总体与样本",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "06c112dc-a8f9-4253-a6ab-0b99cbe22d40",
+        "title": "9.2 用样本估计总体",
+        "content": "",
+        "children": [
+          {
+            "id": "2e7974ee-a013-45e1-86b5-c3d20ac4355c",
+            "title": "9.2.1 总体取值规律的估计",
+            "content": "",
+            "children": [
+              {
+                "id": "e66d8d26-fe44-4108-bbee-a87aaf96e424",
+                "title": "补全条形统计图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7f27bdcc-5d08-42fe-bd91-63faa215f899",
+                "title": "根据条形统计图解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4b5efbdd-98a7-4458-8115-9517b2b940d4",
+                "title": "补全折线统计图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "52b43f37-b5e0-4a8a-9bfe-9b083652e99b",
+                "title": "根据折线统计图解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f37f571b-5728-4409-828b-75a36455f534",
+                "title": "补全扇形统计图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "45e955dd-ffea-417b-8150-237b4e251270",
+                "title": "根据扇形统计图解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4b4a4702-f8f5-43ea-a3e5-203646e1ae83",
+                "title": "确定极差、组数与组距",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "313f5b5a-5e7e-4780-9941-959999fcbecf",
+                "title": "绘制频率分布表",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ca0985f0-3cb8-4ae3-b572-30c8abcf54c8",
+                "title": "补全频率分布表",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "56a9d864-804b-4b1c-a44f-41c7aba57ff0",
+                "title": "根据频率分布表解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b390172c-fa0b-4390-adbc-2fa285eea41e",
+                "title": "绘制频率分布直方图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3eb74c3a-b16b-476d-b69a-69d87f7a8f34",
+                "title": "补全频率分布直方图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "14cb14c2-86a3-42b3-b969-51ba524434c0",
+                "title": "由频率分布直方图计算频率、频数、样本容量、总体容量",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "363a4a2b-9b8a-480c-a2f4-949a2bb96b43",
+                "title": "频率分布直方图的优缺点与适用对象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "316a4413-c8dc-4252-bf98-9ab5b7ff926f",
+                "title": "频率分布直方图的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "d80c42b9-571d-4e76-90a1-351356b562cd",
+                "title": "频率分布拆线图的优缺点与适用对象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "07aaae3b-0ebf-459e-91f7-f733c1a643b0",
+                "title": "绘制频率分布折线图",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "50966e78-86d5-4249-8556-92e806e57b86",
+                "title": "用总体密度曲线分析总体分布",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "e5959149-4712-4360-b9c8-e7ccff815769",
+                "title": "频率分布折线图的实际应用",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "ff2f884f-5d25-43cc-9193-0468279d4ee8",
+            "title": "9.2.2 总体百分位数的估计",
+            "content": "",
+            "children": [
+              {
+                "id": "b5303f9b-8515-4a81-b545-a1d61d0f2e61",
+                "title": "总体百分位数的估计",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "a49d367d-2690-4cc4-9212-a661cebdd89f",
+            "title": "9.2.3 总体集中趋势的估计",
+            "content": "",
+            "children": [
+              {
+                "id": "cd596e63-a5a4-4316-8ec7-5c11482a3119",
+                "title": "计算几个数的众数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4184a4ea-d478-4509-ba40-e269205274d8",
+                "title": "根据众数计算参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "aedb47f8-8f68-4317-ba87-55ff9470f098",
+                "title": "由茎叶图计算众数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5adcb527-cb86-44ac-a53c-27a6fbf99d21",
+                "title": "用众数的代表意义解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "11b52eda-644a-4f2e-a3fb-cb75f985071d",
+                "title": "根据频率分布直方图计算众数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "23b0be24-c8c3-40c0-b998-6d24ec848515",
+                "title": "计算几个数的中位数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ea4eb81e-6aa4-4a42-9e52-0627c0e33ee0",
+                "title": "由频率分布直方图估计中位数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "33059767-9a78-4915-8c96-f7bbec9d660d",
+                "title": "由茎叶图计算中位数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7eca7d6e-7c05-4061-9982-05404d097ae3",
+                "title": "用中位数的代表意义解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "131a5202-557f-42c9-8868-037145e7cc97",
+                "title": "计算几个数的平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ef3e6480-4e87-4522-be03-fc0cf0a1de53",
+                "title": "根据平均数求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "71aef0e1-f7bd-4b0a-985f-e9364a48fbd3",
+                "title": "平均数的和差倍分性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fc85237a-7098-448b-b3d7-0d763c52d02c",
+                "title": "由频率分布直方图估计平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c57f2cf4-61fa-45a5-8e36-a030ed8fdc8e",
+                "title": "由茎叶图计算平均数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3ee14024-6fad-4a29-b5d8-d1100801a54d",
+                "title": "用平均数的代表意义解决实际问题",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1345cc96-57ee-40de-b5ce-448e46245e95",
+                "title": "众数、平均数、中位数的比较",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c5c4ef4f-190e-4099-8422-793ce57c92cb",
+            "title": "9.2.4 总体离散程度的估计",
+            "content": "",
+            "children": [
+              {
+                "id": "ed24b05f-3a44-467e-981d-6391ac35fb6e",
+                "title": "计算几个数据的极差、方差、标准差",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "494e126c-c929-4c43-b453-bd99877bc818",
+                "title": "根据方差、标准差求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "48387e11-51c6-43c7-91b7-fe5489c641da",
+                "title": "各数据同时加减同一数对方差的影响",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "1174c59d-6d0a-4d1d-b56d-fd808bd3f358",
+                "title": "各数据同时乘除同一数对方差的影响",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "77601751-3d71-4241-8589-c9995a71e9d4",
+                "title": "用方差、标准差说明数据的波动程度",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2f23afed-0c0a-4c6a-9b56-d783f135258e",
+                "title": "估计总体的方差、标准差",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "22e20855-7980-403a-9952-59baa14d45d0",
+                "title": "计算频率分布直方图中的方差、标准差",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "847886db-6b2b-41da-b939-ea3972309740",
+        "title": "9.3 统计案例 公司员工的肥胖情况调查分析",
+        "content": "",
+        "children": [],
+        "level": 1
+      },
+      {
+        "id": "3390147f-7bc1-46a0-b54c-8fb250ad308f",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  },
+  {
+    "id": "52707b45-c117-4b9f-99f7-6aa5c3f6bc97",
+    "title": "第十章 概率",
+    "content": "",
+    "children": [
+      {
+        "id": "0ec382bb-46d9-4c38-a787-55b6d65f537f",
+        "title": "10.1 随机事件与概率",
+        "content": "",
+        "children": [
+          {
+            "id": "9af181a7-5a61-4e3c-a488-c0d0b3b92518",
+            "title": "10.1.1 有限样本空间与随机事件",
+            "content": "",
+            "children": [
+              {
+                "id": "c345ebf2-a6d0-4ac7-8a36-da8b55bd0971",
+                "title": "随机现象",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "cb0ee2e4-f3e4-4079-a5db-a7f93b4226f0",
+                "title": "判断事件是否是随机事件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "6e2d58eb-8e83-43af-bf43-1e96e592a79c",
+                "title": "确定性事件与随机事件的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "bf499522-55c8-4428-b3c5-2ea90fff9925",
+                "title": "游戏的公平性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "2f11e090-7e98-4a51-9b85-ff17ef3d1de7",
+                "title": "决策中的概率思想",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "694761eb-edb2-4844-8280-385fe9c3a049",
+                "title": "天气预报中的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "3e20e9fd-ba3c-4b98-8462-d2a01aa243ce",
+                "title": "抽奖、彩票的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "a1b76759-a55c-4d08-b7d7-d63f62bc7afb",
+                "title": "其他问题中的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c93fb7af-fd9a-4761-80c4-1496c80d5b1f",
+            "title": "10. 1.2 事件的关系和运算",
+            "content": "",
+            "children": [
+              {
+                "id": "8c783fc9-08fc-4f12-801f-5c60b35fb5dd",
+                "title": "确定所给事件的包含关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "76212a15-5daf-4113-b086-83e8e322aa10",
+                "title": "事件的运算及其含义",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "eebb34dd-0ca2-445a-8ac0-e1f7be0cdffc",
+                "title": "概率的基本性质",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "3a7328f3-418c-4b38-84a5-544a0c34df31",
+            "title": "10.1.3 古典概型",
+            "content": "",
+            "children": [
+              {
+                "id": "43d70261-5436-496c-846f-497696acd2f7",
+                "title": "判断事件是否为基本事件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ceb0e727-1cce-40b7-903e-463dcd3e066c",
+                "title": "写出基本事件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "567f42ae-176e-4234-bcd4-d8c8a1512980",
+                "title": "古典概型的特征",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "f55bf75b-489d-465b-882d-6c5377e2af2c",
+                "title": "计算古典概型问题的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ef92cc9b-d23b-4863-bf82-24c39594d7ed",
+                "title": "有放回与无放回问题的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7f897175-9fe0-4076-8d0c-c3ccf8e637e8",
+                "title": "根据古典概型的概率求参数",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "623b2711-1ef7-44dc-b7a3-a34917aeaf44",
+                "title": "利用概率的加法公式计算古典概型的概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c82ab236-c7a0-4411-9426-6f5fa7740b23",
+            "title": "10.1.4 概率的基本性质",
+            "content": "",
+            "children": [
+              {
+                "id": "e98aa8f7-ab2f-40e8-9158-318eb77fda09",
+                "title": "判断所给事件是否是互斥关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "61cd88b9-2b03-4c6d-b0e5-9ee95182d360",
+                "title": "互斥事件的概率加法公式",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b22b4d88-0d86-458a-8c1a-d1a8065bffcb",
+                "title": "利用互斥事件的概率公式求概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "5737861f-e250-4836-bb83-b0d3e4b2040d",
+                "title": "互斥事件与对立事件关系的辨析",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "dbe9f1ec-e814-448a-ba87-61092c79d1c7",
+                "title": "确定所给事件的对立关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "b06a3c6f-bbd0-4800-9a10-132d4e56d465",
+                "title": "写出某事件的对立事件",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "fca92a50-5505-4997-bcae-acb1bba555bd",
+                "title": "利用对立事件的概率公式求概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "f3cb1bf4-354b-43f2-be7e-0233525fc083",
+        "title": "10.2 事件的相互独立性",
+        "content": "",
+        "children": [
+          {
+            "id": "b23bd423-f3b8-42d1-b9e9-5db4559e3b17",
+            "title": "相互独立事件与互斥事件",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "d0999674-bbc0-4958-a71c-0093043d896f",
+            "title": "独立事件的乘法公式",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "4c5b49c8-a160-482d-b514-c064fa2bdacd",
+            "title": "独立事件的实际应用",
+            "content": "",
+            "children": [],
+            "level": 2
+          },
+          {
+            "id": "8a029368-ac18-4bd8-9e48-75bb1c85c5e7",
+            "title": "独立事件的判断",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "1f119c58-07ad-4bcc-be78-16386defce6b",
+        "title": "10.3 频率与概率",
+        "content": "",
+        "children": [
+          {
+            "id": "776615c7-2f35-4914-9d29-d3a248f2dfb7",
+            "title": "10.3.1 频率的稳定性",
+            "content": "",
+            "children": [
+              {
+                "id": "a8e1ea49-32fe-4a3d-8ba9-6256cf291648",
+                "title": "计算频率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "7e273a8e-dcf5-4d39-ab89-2040d20a97f7",
+                "title": "辨析概率与频率的关系",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ed7e07b8-7522-4a75-b840-bbed33673627",
+                "title": "用频率估计概率",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "c687a4c1-2fea-4d21-94fd-98598f4a1c40",
+                "title": "游戏的公平性",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "0e11be85-01f5-4fff-bbba-037c663e386b",
+                "title": "决策中的概率思想",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "03d2a77c-d8ef-46fd-822a-ba7ba195e806",
+                "title": "天气预报中的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "4dbf647b-21f3-4629-b78a-3102058fa939",
+                "title": "抽奖、彩票的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              },
+              {
+                "id": "ed42a998-2efe-42e4-9bf3-dadf4d9ef85d",
+                "title": "其他问题中的概率解释",
+                "content": "",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "id": "c6363469-c94c-4d1a-a662-a4409e82328b",
+            "title": "10.3.2 随机模拟",
+            "content": "",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      },
+      {
+        "id": "35d00147-4de7-4648-82ba-72c7490d60b8",
+        "title": "本章综合",
+        "content": "",
+        "children": [],
+        "level": 1
+      }
+    ],
+    "level": 0
+  }
+]
